@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "Despre Rețea">
+<!ENTITY aboutNetworking.warning               "Acesta este foarte experimental. Nu utilizați fără supravegherea unui specialist.">
+<!ENTITY aboutNetworking.showNextTime          "Arată acest avertisment data viitoare">
+<!ENTITY aboutNetworking.ok                    "Ok">
+<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.sockets               "Socketuri">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "Reîmprospătează">
+<!ENTITY aboutNetworking.autoRefresh           "Autoreîmprospătare la fiecare 3 secunde">
+<!ENTITY aboutNetworking.hostname              "Nume gazdă">
+<!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Activă">
+<!ENTITY aboutNetworking.idle                  "Fără activitate">
+<!ENTITY aboutNetworking.host                  "Gazda">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Trimise">
+<!ENTITY aboutNetworking.received              "Primite">
+<!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.addresses             "Adrese">
+<!ENTITY aboutNetworking.expires               "Expirate (secunde)">
+<!ENTITY aboutNetworking.messagesSent          "Mesaje trimise">
+<!ENTITY aboutNetworking.messagesReceived      "Mesaje primite">
+<!ENTITY aboutNetworking.bytesSent             "Byți trimiși">
+<!ENTITY aboutNetworking.bytesReceived         "Byți primiți">

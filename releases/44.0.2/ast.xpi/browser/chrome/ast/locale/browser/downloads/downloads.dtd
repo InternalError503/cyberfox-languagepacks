@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY downloads.title "Descargues">
+<!ENTITY cmd.pause.label "Posar">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Continuar">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "Encaboxar">
+<!ENTITY cmd.cancel.accesskey "E">
+<!ENTITY cmd.show.label "Abrir la carpeta que lu contién">
+<!ENTITY cmd.show.accesskey "b">
+<!ENTITY cmd.showMac.label "Amosar en Finder">
+<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.retry.label "Reintentar">
+<!ENTITY cmd.goToDownloadPage.label "Dir a la páxina de la descarga">
+<!ENTITY cmd.goToDownloadPage.accesskey "X">
+<!ENTITY cmd.copyDownloadLink.label "Copiar enllaz de la descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey "L">
+<!ENTITY cmd.clearList.label "Llimpiar llista">
+<!ENTITY cmd.clearList.accesskey "a">
+<!ENTITY downloadsHistory.label "Amosar toles descargues">
+<!ENTITY downloadsHistory.accesskey "S">
+<!ENTITY downloadDetails.width "50ch">
+<!ENTITY downloadsSummary.minWidth2 "21ch">
+<!ENTITY downloadsListNoMatch.label "Nun s'atopen desgargues que concasen.">
+<!ENTITY downloadsListEmpty.label "Nun hai descargues.">
+<!ENTITY cmd.removeFromHistory.label "Desaniciar del historial">
+<!ENTITY cmd.removeFromHistory.accesskey "e">
+<!ENTITY cmd.clearDownloads.label "Llimpiar descargues">
+<!ENTITY cmd.clearDownloads.accesskey "D">
+<!ENTITY clearDownloadsButton.tooltip "Llimpia les descargues completes, encaboxaes y fallíes">
+<!ENTITY clearDownloadsButton.label "Llimpiar descargues">
+<!ENTITY downloadsPanelEmpty.label "Nun hai descargues nesta sesión">
+<!ENTITY learnMore.label "Deprender más">
+<!ENTITY cmd.unblock.label "Desbloquiar">
+<!ENTITY cmd.unblock.accesskey "o">
+<!ENTITY cmd.removeFile.label "Desaniciar ficheru">
+<!ENTITY cmd.removeFile.accesskey "h">
+<!ENTITY blocked.label "BLOQUIÁU">

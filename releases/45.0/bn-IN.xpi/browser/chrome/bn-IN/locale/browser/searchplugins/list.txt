@@ -1,0 +1,8 @@
+amazondotcom
+bing
+eBay-in
+google
+rediff
+wikipedia-bn
+yahoo-in
+ddg

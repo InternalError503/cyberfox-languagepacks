@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle " दूरमापी आंकड़ा">
+
+<!ENTITY aboutTelemetry.telemetryEnabled " दूरमापी <span>सक्षम है </span>.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled " दूरमापी <span>अक्षम है </span>.">
+
+<!ENTITY aboutTelemetry.generalDataSection "        सामान्य आंकड़ा">
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "  धीरे sql निवेदन">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "ब्राउज़र  लटकाव">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "लड़ी लटका">
+
+<!ENTITY aboutTelemetry.histogramsSection "आयत छवि">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "    keyed histograms">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "साधारण  माप ">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  सहयुक्ति विवरण">
+
+<!ENTITY aboutTelemetry.lateWritesSection " कुछ देर से लिखें">
+
+<!ENTITY aboutTelemetry.systemInfoSection "तंत्र जानकारी">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection " आयत छवि एड-ओन द्वारा एकत्रित ">
+
+<!ENTITY aboutTelemetry.toggle "विभाग टॉगल करने के लिए क्लिक करें">
+
+<!ENTITY aboutTelemetry.emptySection "कोई आंकड़ा एकत्रित  नही">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीरे sql दोषसुधार सक्षम है. पूर्ण रूप से sql  वाक्यांश नीचे दिखाई  दे सकता है लेकिन वे दूरमापी को जमा किये जा सकते है ">
+
+<!ENTITY aboutTelemetry.fetchSymbols "पाएँ फंक्शन नाम  लटकाव ढेरी के लिये">
+
+<!ENTITY aboutTelemetry.hideSymbols "दिखाएँ कच्चा आंकड़ा झूलने से">
+
+<!ENTITY aboutTelemetry.filterText "फ़िल्टर (स्ट्रिंग या /regexp/)">
+
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Week
+">
+
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Change
+">
+
+<!ENTITY aboutTelemetry.choosePing "
+Choose ping:
+">
+
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Environment Data
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Extended Telemetry recording is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Extended Telemetry recording is <span>enabled</span>.
+">
+
+<!ENTITY aboutTelemetry.pingDataSource "
+Ping data source:
+">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Archived ping data
+">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Current ping data
+">
+
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Newer ping
+">
+
+<!ENTITY aboutTelemetry.showOlderPing "
+Older ping &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData "
+Show subsession data
+">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemetry Log
+">
+
+<!ENTITY aboutTelemetry.uploadDisabled "
+  FHR data upload is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.uploadEnabled "
+  FHR data upload is <span>enabled</span>.
+">

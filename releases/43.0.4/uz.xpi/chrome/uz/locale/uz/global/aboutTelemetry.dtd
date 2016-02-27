@@ -1,0 +1,71 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Telemetiya ma`lumotlari">
+
+<!ENTITY aboutTelemetry.changeDataChoices "  O‘zgartirish">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR yuklangan ma’lumotlar <span>yoqildi</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR yuklangan ma’lumotlar <span>o‘chirib qo‘yildi</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Kengaytirilgan Telemetriya yozib olishlari <span>yoqib qoʻyildi</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Kengaytirilgan Telemetriya yozib olishlari <span>o‘chirib qoʻyildi</span>.">
+
+<!ENTITY aboutTelemetry.pingDataSource "Ping ma’lumotlari markazi:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Joriy ping ma’lumotlari">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "Ping ma’lumotlari arxivlandi">
+
+<!ENTITY aboutTelemetry.showSubsessionData "Quyi seans ma’lumotlarini ko‘rsatish">
+
+<!ENTITY aboutTelemetry.choosePing "Ping’ni tanlash:">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Hech qachon ping yuborilmasin">
+
+<!ENTITY aboutTelemetry.showOlderPing "Eski ping &gt;&gt;">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "Hafta">
+
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.generalDataSection "  Umumiy ma’lumot">
+
+<!ENTITY aboutTelemetry.environmentDataSection "  Muhit ma’lumotlari">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetriya jurnali">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Sekin SQL ma`lumotlari">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Brauzer osilishlari">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Osilib turgan mavzular">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Gistogrammalar">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Kalitlangan gistogrammarl">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Oddiy oʻlchamlar">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Qoʻchimcha dastur ma`lumotlari">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Soʻnggi yozuvlar">
+
+<!ENTITY aboutTelemetry.systemInfoSection "Tizim ma`lumoti">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "Qoʻshimcha dasturlar tomonidan yigʻilgan gistogrammalar">
+
+<!ENTITY aboutTelemetry.toggle "  Qismni almashtirish uchun bosing">
+
+<!ENTITY aboutTelemetry.emptySection "  (Ma`lumotlar yigʻilmagan)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Sekin SQL nosozlikni hal qilish - yoqilgan. Toʻliq SQL qatorlari pastda ko‘rsatilishi mumkin, ammo ular telemetriyaga joʻnatilmaydi.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Yigʻilgan osilishlar uchun funksiya nomlarini olish">
+
+<!ENTITY aboutTelemetry.hideSymbols "Osilishlardan manba ma`lumotlarini koʻrsatish">
+
+<!ENTITY aboutTelemetry.filterText "  Filter (qatorlar yoki /regexp/)">

@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Keɓe Telemeetiri">
+
+<!ENTITY aboutTelemetry.telemetryEnabled " Telemeetiri koko <span>hurminaa</span>.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemeetiri koko <span>daaƴaa</span>.">
+
+<!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Kooke Wanngorde">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "       Kooke gallol">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Asdiiwe">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Ɓete Beeɓtinaaɗe">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Ɓeydude e cariika">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Humpito Yuɓɓo">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Asdiiwe ɗe Ɓeyditte Ndoɓindii">
+
+<!ENTITY aboutTelemetry.toggle "  Dobo ngam toggilaade taƴre">
+
+<!ENTITY aboutTelemetry.emptySection "  (Alaa keɓe ndoɓindaa)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Buggitagol SQL Leelɗo koko hurminaa. Ɓoggi SQL timmuɗi ena mbaawi jaytineede les ɗoo kono ɗo naatnoytaake to Telemeetiri.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Afftoyo inɗe golluuje take">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Hollu keɓe kecce iwɗe e kooke">
+
+<!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
+
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Week
+">
+
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Change
+">
+
+<!ENTITY aboutTelemetry.choosePing "
+Choose ping:
+">
+
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Environment Data
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Extended Telemetry recording is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Extended Telemetry recording is <span>enabled</span>.
+">
+
+<!ENTITY aboutTelemetry.pingDataSource "
+Ping data source:
+">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Archived ping data
+">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Current ping data
+">
+
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Newer ping
+">
+
+<!ENTITY aboutTelemetry.showOlderPing "
+Older ping &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData "
+Show subsession data
+">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemetry Log
+">
+
+<!ENTITY aboutTelemetry.uploadDisabled "
+  FHR data upload is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.uploadEnabled "
+  FHR data upload is <span>enabled</span>.
+">

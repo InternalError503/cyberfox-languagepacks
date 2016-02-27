@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "一般">
+
+<!ENTITY  warnAddonInstall.label        "在網站試圖安裝附加元件時通知我">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+<!ENTITY  blockAttackSites.label     "封鎖可能有害的網站">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "封鎖可能是偽造的網頁">
+<!ENTITY  blockWebForgeries.accesskey "B">
+
+<!ENTITY  addonExceptions.label         "例外網站…">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+<!ENTITY  logins.label                  "登入資訊">
+
+<!ENTITY  rememberLogins.label          "為網站記住登入資訊">
+<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  passwordExceptions.label      "例外網站…">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "使用主控密碼">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "變更主控密碼…">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+<!ENTITY  savedLogins.label              "已存登入資訊…">
+<!ENTITY  savedLogins.accesskey          "L">
+

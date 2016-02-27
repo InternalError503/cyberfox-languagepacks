@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  popups.label                "పాప్-అప్స్">
+
+<!ENTITY  blockPopups.label           "పాప్-అప్ విండోలను బ్లాకు చేయి">
+<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  popupExceptions.label       "మినహాయింపులు…">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp; రంగులు">
+
+<!ENTITY  defaultFont.label           "అప్రమేయ ఫాంటు:">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "పరిమాణం:">
+<!ENTITY  defaultSize.accesskey       "S">
+
+<!ENTITY  advancedFonts.label         "అధునాతన...">
+<!ENTITY  advancedFonts.accesskey     "A">
+
+<!ENTITY  colors.label                "రంగులు...">
+<!ENTITY  colors.accesskey            "C">
+
+
+<!ENTITY languages.label              "భాషలు">
+<!ENTITY chooseLanguage.label         "పుటలను ప్రదర్శించుటకు మీ అభీష్టభాషలను ఎంచుకొనుము">
+<!ENTITY chooseButton.label           "ఎంచుకొనుము…">
+<!ENTITY chooseButton.accesskey       "o">
+
+<!ENTITY translateWebPages.label      "వెబ్ కాంటెంట్ అనువదించుము">
+<!ENTITY translateWebPages.accesskey  "T">
+<!ENTITY translateExceptions.label    "ఎక్సెప్షన్లు...">
+<!ENTITY translateExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+
+<!ENTITY translation.options.attribution.beforeLogo "వీరిచే అనువాదములు">
+<!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY  drmContent.label             "DRM కాంటెంట్">
+
+<!ENTITY  playDRMContent.label         "DRM కాంటెంట్ నడుపు">
+<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.learnMore.label "మరింత తెలుసుకోండి">

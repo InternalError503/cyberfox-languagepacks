@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
+
+
+<!ENTITY aboutAccountsConfig.description "ടാബുകള്‍, അടയാളങ്ങള്‍, രഹസ്യവാക്കുകള്‍ മുതലായവ പൊരുത്തപ്പെടുത്താനായി പ്രവേശിക്കുക.">
+<!ENTITY aboutAccountsConfig.startButton.label "തുടങ്ങൂ">
+<!ENTITY aboutAccountsConfig.useOldSync.label "സിന്‍കിന്റെ പഴയ പതിപ്പാണോ ഉപയോഗിക്കുന്നത്?">
+
+
+<!ENTITY aboutAccounts.connected "Account connected">
+<!ENTITY aboutAccounts.noConnection.description "You must be connected to the Internet to sign in.">
+<!ENTITY aboutAccounts.noConnection.retry "Try again">
+<!ENTITY aboutAccounts.noConnection.title "No connection">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Sync preferences">

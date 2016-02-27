@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY downloadsHistory.label "Mostra tutti i descaregamenti">
+<!ENTITY downloadsHistory.accesskey "v">
+<!ENTITY downloadsSummary.minWidth2 "26ch">
+<!ENTITY downloads.title                  "Descaregamenti">
+<!ENTITY downloadDetails.width "65ch">
+<!ENTITY cmd.pause.label                  "Pösa">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Repiggio">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Anulla">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!ENTITY cmd.show.label                   "Arvi cartella">
+<!ENTITY cmd.show.accesskey               "c">
+<!ENTITY cmd.showMac.label                "Fanni vedde into Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.goToDownloadPage.label       "Vanni a-a pagina de descaregamento">
+<!ENTITY cmd.goToDownloadPage.accesskey   "g">
+<!ENTITY cmd.copyDownloadLink.label       "Còpia o colegamento do descaregamento">
+<!ENTITY cmd.copyDownloadLink.accesskey   "c">
+
+<!ENTITY cmd.clearList.label              "Scancella lista">
+<!ENTITY cmd.clearList.accesskey          "c">
+
+<!ENTITY cmd.retry.label                  "Preuva torna">
+
+<!ENTITY cmd.clearDownloads.label "Cancella elenco descaregamenti">
+<!ENTITY cmd.clearDownloads.accesskey "n">
+<!ENTITY downloadsHistory.label "Fanni vedde tutti i descaregamenti">
+<!ENTITY downloadsHistory.accesskey "v">
+<!ENTITY clearDownloadsButton.label "Cancella elenco descaregamenti">
+<!ENTITY clearDownloadsButton.tooltip "Scancella da l'elenco i descaregamenti conpletæ, anulæ ò no ariescii">
+<!ENTITY downloadsListEmpty.label "No gh'é di descaregamenti.">
+<!ENTITY downloadsListNoMatch.label "No ò trovou nisciun descaregamento.">
+
+<!ENTITY cmd.removeFromHistory.label "Scancella da-a stöia">
+<!ENTITY cmd.removeFromHistory.accesskey "n">
+<!ENTITY blocked.label "BLOCOU">
+<!ENTITY cmd.removeFile.label "Scancella file">
+<!ENTITY cmd.removeFile.accesskey "S">
+<!ENTITY cmd.unblock.label "Sblòcca">
+<!ENTITY cmd.unblock.accesskey "S">
+<!ENTITY downloadsPanelEmpty.label "Nisciun descaregamento pe sta sescion.">
+<!ENTITY learnMore.label "Pe saveine de ciù">
+
