@@ -990,10 +990,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!-- cyberfox -->
 <!ENTITY tabGroupsButton.tooltip       "Grouper les onglets">
 <!-- end of strings to be removed post-Australis -->
-<!ENTITY mixedContentBlocked.helplink "En apprendre davantage">
+<!ENTITY mixedContentBlocked.helplink 	"En apprendre davantage">
 <!-- Purge RAM browser tweak -->
-<!ENTITY minimizeMemoryCache.label  "Nettoyer le cache mémoire">
-<!ENTITY turnOnCleanRam.label       "Activer la fonction « Nettoyer le cache mémoire ».">
+<!ENTITY minimizeMemoryCache.label  	"Nettoyer le cache mémoire">
+<!ENTITY turnOnCleanRam.label       	"Activer la fonction « Nettoyer le cache mémoire ».">
 <!-- End Purge RAM browser tweak -->
 
 <!-- Restart Browser Tweak -->
@@ -1005,9 +1005,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 	-->
 
 
-<!ENTITY restartBrowser.label       "Redémarrer &brandShortName;">
-<!ENTITY restartBrowserButton.label "Redémarrer Cyberfox">
-<!ENTITY turnOnRestart.label        "Activer la fonction « Redémarrer &brandShortName; ».">
+<!ENTITY restartBrowser.label       	"Redémarrer &brandShortName;">
+<!ENTITY restartBrowserButton.label 	"Redémarrer Cyberfox">
+<!ENTITY turnOnRestart.label        	"Activer la fonction « Redémarrer &brandShortName; ».">
 <!ENTITY cleanFastRestartCache.label 	"Effacer le cache de redémarrage rapide au redémarrage du navigateur.">
 <!ENTITY restartOptions.label 			"Options de redémarrage">
 <!ENTITY restart_paneluibtn.label 		"Ajouter le bouton au panneau de personnalisation">
@@ -1033,16 +1033,16 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY newtabsearch.label 		"Activer le champ de recherche sur la page des nouveaux onglets (rafraîchir la page).">
 <!ENTITY newtabpage.label         	"Page chargée :">
 <!ENTITY newtabthumbnail.label 		"Empêcher la capture des vignettes sur la page des nouveaux onglets.">
-<!ENTITY aboutnewtab.pageTitle "About:NewTab">
+<!ENTITY aboutnewtab.pageTitle 		"About:NewTab">
 <!ENTITY incontent.label 			"Afficher les préférences dans un onglet.">
 <!-- End Features Tab Tweak -->
 
 <!-- Tabs Features -->
-<!ENTITY tabsAnimation.label "Activer l’animation des onglets">
+<!ENTITY tabsAnimation.label		 "Activer l’animation des onglets">
 <!-- End Tabs Features -->
 
 <!-- Click 2 Play Via Checkbox Tweak -->
-<!ENTITY  enableClickToPlay.label      "Activer « Cliquer pour exécuter »">
+<!ENTITY  enableClickToPlay.label	  "Activer « Cliquer pour exécuter »">
 <!-- End Click 2 Play Via Checkbox Tweak -->
 
 <!-- Geo Location Via Checkbox Tweak -->

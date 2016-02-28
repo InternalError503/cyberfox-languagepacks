@@ -33,7 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Adapter à la page">
 <!ENTITY customPrompt.title   "Échelle personnalisée…">
 
-<!ENTITY homearrow.tooltip    "Première page">
-<!ENTITY endarrow.tooltip     "Dernière page">
-<!ENTITY nextarrow.tooltip   "Page suivante">
-<!ENTITY previousarrow.tooltip    "Page précédente">
+<!ENTITY homearrow.tooltip		"Première page">
+<!ENTITY endarrow.tooltip		"Dernière page">
+<!ENTITY nextarrow.tooltip		"Page suivante">
+<!ENTITY previousarrow.tooltip	"Page précédente">
