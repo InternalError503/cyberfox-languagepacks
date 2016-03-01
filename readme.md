@@ -1,4 +1,4 @@
-Language Pack Repository For Cyberfox Web Browser
+Cyberfox Web Browser Language Packs
 ========
 
 ### ToDo List:
