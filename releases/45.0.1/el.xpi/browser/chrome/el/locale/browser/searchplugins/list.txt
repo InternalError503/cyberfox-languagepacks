@@ -1,0 +1,7 @@
+google
+amazon-en-GB
+bing
+eBay-en-GB
+yahoo
+wikipedia-el
+ddg
