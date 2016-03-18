@@ -1,0 +1,8 @@
+amazondotcom
+azerdict
+bing
+eBay
+google
+wikipedia-az
+yandex-az
+ddg
