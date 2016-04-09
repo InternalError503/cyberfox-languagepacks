@@ -1,0 +1,138 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Bebenang Tergantung">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Histogram">
+
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Mudah">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Perincian Add-on">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Sistem Informasi">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
+
+<!ENTITY aboutTelemetry.toggle "  Klik untuk buka seksyen">
+
+<!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Slow SQL debugging telah digunakan. Full SQL strings boleh dipamerkan dibawah namun mereka tidak boleh dihantar kepada Telemetry.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Dapatkan fungsi nama untuk hang stacks">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Pamer data mentah daripada hangs">
+
+<!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
+
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Week
+">
+
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Change
+">
+
+<!ENTITY aboutTelemetry.choosePing "
+Choose ping:
+">
+
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Environment Data
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Extended Telemetry recording is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Extended Telemetry recording is <span>enabled</span>.
+">
+
+<!ENTITY aboutTelemetry.generalDataSection "
+  General Data
+">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Keyed Histograms
+">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload
+">
+
+<!ENTITY aboutTelemetry.pingDataSource "
+Ping data source:
+">
+
+<!ENTITY aboutTelemetry.rawPingData "
+Raw ping data ...
+">
+
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Session Information
+">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Archived ping data
+">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Current ping data
+">
+
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Newer ping
+">
+
+<!ENTITY aboutTelemetry.showOlderPing "
+Older ping &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData "
+Show subsession data
+">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemetry Log
+">
+
+<!ENTITY aboutTelemetry.uploadDisabled "
+  FHR data upload is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.uploadEnabled "
+  FHR data upload is <span>enabled</span>.
+">

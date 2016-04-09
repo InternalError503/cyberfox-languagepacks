@@ -1,0 +1,60 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Εκκίνηση">
+
+<!ENTITY startupPage.label         "Στην εκκίνηση του &brandShortName;:">
+<!ENTITY startupPage.accesskey     "κ">
+<!ENTITY startupHomePage.label     "Προβολή της αρχικής μου σελίδας">
+<!ENTITY startupBlankPage.label    "Προβολή μιας κενής σελίδας">
+<!ENTITY startupLastSession.label  "Προβολή των παραθύρων και καρτελών από την τελευταία συνεδρία">
+
+
+<!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
+<!ENTITY useCurrentPage.accesskey  "τ">
+<!ENTITY useMultiple.label         "Χρήση τρεχουσών σελίδων">
+<!ENTITY chooseBookmark.label      "Χρήση σελιδοδείκτη...">
+<!ENTITY chooseBookmark.accesskey  "σ">
+<!ENTITY restoreDefault.label      "Επαναφορά προεπιλεγμένης">
+<!ENTITY restoreDefault.accesskey  "ρ">
+
+
+<!ENTITY downloads.label     "Λήψεις αρχείων">
+
+<!ENTITY showWhenDownloading.label     "Προβολή του παραθύρου λήψης αρχείων στη λήψη ενός αρχείου">
+<!ENTITY showWhenDownloading.accesskey "ψ">
+<!ENTITY closeWhenDone.label "Κλείσιμο όταν ολοκληρωθούν όλες οι λήψεις">
+<!ENTITY closeWhenDone.accesskey "λ">
+<!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
+<!ENTITY saveTo.accesskey "θ">
+<!ENTITY chooseFolderWin.label        "Αναζήτηση...">
+<!ENTITY chooseFolderWin.accesskey    "ζ">
+<!ENTITY chooseFolderMac.label        "Επιλογή...">
+<!ENTITY chooseFolderMac.accesskey    "π">
+<!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
+<!ENTITY alwaysAsk.accesskey "α">
+
+<!ENTITY homepage.label            "Αρχική σελίδα:">
+<!ENTITY homepage.accesskey        "χ">
+
+
+
+
+
+
+
+
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
+<!ENTITY alwaysCheckDefault2.label        "Always check if &brandShortName; is your default browser">
+
+<!ENTITY e10sEnabled.label                "Enable multi-process &brandShortName;">
+<!ENTITY getStarted.label                 "Start using Sync…">
+<!ENTITY isDefault.label                  "&brandShortName; is currently your default browser">
+<!ENTITY isNotDefault.label               "&brandShortName; is not your default browser">
+
+<!ENTITY separateProfileMode.label        "Allow &brandShortName; and Firefox to run at the same time">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser2.label     "Make Default">
+<!ENTITY useFirefoxSync.label             "Tip: This uses separate profiles. Use Sync to share data between them.">
