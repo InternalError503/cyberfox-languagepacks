@@ -832,15 +832,15 @@
 <!ENTITY turnoffmenuabout.label "Включить доступ к about:config в меню.">
 
 <!-- Plugin Settings Tweak -->
-<!ENTITY browserplugins.label "Browser Plugins">
-<!ENTITY browserpluginswhitelist.label "Enable plugin whitelist.">
-<!ENTITY browserpluginsjavaenabled.label "Enable java browser plugin.">
+<!ENTITY browserplugins.label "Плагины браузера">
+<!ENTITY browserpluginswhitelist.label "Разрешить белый список плагинов.">
+<!ENTITY browserpluginsjavaenabled.label "Включить плагин Java.">
 
 <!-- System Addons Tweak -->
-<!ENTITY systemaddons.label "System Addons">
-<!ENTITY systemaddonsmsg.label "If these system addons are installed you can toggle them here.">
+<!ENTITY systemaddons.label "Системные дополнения">
+<!ENTITY systemaddonsmsg.label "Здесь Вы можете разрешить или запретить установку интересующих системных дополнений.">
 <!ENTITY enablehellochat.label "Включить чат hello">
-<!ENTITY enablepocket.label "Enable pocket.">
+<!ENTITY enablepocket.label "Включить Pocket.">
 
 <!-- Helpful ToolTips -->
 <!ENTITY restartRequiredMSG.label "Требуется перезапуск браузера">
