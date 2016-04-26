@@ -1,12 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. --> 
 
-<!ENTITY brandShortName "Firefox">
-<!ENTITY brandFullName "Mozilla Firefox">
-<!ENTITY vendorShortName "Mozilla">
-<!ENTITY trademarkInfo.part1 "Firefox и логоата Firefox се заштитени марки на Mozilla Foundation.">
+<!ENTITY  brandShorterName         "Cyberfox">
+<!ENTITY  brandShortName        "Cyberfox">
+<!ENTITY  brandFullName         "Cyberfox">
+<!ENTITY  vendorShortName       "8pecxstudios">
 
-
-
-<!ENTITY  brandShorterName      "Firefox">
+<!ENTITY  trademarkInfo.part1   "Cyberfox and the Cyberfox logos are trademarks of the 8pecxstudios, Cyberfox is powered by Mozilla Firefox source code.">
