@@ -1,0 +1,4 @@
+# .gitignore - List of filenames git should ignore
+
+# File extensions that should be ignored wherever they appear
+*.bat
