@@ -254,6 +254,18 @@ Quick Folder Navigation
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
+####[en-US.xpi]
+| Pack Locale | URL  | File |
+|----------|:-------------:|------:|
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi) | Root Folder |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/branding/brand.dtd) | brand.dtd |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/branding/brand.properties) | brand.properties |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/browser/appstrings.properties) | appstrings.properties |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/browser/browser.dtd) | browser.dtd |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/en-US.xpi/browser/chrome/en-US/locale/browser/preferences/preferences.properties) | preferences.properties |
+
+
 ####[en-ZA.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
@@ -828,18 +840,6 @@ Quick Folder Navigation
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/appstrings.properties) | appstrings.properties |
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/browser.dtd) | browser.dtd |
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/preferences/preferences.properties) | preferences.properties |
-
-
-####[readme.md]
-| Pack Locale | URL  | File |
-|----------|:-------------:|------:|
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md) | Root Folder |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/branding/brand.dtd) | brand.dtd |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/branding/brand.properties) | brand.properties |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/browser/appstrings.properties) | appstrings.properties |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/browser/browser.dtd) | browser.dtd |
-| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/46.0/readme.md/browser/chrome/readme/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
 ####[rm.xpi]
