@@ -708,7 +708,7 @@
 <!ENTITY mixedContentBlocked.helplink "Learn more">
 <!-- Purge RAM browser tweak -->
 <!ENTITY minimizeMemoryCache.label "Очистить кэш памяти">
-<!ENTITY turnOnCleanRam.label "Включить опцию очистки кэша памяти.">
+<!ENTITY turnOnCleanRam.label "Включить опцию очистки кэша памяти">
 <!-- End Purge RAM browser tweak -->
 
 <!-- Restart Browser Tweak -->
@@ -811,8 +811,8 @@
 <!-- Update check options -->
 <!ENTITY updateoptions.label "Настройки обновления &brandShortName;">
 <!ENTITY updateautocheck.label "Автоматически проверять обновления в окне 'О &brandShortName;'">
-<!ENTITY updatestartupcheck.label "Автоматически проверять наличие обновлений при запуске &brandShortName;.">
-<!ENTITY updatecheckenabled.label "Разрешить проверку обновлений.">
+<!ENTITY updatestartupcheck.label "Автоматически проверять наличие обновлений при запуске &brandShortName;">
+<!ENTITY updatecheckenabled.label "Разрешить проверку обновлений">
 
 <!-- Copy tab URL Tweak -->
 <!ENTITY copyTabURL.label "Копировать адрес страницы">
