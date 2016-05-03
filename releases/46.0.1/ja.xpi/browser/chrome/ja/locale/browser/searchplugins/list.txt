@@ -1,6 +1,6 @@
 amazon-jp
 bing
-google
+google-jp
 oshiete-goo
 rakuten
 twitter-ja
