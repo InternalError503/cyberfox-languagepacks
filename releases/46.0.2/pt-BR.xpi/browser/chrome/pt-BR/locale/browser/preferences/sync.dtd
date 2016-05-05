@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite que acesse seu histórico, favoritos, senhas e abas abertas em todos os seus dispositivos.">
+
+<!-- The page shown when logged in... -->
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Atualizar">
+<!ENTITY resetPass.label              "Redefinir">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Gerenciar conta">
+<!ENTITY manageAccount.accesskey      "G">
+<!ENTITY changePassword2.label        "Modificar senha…">
+<!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
+<!ENTITY resetSync2.label             "Reconfigurar Sync…">
+
+<!ENTITY pairDevice.label             "Parear dispositivo">
+
+<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY engine.bookmarks.label     "Favoritos">
+<!ENTITY engine.bookmarks.accesskey "F">
+<!ENTITY engine.tabs.label          "Abas">
+<!ENTITY engine.tabs.accesskey      "A">
+<!ENTITY engine.history.label       "Histórico">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Senhas">
+<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferências">
+<!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "C">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Nome do dispositivo:">
+<!ENTITY syncDeviceName.accesskey   "N">
+<!ENTITY fxaSyncDeviceName.label       "Nome do dispositivo">
+<!ENTITY changeSyncDeviceName.label "Alterar nome do dispositivo…">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY saveChangeSyncDeviceName.label "Salvar">
+<!ENTITY unlinkDevice.label           "Desconectar este dispositivo">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termos de serviço">
+<!ENTITY prefs.ppLink.label         "Política de privacidade">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidade">
+<!ENTITY determiningAcctStatus.label     "Verificando o status da sua conta…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "não está confirmado.">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Por favor, identifique-se para reconectar">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Você não está conectado.">
+<!ENTITY signIn.label                "Identificar-se">
+<!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
+<!ENTITY verifiedManage.label        "Gerenciar conta">
+<!ENTITY disconnect.label            "Desconectar…">
+<!ENTITY verify.label                "Confirmar e-mail">
+<!ENTITY forget.label                "Esquecer este e-mail">
+
+<!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
+<!ENTITY welcome.signIn.label "Entrar">
+<!ENTITY welcome.createAccount.label "Criar conta">
+
+<!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
+
+<!ENTITY signedOut.caption            "Leve a sua web com você">
+<!ENTITY signedOut.description        "Sincronize os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Conecte-se com uma &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Criar conta">
+<!ENTITY signedOut.accountBox.signin  "Entrar">
+
+<!ENTITY signedIn.engines.label       "Sincronização entre dispositivos">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+
+<!ENTITY mobilePromo2.start            "Sincronize seu dispositivo móvel. Baixe o ">
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Firefox para Android">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!ENTITY mobilePromo2.iOSBefore         " ou ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "Firefox para iOS">
+
+<!ENTITY mobilePromo2.end              ".">

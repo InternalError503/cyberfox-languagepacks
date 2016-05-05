@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Indstil &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "I">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lader dig få adgang til dine bogmærker, adgangskoder, åbne faneblade og din historik fra alle dine enheder.">
+
+<!-- The page shown when logged in... -->
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Opdater">
+<!ENTITY resetPass.label              "Ryd">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Håndter konto">
+<!ENTITY manageAccount.accesskey      "H">
+<!ENTITY changePassword2.label        "Ændr adgangskode…">
+<!ENTITY myRecoveryKey.label          "Min gendannelsesnøgle">
+<!ENTITY resetSync2.label             "Nulstil Sync…">
+
+<!ENTITY pairDevice.label              "Tilføj enhed">
+
+<!ENTITY syncMy.label               "Synkroniser mine">
+<!ENTITY engine.bookmarks.label     "Bogmærker">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Faneblade">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historik">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Adgangskoder">
+<!ENTITY engine.passwords.accesskey "A">
+<!ENTITY engine.prefs.label         "Indstillinger">
+<!ENTITY engine.prefs.accesskey     "I">
+<!ENTITY engine.addons.label        "Tilføjelser">
+<!ENTITY engine.addons.accesskey    "T">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Enhedsnavn:">
+<!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
+<!ENTITY changeSyncDeviceName.label "Skift navn for enheden…">
+<!ENTITY cancelChangeSyncDeviceName.label "Annuller">
+<!ENTITY saveChangeSyncDeviceName.label "Gem">
+<!ENTITY unlinkDevice.label           "Afkobl denne enhed">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tjenestevilkår">
+<!ENTITY prefs.ppLink.label         "Privatlivspolitik">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Privatlivspolitik">
+<!ENTITY determiningAcctStatus.label     "Vurderer status for din konto…">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "er ikke blevet bekræftet.">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Log ind for at synkronisere">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "Du er ikke logget ind.">
+<!ENTITY signIn.label                "Log ind">
+<!ENTITY profilePicture.tooltip      "Skift profilbillede">
+<!ENTITY verifiedManage.label        "Håndter konto">
+<!ENTITY disconnect.label            "Afbryd…">
+<!ENTITY verify.label                "Bekræft mailadresse">
+<!ENTITY forget.label                "Glem denne mailadresse">
+
+<!ENTITY welcome.description "Få adgang til dine faneblade, bogmærker, adgangskoder m.m., uanset hvor du bruger &brandShortName;.">
+<!ENTITY welcome.signIn.label "Log ind">
+<!ENTITY welcome.createAccount.label "Opret konto">
+
+<!ENTITY welcome.useOldSync.label "Bruger du en ældre version af Sync?">
+
+<!ENTITY signedOut.caption            "Tag dit net med dig">
+<!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
+<!ENTITY signedOut.accountBox.title   "Opret forbindelse med en &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Opret en konto">
+<!ENTITY signedOut.accountBox.signin  "Log ind">
+
+<!ENTITY signedIn.engines.label       "Synkroniser mellem alle enheder">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+
+<!ENTITY mobilePromo2.start            "Synkroniser med din mobil-enhed. Hent ">
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Firefox til Android">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!ENTITY mobilePromo2.iOSBefore         " eller ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "Firefox til iOS">
+
+<!ENTITY mobilePromo2.end              ".">

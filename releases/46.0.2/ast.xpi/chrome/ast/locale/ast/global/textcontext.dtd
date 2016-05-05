@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.accesskey "r">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Apegar">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY undoCmd.label "Desfacer">
+<!ENTITY undoCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Seleicionar too">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Desaniciar">
+<!ENTITY deleteCmd.accesskey "e">
+<!ENTITY spellUndoAddToDictionary.label "Desfacer Amestar al diccionariu">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellAddToDictionary.label "Amestar al diccionariu">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellNoSuggestions.label "(Nun hai soxerencies d'ortografía)">
+<!ENTITY spellDictionaries.label "Llingües">
+<!ENTITY spellDictionaries.accesskey "g">
+<!ENTITY spellCheckToggle.label "Comprobar ortografía">
+<!ENTITY spellCheckToggle.accesskey "b">
+<!ENTITY searchTextBox.clear.label "Llimpiar">
+
+<!ENTITY fillLoginMenu.accesskey      "F">
+
+<!ENTITY fillLoginMenu.label          "Fill Login">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillPasswordMenu.label       "Fill Password">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Fill Username">
+<!ENTITY noLoginSuggestions.label     "(No Login Suggestions)">
+<!ENTITY viewSavedLogins.label        "View Saved Logins">

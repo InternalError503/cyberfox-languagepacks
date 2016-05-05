@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Χρώματα">
+<!ENTITY window.width                     "44em">
+<!ENTITY  window.macWidth                 "44em">
+
+<!ENTITY  allowPagesToUse.label           "Να επιτρέπεται η χρήση των χρωμάτων της σελίδας, αντί των επιλογών μου">
+<!ENTITY  allowPagesToUse.accesskey       "χ">
+
+<!ENTITY  color                           "Κείμενο και παρασκήνιο">
+<!ENTITY  textColor.label                 "Κείμενο:">
+<!ENTITY  textColor.accesskey             "μ">
+<!ENTITY  backgroundColor.label           "Παρασκήνιο:">
+<!ENTITY  backgroundColor.accesskey       "ρ">
+<!ENTITY  useSystemColors.label           "Χρήση χρωμάτων συστήματος">
+<!ENTITY  useSystemColors.accesskey       "σ">
+
+<!ENTITY  underlineLinks.label            "Υπογράμμιση δεσμών">
+<!ENTITY  underlineLinks.accesskey        "Υ">
+<!ENTITY  links                           "Χρώμα δεσμών">
+<!ENTITY  linkColor.label                 "Μη αναγνωσμένοι δεσμοί:">
+<!ENTITY  linkColor.accesskey             "ν">
+<!ENTITY  visitedLinkColor.label          "Αναγνωσμένοι δεσμοί:">
+<!ENTITY  visitedLinkColor.accesskey      "γ">
+
+<!ENTITY  overridePageColors.accesskey    "O">
+
+<!ENTITY  overridePageColors.always.label "Always">
+<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
+
+<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
+<!ENTITY  overridePageColors.never.label  "Never">

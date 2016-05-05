@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+
+<!ENTITY next.tooltip              "Järgmine">
+<!ENTITY previous.tooltip          "Eelmine">
+<!ENTITY findCloseButton.tooltip   "Sulge otsinguriba">
+<!ENTITY highlightAll.label        "Too kõik esile">
+<!ENTITY highlightAll.accesskey    "k">
+<!ENTITY highlightAll.tooltiptext  "Too see fraas lehel esile">
+<!ENTITY caseSensitive.label       "Tõstutundlik">
+<!ENTITY caseSensitive.accesskey   "t">
+<!ENTITY caseSensitive.tooltiptext "Otsi tõstutundlikult">
