@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDialog.title          "Tocante a &brandFullName;">
-<!ENTITY community.start2 "&brandShortName; ta diseñáu por ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", una ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!ENTITY community.creditsLink "comunidá global">
-<!ENTITY community.end3 " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
 <!ENTITY community.exp.middle " ye una ">
