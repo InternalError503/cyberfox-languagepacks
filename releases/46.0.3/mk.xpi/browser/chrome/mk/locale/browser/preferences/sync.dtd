@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "Постави го &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "с">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Ви дозволува да имате пристап до Вашата историја, обележувачи, лозинки и отворени јазичиња на сите Ваши уреди.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Надградба">
+<!ENTITY resetPass.label              "Ресетирај">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Уреди ја сметката">
+<!ENTITY manageAccount.accesskey      "а">
+<!ENTITY viewQuota.label              "Види ограничување">
+<!ENTITY changePassword2.label        "Смени ја лозинката...">
+<!ENTITY myRecoveryKey.label          "Мојот безбеден клуч">
+<!ENTITY resetSync2.label             "Ресетирај го Sync…">
+
+<!ENTITY pairDevice.label             "Спари уред">
+
+<!ENTITY syncMy.label               "Синхорнизирај ги моите">
+<!ENTITY engine.bookmarks.label     "Обележувачи">
+<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.tabs.label          "Јазичиња">
+<!ENTITY engine.tabs.accesskey      "Ј">
+<!ENTITY engine.history.label       "Историја">
+<!ENTITY engine.history.accesskey   "р">
+<!ENTITY engine.passwords.label     "Лозинки">
+<!ENTITY engine.passwords.accesskey "Л">
+<!ENTITY engine.prefs.label         "Преференции">
+<!ENTITY engine.prefs.accesskey     "ф">
+<!ENTITY engine.addons.label        "Додатоци">
+<!ENTITY engine.addons.accesskey    "а">
+<!-- Device Settings -->
+
+<!ENTITY unlinkDevice.label           "Прекини ја врската со овој уред">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Услови за употреба">
+<!ENTITY prefs.ppLink.label         "Политика за приватност">
+
+<!ENTITY syncDeviceName.accesskey   "м">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Име на уред:">
+
+<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
+<!ENTITY changeSyncDeviceName.label "Change Device Name…">
+<!ENTITY determiningAcctStatus.label     "Determining your account status…">
+<!ENTITY disconnect.label            "Disconnect…">
+<!ENTITY forget.label                "Forget this Email">
+
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Privacy Notice">
+<!ENTITY fxaSyncDeviceName.label       "Device Name">
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Firefox for Android">
+
+<!ENTITY mobilePromo2.end              ".">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!ENTITY mobilePromo2.iOSBefore         " or ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "Firefox for iOS">
+
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+
+<!ENTITY mobilePromo2.start            "Sync to your mobile device. Download ">
+
+<!ENTITY notSignedIn.label           "You are not signed in.">
+<!ENTITY profilePicture.tooltip      "Change profile picture">
+<!ENTITY saveChangeSyncDeviceName.label "Save">
+<!ENTITY signIn.label                "Sign in">
+
+<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Please sign in to reconnect">
+<!ENTITY signedInUnverified.aftername.label "is not verified.">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedOut.accountBox.create  "Create Account">
+<!ENTITY signedOut.accountBox.signin  "Sign In">
+<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
+
+<!ENTITY signedOut.caption            "Take your Web with you">
+<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
+<!ENTITY verifiedManage.label        "Manage Account">
+<!ENTITY verify.label                "Verify Email">
+<!ENTITY welcome.createAccount.label "Create Account">
+
+<!ENTITY welcome.description "Access your tabs, bookmarks, passwords and more wherever you use &brandShortName;.">
+<!ENTITY welcome.signIn.label "Sign In">
+
+<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">

@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY downloads.title "Descargas">
+<!ENTITY downloadDetails.width "50ch">
+<!ENTITY downloadsSummary.minWidth2 "21ch">
+<!ENTITY cmd.pause.label "Pausar">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Continuar">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "Cancelar">
+<!ENTITY cmd.cancel.accesskey "C">
+<!ENTITY cmd.show.label "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.showMac.label "Mostrar en el Finder">
+<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.retry.label "Reintentar">
+<!ENTITY cmd.goToDownloadPage.label "Ir a la página de la descarga">
+<!ENTITY cmd.goToDownloadPage.accesskey "I">
+<!ENTITY cmd.copyDownloadLink.label "Copiar enlace de descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey "E">
+<!ENTITY cmd.removeFromHistory.label      "Eliminar del historial">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList.label "Limpiar lista">
+<!ENTITY cmd.clearList.accesskey "L">
+<!ENTITY cmd.clearDownloads.label         "Limpiar descargas">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.unblock.label                "Desbloquear">
+<!ENTITY cmd.unblock.accesskey            "U">
+<!ENTITY cmd.removeFile.label             "Remover archivo">
+<!ENTITY cmd.removeFile.accesskey         "m">
+<!ENTITY blocked.label                    "BLOQUEADO">
+<!ENTITY learnMore.label                  "Aprender más">
+<!ENTITY downloadsHistory.label "Mostrar todas las descargas">
+<!ENTITY downloadsHistory.accesskey "M">
+<!ENTITY clearDownloadsButton.label       "Limpiar descargas">
+<!ENTITY clearDownloadsButton.tooltip     "Limpia las descargas completadas, canceladas y fallidas">
+<!ENTITY downloadsListEmpty.label         "No hay descargas.">
+<!ENTITY downloadsPanelEmpty.label        "No hay descargas para esta sesión.">
+<!ENTITY downloadsListNoMatch.label       "No se encontró ninguna coincidencia en las descargas.">
