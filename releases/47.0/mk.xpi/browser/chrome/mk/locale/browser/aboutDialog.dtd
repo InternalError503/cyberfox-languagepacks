@@ -18,13 +18,13 @@
 <!ENTITY community.exp.creditsLink  "глобална заедница">
 <!ENTITY community.exp.end          " која работи заедно за да ја зачува мрежата отворена, јавна и достапна за сите.">
 
-<!ENTITY community.start2           "&brandShortName; е дизајниран од ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобална заедница">
-<!ENTITY community.end3             " која работи заедно за да ја зачува мрежата отворена, јавна и достапна за сите.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY contribute.start           "Звучи интересно? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
