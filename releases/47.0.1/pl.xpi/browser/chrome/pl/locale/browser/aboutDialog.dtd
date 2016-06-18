@@ -20,11 +20,11 @@
 <!ENTITY community.exp.creditsLink "globalną społecznością">
 <!ENTITY community.exp.end ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
-<!ENTITY community.start2 "Program &brandShortName; został opracowany przez ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!ENTITY community.mozillaLink "organizację &vendorShortName;">
-<!ENTITY community.middle2 ", która jest ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!ENTITY community.creditsLink "globalną społecznością">
-<!ENTITY community.end3 ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY helpus.start "Chcesz pomóc? ">
 <!ENTITY helpus.donateLink "Przekaż datek">

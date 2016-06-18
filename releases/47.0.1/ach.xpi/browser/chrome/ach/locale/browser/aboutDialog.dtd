@@ -30,13 +30,13 @@
 <!ENTITY community.exp.creditsLink  "lwak me wilobo">
 <!ENTITY community.exp.end          " ma tye katic kacel me gwoko Kakube ayaba, pa lwak dok ononge bot dano weng.">
 
-<!ENTITY community.start2           "&brandShortName; ngat ma oyubu obedo ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "lwak me wilobo">
-<!ENTITY community.end3             " ma tye katic kacel me gwoko Kakube ayaba, pa lwak dok ononge bot dano weng.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY helpus.start               "Imito konyo? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
