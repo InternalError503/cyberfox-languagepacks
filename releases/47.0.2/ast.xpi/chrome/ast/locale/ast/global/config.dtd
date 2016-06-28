@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "about:config">
+
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "¡Equí puen estrizase coses!">
+<!ENTITY aboutWarningText.label "Camudar estos axustes avanzaos puede ser dañible pa la estabilidá, seguridá y rindimientu d'esta aplicación. Continúe namái si ta bien xuru de lo que ta faciendo.">
+<!ENTITY aboutWarningButton.label "Tendré curiáu, ¡prométolo!">
+<!ENTITY aboutWarningCheckbox.label "Amosar esti avisu la próxima vegada">
+
+<!ENTITY searchPrefs.label "Guetar:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+
+<!-- Columns -->
+<!ENTITY prefColumn.label "Nome de la preferencia">
+<!ENTITY lockColumn.label "Estáu">
+<!ENTITY typeColumn.label "Tipu">
+<!ENTITY valueColumn.label "Valor">
+
+<!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Calque p'axeitar"> 
+<!ENTITY columnChooser.tooltip "Calque pa seleicionar les columnes a amosar"> 
+
+<!-- Context Menu -->
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "Copiar">
+<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyName.label "Copiar Nome">
+<!ENTITY copyName.accesskey "N">
+<!ENTITY copyValue.label "Copiar Valor">
+<!ENTITY copyValue.accesskey "V">
+<!ENTITY modify.label "Camudar">
+<!ENTITY modify.accesskey "m">
+<!ENTITY toggle.label "Alternar">
+<!ENTITY toggle.accesskey "t">
+<!ENTITY reset.label "Resetear">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "Nuevu">
+<!ENTITY new.accesskey "u">
+<!ENTITY string.label "Cadena">
+<!ENTITY string.accesskey "C">
+<!ENTITY integer.label "Enteru">
+<!ENTITY integer.accesskey "E">
+<!ENTITY boolean.label "Lóxicu">
+<!ENTITY boolean.accesskey "L">
+
+<!ENTITY focusSearch2.key "f">
