@@ -54,7 +54,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillinger">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukeragent">
-<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minneforbruk">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -108,3 +107,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv sikker modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt uten utvidelser …">
+
+<!ENTITY aboutSupport.appBasicsOS "OS">

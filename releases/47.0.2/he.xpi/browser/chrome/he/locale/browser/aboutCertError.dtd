@@ -29,4 +29,5 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "הוסף חריגה…">
 <!ENTITY certerror.copyToClipboard.label "העתקת מלל">
 
-<!ENTITY errorReporting.automatic "דיווח על תקלות מסוג זה מסייע ל־Mozilla לזהות אתרים שלא הוגדרו כראוי">
+
+<!ENTITY errorReporting.automatic "Report errors like this to help Mozilla identify misconfigured sites">

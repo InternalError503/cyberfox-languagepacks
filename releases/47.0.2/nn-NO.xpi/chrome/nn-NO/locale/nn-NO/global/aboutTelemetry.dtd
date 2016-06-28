@@ -146,5 +146,7 @@ Ping
   Nyttelast
 ">
 
+
 <!ENTITY aboutTelemetry.rawPayload "
-  Rå nyttelast">
+  Raw Payload
+">

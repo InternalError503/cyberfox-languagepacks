@@ -54,7 +54,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plug-ins activads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilisaziun da la capacitad da memorisar">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -108,3 +107,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Empruvar il modus segirà">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaviar cun supplements deactivads…">
+
+<!ENTITY aboutSupport.appBasicsOS "OS">

@@ -24,8 +24,6 @@
 <!ENTITY projectMenu_remove_accesskey "ס">
 <!ENTITY projectMenu_showPrefs_label "העדפות">
 <!ENTITY projectMenu_showPrefs_accesskey "ד">
-<!ENTITY projectMenu_manageComponents_label "ניהול רכיבים נוספים">
-<!ENTITY projectMenu_refreshTabs_label "רענון לשוניות">
 
 <!ENTITY runtimeMenu_label "זמן ריצה">
 <!ENTITY runtimeMenu_accesskey "ז">
@@ -39,7 +37,6 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "מ">
 <!ENTITY runtimeMenu_showMonitor_label "צג">
 <!ENTITY runtimeMenu_showMonitor_accesskey "צ">
-<!ENTITY runtimeMenu_showSettings_label "הגדרות התקן">
 
 <!ENTITY viewMenu_label "תצוגה">
 <!ENTITY viewMenu_accesskey "ת">
@@ -67,7 +64,6 @@
 <!ENTITY projectPanel_myProjects "הפרויקטים שלי">
 <!ENTITY projectPanel_runtimeApps "יישומי זמן ריצה">
 <!ENTITY projectPanel_tabs "לשוניות">
-<!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
 <!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
@@ -195,12 +191,16 @@
 <!ENTITY prefs_options_autosavefiles "Autosave files">
 <!ENTITY prefs_options_autosavefiles_tooltip "Automatically save edited files before running project">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
+<!ENTITY projectMenu_refreshTabs_label "Refresh Tabs">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showSettings_label "Device Settings">
 <!ENTITY runtimePanel_other "Other">
 <!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
 <!ENTITY runtimePanel_simulator "Simulators">
+<!ENTITY runtimePanel_usb "USB Devices">
 <!ENTITY runtimePanel_wifi "Wi-Fi Devices">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
 <!ENTITY simulator_device "Device">
