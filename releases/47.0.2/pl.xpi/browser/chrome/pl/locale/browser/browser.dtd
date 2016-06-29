@@ -1031,7 +1031,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY abouthome.google.label "Google">
 <!ENTITY abouthome.google.url "https://www.google.pl/">
 <!ENTITY abouthome.youtube.label "YouTube">
-<!ENTITY abouthome.youtube.url "https://www.youtube.com/?hl=pl&gl=PL">
+<!ENTITY abouthome.youtube.url "https://www.youtube.com/?hl=pl&amp;gl=PL">
 <!ENTITY abouthome.facebook.label "Facebook">
 <!ENTITY abouthome.facebook.url "https://pl-pl.facebook.com/">
 <!ENTITY abouthome.twitter.label "Twitter">
@@ -1042,6 +1042,3 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY abouthome.feedback.url "https://8pecxstudios.com/Forums/viewforum.php?f=9">
 <!ENTITY abouthome.addons.label "Dodatki">
 <!ENTITY abouthome.addons.url "https://addons.mozilla.org/pl/firefox/">
-
-
-
