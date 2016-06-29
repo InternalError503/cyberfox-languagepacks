@@ -988,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY copyTabURL.label "Kopiuj adres karty">
 <!ENTITY copyTabURLOptions.label "Włącz przycisk menu 'kopiuj adres karty'.">
 <!ENTITY copyAllTabUrls.label "Kopiuj adresy wszystkich kart">
-<!ENTITY copyAllTabUrlsOptions.label "Włącz przycisk menu „kopiuj adresy wszystkich kart".">
+<!ENTITY copyAllTabUrlsOptions.label "Włącz przycisk menu 'kopiuj adresy wszystkich kart'.">
 
 <!-- Classic Context Menu Tweak -->
 <!ENTITY contextNavigationClassic.label "Użyj klasycznego menu kontekstowego.">
