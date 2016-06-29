@@ -972,7 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- User Agent Feature -->
 <!ENTITY userAgentOverride.label     "Opcje nadpisywania User Agent">
 <!ENTITY selectUserAgentMenuItem.label     "Wybierz User Agent">
-<!ENTITY clearUserAgentButton.label     "Wyczyść User Aagent">
+<!ENTITY clearUserAgentButton.label     "Wyczyść User Agent">
 <!ENTITY enterAgentManually.label     "Wprowadź ręcznie User Agent:">
 <!ENTITY enterAgentApplyButton.label "Zatwierdź">
 <!ENTITY enterAgentClearButton.label "Wyczyść">
