@@ -941,7 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- End ToolKitUi Browser Tweak -->
 
 <!-- Disable Javascript & Block Images Feature Dont Remove -->
-<!ENTITY  loadImages.label            "Ładuj obrazki automatycznie">
+<!ENTITY  loadImages.label            "Automatycznie wczytuj obrazy">
 <!ENTITY  loadImages.accesskey        "I">
 <!ENTITY  exceptions.label            "Wyjątki…">
 <!ENTITY  exceptions.accesskey        "x">
