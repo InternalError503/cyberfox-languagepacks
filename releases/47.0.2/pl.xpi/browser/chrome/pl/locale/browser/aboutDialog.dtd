@@ -22,7 +22,7 @@
 
 <!ENTITY community.start2           "&brandShortName; został zaprojektowany przez ">
 <!ENTITY community.mozillaLink "organizację &vendorShortName;">
-<!ENTITY community.middle2          ", przejmującą to co zrobiła Mozilla, pracującą nad tym by stworzyć szybką i niezawodną 64-bitową przeglądarkę internetową dostępną dla wszystkich.">
+<!ENTITY community.middle2          ", przejmującą to co zrobiła Mozilla, pracującą nad tym, by stworzyć szybką i niezawodną 64-bitową przeglądarkę internetową dostępną dla wszystkich.">
 <!ENTITY community.creditsLink "globalną społecznością">
 <!ENTITY community.end3             " Cyberfox wykorzystuje kod źródłowy programu Mozilla Firefox.">
 
