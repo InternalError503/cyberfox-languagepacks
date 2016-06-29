@@ -919,7 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- End Tabs Features -->
 
 <!-- Click 2 Play Via Checkbox Tweak -->
-<!ENTITY  enableClickToPlay.label     "Włącz „kliknij aby odtworzyć"">
+<!ENTITY  enableClickToPlay.label     "Włącz „kliknij, aby odtworzyć"">
 <!-- End Click 2 Play Via Checkbox Tweak -->
 
 <!-- Geo Location Via Checkbox Tweak -->
@@ -980,15 +980,15 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!-- Update check options -->
 <!ENTITY updateoptions.label "Opcje aktualizacji &brandShortName;">
-<!ENTITY updateautocheck.label "Automatycznie sprawdzaj aktualizacje w „O programie &brandShortName;" ">
-<!ENTITY updatestartupcheck.label "Automatycznie sprawdzaj aktualizacje gdy &brandShortName; startuje.">
+<!ENTITY updateautocheck.label "Automatycznie sprawdzaj aktualizacje w „o programie &brandShortName;" ">
+<!ENTITY updatestartupcheck.label "Automatycznie sprawdzaj aktualizacje, gdy &brandShortName; startuje.">
 <!ENTITY updatecheckenabled.label "Włącz sprawdzanie aktualizacji.">
 
 <!-- Copy tab URL Tweak -->
 <!ENTITY copyTabURL.label "Kopiuj adres karty">
-<!ENTITY copyTabURLOptions.label "Włącz przycisk menu „Kopiuj adres karty".">
+<!ENTITY copyTabURLOptions.label "Włącz przycisk menu „kopiuj adres karty".">
 <!ENTITY copyAllTabUrls.label "Kopiuj adresy wszystkich kart">
-<!ENTITY copyAllTabUrlsOptions.label "Włącz przycisk menu „Kopiuj adresy wszystkich kart".">
+<!ENTITY copyAllTabUrlsOptions.label "Włącz przycisk menu „kopiuj adresy wszystkich kart".">
 
 <!-- Classic Context Menu Tweak -->
 <!ENTITY contextNavigationClassic.label "Użyj klasycznego menu kontekstowego.">
@@ -1003,7 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!-- Plugin Settings Tweak -->
 <!ENTITY browserplugins.label "Wtyczki">
-<!ENTITY browserpluginsdisabled.label "Wyłącz wtyczki (Wyłącz wszystkie wtyczki).">
+<!ENTITY browserpluginsdisabled.label "Wyłącz wszystkie wtyczki.">
 <!ENTITY browserpluginswhitelist.label "Włącz białą listę wtyczek.">
 <!ENTITY browserpluginsjavaenabled.label "Włącz wtyczkę Java.">
 
@@ -1014,7 +1014,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY enablepocket.label "Włącz Pocket.">
 
 <!-- Helpful ToolTips -->
-<!ENTITY restartRequiredMSG.label "Wymagany restart przeglądarki.">
+<!ENTITY restartRequiredMSG.label "Wymagany restart przeglądarki">
 
 <!-- Flashplayer Protect Mode -->
 <!ENTITY disableflashprotectgroup.label "Adobe Flash Player">
