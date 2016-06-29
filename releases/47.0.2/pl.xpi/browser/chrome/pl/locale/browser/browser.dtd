@@ -930,7 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- Tracking sendRefererHeader Tweak -->
 <!ENTITY  sendRefererHeader.label            "Pomiń nagłówek odsyłającego adresu HTTP">
 <!ENTITY  sendRefererHeaderopt0.label            "Nigdy nie wysyła nagłówka odsyłającego adresu">
-<!ENTITY  sendRefererHeaderopt1.label            "Wysyła nagłówek odsyłającego adresu (strony na którą się przechodzi)">
+<!ENTITY  sendRefererHeaderopt1.label            "Wysyła nagłówek odsyłającego adresu (strony, na którą się przechodzi)">
 <!ENTITY  sendRefererHeaderopt2.label            "Wysyła nagłówek odsyłającego adresu (domyślnie)">
 
 <!-- End Tracking sendRefererHeader Tweak -->
