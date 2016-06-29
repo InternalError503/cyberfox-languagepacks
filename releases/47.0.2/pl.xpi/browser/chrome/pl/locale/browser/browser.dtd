@@ -959,13 +959,13 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY advancedJSDialog.title         "Zaawansowane ustawienia JavaScript">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "Allow scripts to:">
+<!ENTITY allowScripts.label             "Pozwól skryptom na:">
 
-<!ENTITY moveResizePopupWindows.label     "Przesuń lub zmień rozmiar wyskakujących okien">
+<!ENTITY moveResizePopupWindows.label     "Przesuwanie lub zmienianie rozmiaru wyskakujących okien">
 <!ENTITY moveResizePopupWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label        "Podwyższ lub obniż okna">
+<!ENTITY raiseLowerWindows.label        "Podwyższanie lub obniżanie okna">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "Wyłącz lub wymień podręczne menu">
+<!ENTITY disableContextMenus.label      "Wyłączanie lub zamienianie podręcznego menu">
 <!ENTITY disableContextMenus.accesskey  "D">
 <!-- End Disable Javascript & Block Images Feature Dont Remove -->
 
