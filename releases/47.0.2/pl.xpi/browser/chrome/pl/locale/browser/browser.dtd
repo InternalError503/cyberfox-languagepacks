@@ -851,7 +851,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY appMenuEdit.label             "Edytuj">
 <!ENTITY appMenuToolbarLayout.label    "Układ paska narzędzi…">
 <!ENTITY appMenuFind.label             "Znajdź…">
-<!ENTITY appMenuUnsorted.label         "Nieprzypisane zakładki">
+<!ENTITY appMenuUnsorted.label         "Zakładki nieprzypisane">
 <!ENTITY appMenuWebDeveloper.label     "Web Developer">
 <!ENTITY appMenuGettingStarted.label   "Pierwsze kroki">
 <!ENTITY appMenuSafeMode.label         "Zrestartuj z wyłączonymi dodatkami…">
