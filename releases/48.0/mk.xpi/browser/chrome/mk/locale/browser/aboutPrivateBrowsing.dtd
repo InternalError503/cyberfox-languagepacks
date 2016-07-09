@@ -1,0 +1,69 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                 "Приватно сурфање">
+<!ENTITY privatebrowsingpage.title.normal          "Дали сакате да започнете со приватно сурфање?">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; нема да памети историја од оваа сесија.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; сега е во режим на приватно сурфање.">
+
+<!ENTITY privatebrowsingpage.description               "За време на приватното сурфање &brandShortName; нема да чува сурферска историја, историја на пребарување, историја на преземање, историја од формулари, колачиња и привремени интернет датотеки. Сепак, сите датотеки кои ќе ги презмете или обележувачи кои ќе ги креирате, ќе бидат зачувани.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Можете да започнете и со ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "бришење на Вашата скорешна историја">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Започни со приватно сурфање">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "п">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStop2                "За да завршите со приватното сурфање, одберете &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, или затворете го &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "За да започнете со приватно сурфање, исто така можете да одберете &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Иако на овој компјутер нема да има запис од Вашата сурферска историја, Вашиот интернет провајдер или работодавец сепак може да води евиденција за страниците кои ги посетувате.">
+<!ENTITY privatebrowsingpage.learnMore                 "Дознај повеќе">
+
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "За да почнете со приватно сурфање можете да кликнете на &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Затворете го овој прозорец за да завршите со приватно сурфање.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "п">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Отвори приватен прозорецw">
+
+<!ENTITY privatebrowsingpage.perwindow.description     "Во прозорец за приватно сурфање &brandShortName; нема да чува било каква историја од сурфање, пребарување, прземање или формулари, колачиња или привремени датотеки од интернет. Сепак, датотеките што ќе ги преземете или обележувачите што ќе ги создадете ќе бидат зачувани.">
+
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; нема да памти никаква историја за овој прозорец.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Моментално не сте во приватен прозорец.">
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "bookmarks">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "does not save">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " your:">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "will save">
+<!ENTITY aboutPrivateBrowsing.info.searches              "searches">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "temporary files">
+<!ENTITY aboutPrivateBrowsing.info.visited               "visited pages">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Learn more about">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
+
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "You are currently not in a private window.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
+<!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "doesn’t make you anonymous">
+
+<!ENTITY privateBrowsing.title                           "Private Browsing">
+<!ENTITY privateBrowsing.title.tracking                  "Private Browsing with Tracking Protection">
+<!ENTITY trackingProtection.description2                 "Some websites use trackers that can monitor your activity across the Internet. With Tracking Protection Firefox will block many trackers that can collect information about your browsing behavior.">
+<!ENTITY trackingProtection.startTour1                   "See how it works">
+
+<!ENTITY trackingProtection.title                        "Tracking Protection">
