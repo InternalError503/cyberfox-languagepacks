@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- End Purge RAM browser tweak -->
 
 <!-- Restart Browser Tweak -->
-<!ENTITY restartBrowser.label "Zrestartuj przeglądarkę">
+<!ENTITY restartBrowser.label "Restart przeglądarki">
 <!ENTITY restartBrowserButton.label "Zrestartuj przeglądarkę">
 <!ENTITY turnOnRestart.label "Włącz przycisk menu 'zrestartuj przeglądarkę'">
 <!ENTITY cleanFastRestartCache.label "Czyść pamięć podręczną szybkiego restartu podczas restartu przeglądarki">
@@ -842,8 +842,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!-- Clone Current Tab Tweak -->
 <!ENTITY turnonclone.label "Włącz funkcję klonowania kart">
-<!ENTITY cloneCurrentTab.label "Sklonuj obecną kartę">
-<!ENTITY cloneInNewWindow.label "Sklonuj w nowym oknie">
+<!ENTITY cloneCurrentTab.label "Klonuj w nowej karcie">
+<!ENTITY cloneInNewWindow.label "Klonuj w nowym oknie">
 <!-- End Clone Current Tab Tweak -->
 
 <!-- Features Tab Tweak -->
@@ -981,7 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY abouthome.facebook.url "https://pl-pl.facebook.com/">
 <!ENTITY abouthome.twitter.label "Twitter">
 <!ENTITY abouthome.twitter.url "https://twitter.com/?lang=pl">
-<!ENTITY abouthome.support.label "Wsparcie">
+<!ENTITY abouthome.support.label "Pomoc">
 <!ENTITY abouthome.support.url "https://8pecxstudios.com/Forums/index.php">
 <!ENTITY abouthome.feedback.label "Opinie">
 <!ENTITY abouthome.feedback.url "https://8pecxstudios.com/Forums/viewforum.php?f=9">
