@@ -842,8 +842,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!-- Clone Current Tab Tweak -->
 <!ENTITY turnonclone.label "Włącz funkcję klonowania kart">
-<!ENTITY cloneCurrentTab.label "Sklonuj obecną kartę">
-<!ENTITY cloneInNewWindow.label "Sklonuj w nowym oknie">
+<!ENTITY cloneCurrentTab.label "Klonuj w nowej karcie">
+<!ENTITY cloneInNewWindow.label "Klonuj w nowym oknie">
 <!-- End Clone Current Tab Tweak -->
 
 <!-- Features Tab Tweak -->
