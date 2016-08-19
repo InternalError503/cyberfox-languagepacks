@@ -1,0 +1,76 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "அமர்வை மீட்டமை">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "சரி, இது தொந்தரவானது.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; உங்கள் சாளரங்கள் மற்றும் கீற்றுகளை மீட்பதில் சிக்கலை கொண்டுள்ளது. இது சமீபத்தில் திறக்கப்பட்ட இணைய பக்கத்தால் ஏற்படுகிறது.">
+<!ENTITY restorepage.tryThis        "நீங்கள் முயற்சிக்கலாம்:">
+<!ENTITY restorepage.restoreSome    "ஒன்று அல்லது பல கீற்றுகளை நீக்குவதை நீங்கள் சிக்கல் உண்டாக்கலாம் என நினைக்கலாம்">
+<!ENTITY restorepage.startNew       "முழுவதும் ஒரு புதிய உலாவும் அமர்வை துவக்குகிறது">
+
+<!ENTITY restorepage.tryagainButton "மறுசேமி">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "மூடு">
+<!ENTITY restorepage.close.access   "C">
+
+<!ENTITY restorepage.restoreHeader  "மீட்டெடு">
+<!ENTITY restorepage.listHeader     "சாளரங்களும் கீற்றுகளும்">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "சாளரம் &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "வெற்றி!">
+
+<!ENTITY welcomeback2.pageTitle     "வெற்றி!">
+<!ENTITY welcomeback2.pageInfo1     "போவதற்கு &brandShortName; தயார்.">
+
+<!ENTITY welcomeback2.label.restoreAll  "அனைத்து சாளரங்களையும் கீற்றுகளையும் மீட்டமை">
+<!ENTITY welcomeback2.label.restoreSome "உங்களுக்கு வேண்டியதை மட்டும் மீட்டமை">
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
+<!ENTITY welcomeback2.link.pageInfo2        "நீங்கள் வேற என்ன செய்ய முடியும் என்பது பற்றி மேலும் அறிய.">
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+
+
+
+
+
+
+
+<!ENTITY tabgroupsmigration.bookmarkbutton      "Show Bookmarked Tab Groups">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; has bookmarked all your groups so you haven’t lost anything.">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "Learn about Tab Groups replacement add-ons.">
+<!ENTITY tabgroupsmigration.pagetitle2          "We’ve removed Tab Groups, but saved your tabs">
+<!ENTITY tabgroupsmigration.restoredescription  "You can also choose to restore some or all background groups into windows now:">
+
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+<!ENTITY tabgroupsmigration.tabtitle            "Migrate your other Tab Groups">
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Your add-ons and customizations have been removed and your browser settings have been restored to their defaults. If this didn’t fix your issue, ">
+
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+<!ENTITY welcomeback2.restoreButton  "Let’s go!">

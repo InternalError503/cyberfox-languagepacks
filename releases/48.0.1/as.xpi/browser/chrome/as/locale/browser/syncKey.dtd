@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncKey.page.title               "আপোনাৰ &syncBrand.fullName.label; কি'">
+<!ENTITY syncKey.page.description2        "আপোনাৰ &syncBrand.fullName.label; একাওন্টত থকা তথ্য ডিক'ড কৰিবলে এই কি' ব্যৱহাৰ কৰা হয়। আপুনি যেতিয়ায় এটা নতুন ডিভাইচত &syncBrand.fullName.label; সংৰূপণ কৰিব তেতিয়ায় কি'টো সুমুৱাব লাগিব।">
+<!ENTITY syncKey.keepItSecret.heading     "ইয়াক গোপন ৰাখক">
+
+<!ENTITY syncKey.keepItSafe.heading       "ইয়াক সুৰক্ষিত ৰাখক">
+<!ENTITY syncKey.keepItSafe1.description  "এই কি' নেহেৰুৱাব">
+
+
+
+<!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; আৰু আপোনাৰ গোপনীয়তাৰ বিষয়ে অধিক জানক ">
+<!ENTITY syncKey.findOutMore2.label       "।">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; সেৱাৰ চুক্তিসমূহ উপলব্ধ হয় ">
+<!ENTITY syncKey.footer2.label            "। গোপনীয়তাৰ নীতি উপলব্ধ হয় ">
+<!ENTITY syncKey.footer3.label            "।">
+
+<!ENTITY syncKey.keepItSafe2.description  " We don’t keep a copy of your key (that wouldn’t be keeping it secret!) so ">
+<!ENTITY syncKey.keepItSafe3.description  "we can’t help you recover it">
+<!ENTITY syncKey.keepItSafe4a.description " if it’s lost. You’ll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you’re the only one who can access your &syncBrand.fullName.label; data.">
