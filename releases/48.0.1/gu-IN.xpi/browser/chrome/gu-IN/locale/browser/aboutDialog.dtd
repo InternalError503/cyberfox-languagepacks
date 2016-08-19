@@ -7,10 +7,10 @@
 <!ENTITY bottomLinks.privacy        "ખાનગી પોલિસી">
 <!ENTITY bottomLinks.rights         "અંતિમ વપરાશકર્તા હકો">
 <!ENTITY community.creditsLink      "વૈશ્વીક સમુદાય">
-<!ENTITY community.middle2          ", ">
-<!ENTITY community.end3             " વેબને બધા માટે મુક્ત, જાહેર અને સુલભ બનાવી રાખવા માટે ભેગા કામ કરીએ છીએ.">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.start2           "&brandShortName; તેના દ્દારા રચેલ છે ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!ENTITY contribute.end             "">
 <!ENTITY contribute.getInvolvedLink "ભાગીદાર થાઓ!">
 <!ENTITY contribute.start           "શું મનોરંજક લાગે છે? ">

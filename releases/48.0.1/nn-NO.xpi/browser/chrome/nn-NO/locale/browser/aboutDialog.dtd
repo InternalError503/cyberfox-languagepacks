@@ -30,13 +30,13 @@
 <!ENTITY community.exp.creditsLink  "globalt samfunn">
 <!ENTITY community.exp.end          " som jobbar saman for å halda nettet ope, allment og tilgjengeleg for alle.">
 
-<!ENTITY community.start2           "&brandShortName; er utvikla av ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", eit ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end3             " som arbeider saman for å halda nettet ope, allment, og tilgjengeleg for alle.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY helpus.start               "Vil du hjelpa til? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
