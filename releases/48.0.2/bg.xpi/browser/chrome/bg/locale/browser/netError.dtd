@@ -1,0 +1,209 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Проблем при зареждане на страница">
+<!ENTITY retry.label "Нов опит">
+<!ENTITY returnToPreviousPage.label "Връщане назад">
+<!ENTITY advanced.label "Допълнителни">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Не може да бъде установена връзка">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Този адрес е ограничен">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сървърът не е намерен">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Проверете адреса за правописни грешки, като например 
+<strong>ww</strong>.example.com вместо 
+<strong>www</strong>.example.com</li> 
+<li>Ако не можете да заредите каквато и да е страница, 
+ проверете хардуера.</li> 
+<li>Ако компютърът ви е зад защитна стена или прокси, 
+проверете дали на &brandShortName; е разрешен достъп до мрежата.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Файлът не е намерен">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> 
+<li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Опа.">
+<!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
+
+<!ENTITY malformedURI.title "Адресът е невалиден">
+<!ENTITY malformedURI.longDesc "<ul>
+<li>Обикновено адресите изглеждат така:
+<strong>http://www.example.com/</strong></li>
+<li>Проверете дали използвате наклонени черти
+(т.е. <strong>/</strong>).</li>
+</ul>">
+
+<!ENTITY netInterrupt.title "Връзката беше прекъсната">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
+<!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
+
+<!ENTITY netOffline.title "Режим на работа извън мрежата">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Опасен вид файл">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Връзката беше прекъсната">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Просрочено време на връзката">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Може би трябва да инсталирате друг софтуер, за да отворите този адрес.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва свързване">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Проверете дали настройките на проксито са правилни.</li> 
+<li>Свържете се с мрежовия администратор и проверете дали 
+прокси сървърът работи.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде намерен">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+<li>Проверете дали настройките на прокси сървъра са правилни.</li>
+<li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете
+дали на &brandShortName; е разрешен достъпът до Интернет.</li>
+</ul>">
+
+<!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
+<!ENTITY redirectLoop.longDesc "<ul>
+<li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li>
+</ul>">
+
+<!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
+<!ENTITY unknownSocketType.longDesc "<ul>
+<li>Проверете дали системата има инсталиран Personal Security Manager.</li>
+<li>Настройките на сървъра може да са нестандартни.</li>
+</ul>">
+
+<!ENTITY nssFailure2.title "Грешка в шифрованата връзка">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> 
+<li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Грешка в шифрованата връзка">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Това може да е проблем с настройките на сървъра или някой се опитва 
+да се представи за този сървър.</li> 
+<li>Ако преди сте се свързвали успешно с този сайт, 
+грешката може да е временна и може да опитайте отново по-късно.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul>
+<li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li>
+<li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li>
+<li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете
+дали на &brandShortName; е разрешен достъпът до Интернет.</li>
+</ul>">
+
+<!ENTITY malwareBlocked.title "Подозрение за атакуващ сайт!">
+<!ENTITY malwareBlocked.longDesc "<p>Атакуващите сайтове опитват да инсталират програми, които крадат лична информация, повреждат компютъра ви или го използват за атака на други компютри.</p> 
+<p>Собствениците на сайтове, които смятат че сайтовете им несправедливо са докладвани като атакуващи, могат да <a href='http://www.stopbadware.org/home/reviewinfo' >поискат проверка</a>.</p>">
+
+<!ENTITY unwantedBlocked.title "Предполагаема страница с нежелан софтуер!">
+<!ENTITY unwantedBlocked.longDesc "<p>Страниците с нежелан софтуер се опитват да инсталират софтуер, който подвежда и влияе по неочакван начин на вашия компютър.</p>">
+
+<!ENTITY phishingBlocked.title "Подозрение за измамнически сайт!">
+<!ENTITY phishingBlocked.longDesc "<p>Въвеждането на лична информация в тази страница може да доведе до кражба на идентичността и други измами.</p> 
+<p>Този вид измами са известни като измамнически атаки, при които се имитират страници и е-адреси на сайтове на които вярвате.</p>">
+
+<!ENTITY forbiddenBlocked.title "Забранен сайт">
+<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; предотврати зареждането на тази страница, защото е настроен да я блокира.</p>">
+
+<!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка на развалено съдържание">
+<!ENTITY corruptedContentError.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "Или може да добавите изключение…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
+<!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако не се доверявате на вашата свързаност с Интернет или ако не сте свикнали да виждате такове предупреждение за точно този сървър.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY errorReporting.automatic2 "Докладвайте такива грешки, за да помогнете на Mozilla да идентифицира и блокира злонамерени сайтове">
+<!ENTITY errorReporting.learnMore "Научете повече…">
+<!ENTITY errorReporting.sending "Изпращане на доклад">
+<!ENTITY errorReporting.sent "Докладът изпратен">
+<!ENTITY errorReporting.tryAgain "Нов опит">
+
+<!ENTITY remoteXUL.title "Отдалечен XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Вашата връзка не е защитена">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Допълнителни">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
+<!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
+
+<!ENTITY certerror.copyToClipboard.label "Copy text to clipboard">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
+
+<!ENTITY certerror.longpagetitle1 "Your connection is not secure">
+
+<!ENTITY certerror.pagetitle1  "Insecure Connection">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It may have been removed, moved, or file permissions may be preventing access.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY inadequateSecurityError.title "Your connection is not secure">
