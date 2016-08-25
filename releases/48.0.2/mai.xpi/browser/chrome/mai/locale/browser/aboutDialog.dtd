@@ -30,13 +30,13 @@
 <!ENTITY community.exp.creditsLink  "वैश्विक समुदाय ">
 <!ENTITY community.exp.end          " वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सं प्रयासरत ">
 
-<!ENTITY community.start2           "&brandShortName; बनाएल गेल अछि ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", एकटा ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "वैश्विक समुदाय">
-<!ENTITY community.end3             " वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सँ प्रयासरत.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY helpus.start               "मदति करए चाहैत छी?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
