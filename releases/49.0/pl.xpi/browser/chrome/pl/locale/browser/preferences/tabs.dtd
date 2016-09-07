@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabsGroup.label "Karty">
+
+<!ENTITY newWindowsAsTabs.label       "Otwieraj nowe karty zamiast nowych okien">
+<!ENTITY newWindowsAsTabs.accesskey "k">
+<!ENTITY warnCloseMultipleTabs.label      "Ostrzegaj przed zamknięciem wielu kart">
+<!ENTITY warnCloseMultipleTabs.accesskey "a">
+<!ENTITY warnOpenManyTabs.label           "Ostrzegaj, jeśli otwarcie zbyt wielu kart może spowolnić program &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "m">
+
+<!ENTITY switchToNewTabs.label        "Po otwarciu odnośnika w nowej karcie przechodź do niej automatycznie">
+<!ENTITY switchToNewTabs.accesskey    "c">
+
+<!ENTITY showTabsInTaskbar.label          "Wyświetlaj podgląd kart na pasku zadań Windows">
+<!ENTITY showTabsInTaskbar.accesskey "W">

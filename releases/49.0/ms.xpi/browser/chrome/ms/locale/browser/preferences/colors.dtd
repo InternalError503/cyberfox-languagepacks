@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Warna">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+
+
+<!ENTITY  overridePageColors.always.label "Sentiasa">
+
+<!ENTITY  overridePageColors.never.label  "Tidak sekali">
+
+<!ENTITY  color                           "Teks dan Latar Belakang">
+<!ENTITY  textColor.label                 "Teks:">
+<!ENTITY  textColor.accesskey             "k">
+<!ENTITY  backgroundColor.label           "Latar:">
+<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  useSystemColors.label           "Guna warna sistem">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Pautan garis bawah">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "Pautan Warna">
+<!ENTITY  linkColor.label                 "Pautan Belum Dilawat:">
+<!ENTITY  linkColor.accesskey             "B">
+<!ENTITY  visitedLinkColor.label          "Pautan Dilawat:">
+<!ENTITY  visitedLinkColor.accesskey      "w">
+
+<!ENTITY  overridePageColors.accesskey    "O">
+<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
+
+<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">

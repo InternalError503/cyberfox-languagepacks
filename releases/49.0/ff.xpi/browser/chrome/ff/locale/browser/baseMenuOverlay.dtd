@@ -1,0 +1,72 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY minimizeWindow.label     "Taggu">
+<!ENTITY bringAllToFront.label    "Addu Fof Yeeso">
+<!ENTITY zoomWindow.label         "Lonngo">
+<!ENTITY windowMenu.label         "Henorde">
+
+<!ENTITY helpMenu.label           "Ballal"> 
+<!ENTITY helpMenu.accesskey       "B"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+
+
+
+
+
+
+
+<!ENTITY helpKeyboardShortcuts.label     "Codorɗe Tappirde">
+<!ENTITY helpKeyboardShortcuts.accesskey "C">
+
+<!ENTITY helpSafeMode.label       "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
+<!ENTITY helpSafeMode.accesskey   "H">
+
+
+
+<!ENTITY helpTroubleshootingInfo.label      "Humpito Ñawndugol Caɗeele">
+<!ENTITY helpTroubleshootingInfo.accesskey  "H">
+
+<!ENTITY helpFeedbackPage.label      "Neldu Duttinal…">
+<!ENTITY helpFeedbackPage.accesskey  "N">
+
+
+
+<!ENTITY preferencesCmdMac.label        "Cuɓoraaɗe…">
+
+
+<!ENTITY servicesMenuMac.label          "Carworɗe">
+
+
+
+<!ENTITY hideOtherAppsCmdMac.label      "Suuɗ Goɗɗi">
+
+
+<!ENTITY showAllAppsCmdMac.label        "Hollu Fof">
+
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "e">
+
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpMenuWin.accesskey    "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
+<!ENTITY helpShowTour2.accesskey        "o">
+
+<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
+<!ENTITY hideThisAppCmdMac2.label       "Hide &brandShorterName;">
+
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
