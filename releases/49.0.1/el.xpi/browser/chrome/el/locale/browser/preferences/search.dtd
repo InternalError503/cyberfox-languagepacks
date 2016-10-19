@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλογή της προεπιλεγμένης μηχανής αναζήτησης. Ο &brandShortName; την χρησιμοποιεί στην μπάρα διευθύνσεων, την μπάρα αναζήτησης και την αρχική σελίδα.">
+
+<!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτηση">
+
+
+
+
+
+<!ENTITY engineNameColumn.label                "Μηχανή Αναζήτησης">
+<!ENTITY engineKeywordColumn.label             "Λέξη Κλειδί">
+
+
+<!ENTITY removeEngine.label                    "Αφαίρεση">
+
+
+
+<!ENTITY addMoreSearchEngines.label            "Add more search engines…">
+
+<!ENTITY chooseWhichOneToDisplay.label         "The search bar lets you search alternate engines directly. Choose which ones to display.">
+
+<!ENTITY oneClickSearchEngines.label           "One-click search engines">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+<!ENTITY redirectWindowsSearch.accesskey "W">
+
+<!ENTITY redirectWindowsSearch.label "Use this search engine for searches from Windows">
+<!ENTITY removeEngine.accesskey                "r">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Restore Default Search Engines">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+
+<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">

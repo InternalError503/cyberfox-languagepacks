@@ -1,0 +1,162 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Masalah memuatkan laman">
+<!ENTITY retry.label "Cuba Lagi">
+
+
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Tidak dapat menyambung">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Periksa alamat kerana kesilapan menaip seperti <strong>ww</strong>.example.com sebaliknya <strong>www</strong>.example.com</li> <li>Jika anda gagal memuatkan sebarang laman, periksa rangkaian komputer  anda</li> <li>Jika komputer atau rangkaian anda dilindungi oleh firewall atau proksi, pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li> </ul>">
+
+<!ENTITY fileNotFound.title "Fail tidak ditemui">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
+
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini kerana sebab tertentu.</p>">
+
+<!ENTITY malformedURI.title "Alamat tidak sah">
+<!ENTITY malformedURI.longDesc "<ul> <li>Alamat Web biasanya ditulis seperti <strong>http://www.example.com/</strong></li> <li>Pastikan yang anda menggunakan slash (cth. <strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.title "Sambungan diganggu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Dokumen Luput">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Sekali Lagi untuk meminta dokumen daripada laman web.</li></ul>">
+
+<!ENTITY netOffline.title "Mod luat talian">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Tekan &quot;Try Again&quot; untuk menukar kepada mod dalam talian dan muat kembali laman.</li> </ul>">
+
+<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+
+<!ENTITY netReset.title "Sambungan diulang tetap">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li> <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi berfungsi.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk pastikan yang sambungannya betul.</li> <li>Pastikan komputer anda mempunyai sambungan rangkaian yang berfungsi.</li> <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan yang &brandShortName; dibenarkan mencapai Web.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Laman tidak diarahkan dengan betul">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadagkala disebabkan oleh melumpuhkan atau penolakan dari menerima cookie.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Tindak balas tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Periksa untuk pastikan yang sistem anda mempunyai Pengurus Sekuriti Peribadi yang terpasang.</li> <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> </ul>">
+
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang anda cuba lihat tidak dapat ditunjukkan kerana kesahan data yang diterima tidak dapat disahkan.</li> <li>Sila hubungi pemilik laman web bagi memaklumkan masalah ini.</li> </ul>">
+
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+<!ENTITY sharedLongDesc "<ul> <li>tidak wujud buat sementara waktu atau terlalu sibuk. Cuba beberapa ketika lagi.</li> <li>Jika anda gagal memuatkan sebarang laman, periksa sambungan rangkaian komputer anda.</li> <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li> </ul>">
+
+<!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
+
+<!ENTITY errorReporting.learnMore "Ketahui lanjut…">
+
+<!ENTITY remoteXUL.title "XUL Tempat Lain">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+<!ENTITY advanced.label "Advanced">
+<!ENTITY certerror.copyToClipboard.label "Copy text to clipboard">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
+
+<!ENTITY certerror.longpagetitle1 "Your connection is not secure">
+
+<!ENTITY certerror.pagetitle1  "Insecure Connection">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; may only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>A secure connection to <span id='wrongSystemTime_URL'/> isn’t possible because your clock appears to show the wrong time.</p> <p>Your computer thinks it is <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+
+<!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It may have been removed, moved, or file permissions may be preventing access.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY prefReset.label "Restore default settings">
+
+<!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
+<!ENTITY returnToPreviousPage.label "Go Back">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY sslv3Used.title "Unable to Connect Securely">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
+<!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
+<!ENTITY weakCryptoAdvanced.title "Advanced">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY weakCryptoUsed.title "Your connection is not secure">

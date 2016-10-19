@@ -1,0 +1,9 @@
+atlas-sk
+azet-sk
+dunaj-sk
+eBay
+google
+slovnik-sk
+wikipedia-sk
+zoznam-sk
+ddg
