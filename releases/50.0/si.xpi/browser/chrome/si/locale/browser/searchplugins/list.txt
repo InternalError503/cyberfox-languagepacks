@@ -1,0 +1,6 @@
+amazondotcom
+eBay
+google
+wikipedia-si
+yahoo
+ddg
