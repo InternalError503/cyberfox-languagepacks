@@ -6,7 +6,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-es-CL@firefox.mozilla.org"
+               em:id="langpack-es-CL@8pecxstudios.com"
                em:name="Español (Chile) Language Pack"
                em:version="50.0"
                em:type="8"
