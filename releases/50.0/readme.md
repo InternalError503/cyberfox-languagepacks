@@ -11,6 +11,7 @@ Quick Folder Navigation
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ach.xpi/browser/chrome/ach/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ach.xpi/browser/chrome/ach/locale/browser/appstrings.properties) | appstrings.properties |
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ach.xpi/browser/chrome/ach/locale/browser/browser.dtd) | browser.dtd |
+| ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ach.xpi/browser/chrome/ach/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ach.xpi/browser/chrome/ach/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -23,6 +24,7 @@ Quick Folder Navigation
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/af.xpi/browser/chrome/af/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/af.xpi/browser/chrome/af/locale/browser/appstrings.properties) | appstrings.properties |
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/af.xpi/browser/chrome/af/locale/browser/browser.dtd) | browser.dtd |
+| af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/af.xpi/browser/chrome/af/locale/browser/cyberfox.properties) | cyberfox.properties |
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/af.xpi/browser/chrome/af/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -35,6 +37,7 @@ Quick Folder Navigation
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/an.xpi/browser/chrome/an/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/an.xpi/browser/chrome/an/locale/browser/appstrings.properties) | appstrings.properties |
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/an.xpi/browser/chrome/an/locale/browser/browser.dtd) | browser.dtd |
+| an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/an.xpi/browser/chrome/an/locale/browser/cyberfox.properties) | cyberfox.properties |
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/an.xpi/browser/chrome/an/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -47,6 +50,7 @@ Quick Folder Navigation
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ar.xpi/browser/chrome/ar/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ar.xpi/browser/chrome/ar/locale/browser/appstrings.properties) | appstrings.properties |
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ar.xpi/browser/chrome/ar/locale/browser/browser.dtd) | browser.dtd |
+| ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ar.xpi/browser/chrome/ar/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ar.xpi/browser/chrome/ar/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -59,6 +63,7 @@ Quick Folder Navigation
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/as.xpi/browser/chrome/as/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/as.xpi/browser/chrome/as/locale/browser/appstrings.properties) | appstrings.properties |
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/as.xpi/browser/chrome/as/locale/browser/browser.dtd) | browser.dtd |
+| as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/as.xpi/browser/chrome/as/locale/browser/cyberfox.properties) | cyberfox.properties |
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/as.xpi/browser/chrome/as/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -71,6 +76,7 @@ Quick Folder Navigation
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ast.xpi/browser/chrome/ast/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ast.xpi/browser/chrome/ast/locale/browser/appstrings.properties) | appstrings.properties |
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ast.xpi/browser/chrome/ast/locale/browser/browser.dtd) | browser.dtd |
+| ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ast.xpi/browser/chrome/ast/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ast.xpi/browser/chrome/ast/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -83,6 +89,7 @@ Quick Folder Navigation
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/az.xpi/browser/chrome/az/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/az.xpi/browser/chrome/az/locale/browser/appstrings.properties) | appstrings.properties |
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/az.xpi/browser/chrome/az/locale/browser/browser.dtd) | browser.dtd |
+| az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/az.xpi/browser/chrome/az/locale/browser/cyberfox.properties) | cyberfox.properties |
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/az.xpi/browser/chrome/az/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -95,6 +102,7 @@ Quick Folder Navigation
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/be.xpi/browser/chrome/be/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/be.xpi/browser/chrome/be/locale/browser/appstrings.properties) | appstrings.properties |
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/be.xpi/browser/chrome/be/locale/browser/browser.dtd) | browser.dtd |
+| be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/be.xpi/browser/chrome/be/locale/browser/cyberfox.properties) | cyberfox.properties |
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/be.xpi/browser/chrome/be/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -107,6 +115,7 @@ Quick Folder Navigation
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bg.xpi/browser/chrome/bg/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bg.xpi/browser/chrome/bg/locale/browser/appstrings.properties) | appstrings.properties |
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bg.xpi/browser/chrome/bg/locale/browser/browser.dtd) | browser.dtd |
+| bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bg.xpi/browser/chrome/bg/locale/browser/cyberfox.properties) | cyberfox.properties |
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bg.xpi/browser/chrome/bg/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -119,6 +128,7 @@ Quick Folder Navigation
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/appstrings.properties) | appstrings.properties |
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/browser.dtd) | browser.dtd |
+| bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/cyberfox.properties) | cyberfox.properties |
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -131,6 +141,7 @@ Quick Folder Navigation
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/appstrings.properties) | appstrings.properties |
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/browser.dtd) | browser.dtd |
+| bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/cyberfox.properties) | cyberfox.properties |
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -143,6 +154,7 @@ Quick Folder Navigation
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/br.xpi/browser/chrome/br/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/br.xpi/browser/chrome/br/locale/browser/appstrings.properties) | appstrings.properties |
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/br.xpi/browser/chrome/br/locale/browser/browser.dtd) | browser.dtd |
+| br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/br.xpi/browser/chrome/br/locale/browser/cyberfox.properties) | cyberfox.properties |
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/br.xpi/browser/chrome/br/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -155,6 +167,7 @@ Quick Folder Navigation
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bs.xpi/browser/chrome/bs/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bs.xpi/browser/chrome/bs/locale/browser/appstrings.properties) | appstrings.properties |
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bs.xpi/browser/chrome/bs/locale/browser/browser.dtd) | browser.dtd |
+| bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bs.xpi/browser/chrome/bs/locale/browser/cyberfox.properties) | cyberfox.properties |
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/bs.xpi/browser/chrome/bs/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -167,6 +180,7 @@ Quick Folder Navigation
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ca.xpi/browser/chrome/ca/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ca.xpi/browser/chrome/ca/locale/browser/appstrings.properties) | appstrings.properties |
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ca.xpi/browser/chrome/ca/locale/browser/browser.dtd) | browser.dtd |
+| ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ca.xpi/browser/chrome/ca/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ca.xpi/browser/chrome/ca/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -179,6 +193,7 @@ Quick Folder Navigation
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cak.xpi/browser/chrome/cak/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cak.xpi/browser/chrome/cak/locale/browser/appstrings.properties) | appstrings.properties |
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cak.xpi/browser/chrome/cak/locale/browser/browser.dtd) | browser.dtd |
+| cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cak.xpi/browser/chrome/cak/locale/browser/cyberfox.properties) | cyberfox.properties |
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cak.xpi/browser/chrome/cak/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -191,6 +206,7 @@ Quick Folder Navigation
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cs.xpi/browser/chrome/cs/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cs.xpi/browser/chrome/cs/locale/browser/appstrings.properties) | appstrings.properties |
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cs.xpi/browser/chrome/cs/locale/browser/browser.dtd) | browser.dtd |
+| cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cs.xpi/browser/chrome/cs/locale/browser/cyberfox.properties) | cyberfox.properties |
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cs.xpi/browser/chrome/cs/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -203,6 +219,7 @@ Quick Folder Navigation
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cy.xpi/browser/chrome/cy/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cy.xpi/browser/chrome/cy/locale/browser/appstrings.properties) | appstrings.properties |
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cy.xpi/browser/chrome/cy/locale/browser/browser.dtd) | browser.dtd |
+| cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cy.xpi/browser/chrome/cy/locale/browser/cyberfox.properties) | cyberfox.properties |
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/cy.xpi/browser/chrome/cy/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -215,6 +232,7 @@ Quick Folder Navigation
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/da.xpi/browser/chrome/da/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/da.xpi/browser/chrome/da/locale/browser/appstrings.properties) | appstrings.properties |
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/da.xpi/browser/chrome/da/locale/browser/browser.dtd) | browser.dtd |
+| da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/da.xpi/browser/chrome/da/locale/browser/cyberfox.properties) | cyberfox.properties |
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/da.xpi/browser/chrome/da/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -227,6 +245,7 @@ Quick Folder Navigation
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/de.xpi/browser/chrome/de/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/de.xpi/browser/chrome/de/locale/browser/appstrings.properties) | appstrings.properties |
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/de.xpi/browser/chrome/de/locale/browser/browser.dtd) | browser.dtd |
+| de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/de.xpi/browser/chrome/de/locale/browser/cyberfox.properties) | cyberfox.properties |
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/de.xpi/browser/chrome/de/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -239,6 +258,7 @@ Quick Folder Navigation
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/dsb.xpi/browser/chrome/dsb/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/dsb.xpi/browser/chrome/dsb/locale/browser/appstrings.properties) | appstrings.properties |
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/dsb.xpi/browser/chrome/dsb/locale/browser/browser.dtd) | browser.dtd |
+| dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/dsb.xpi/browser/chrome/dsb/locale/browser/cyberfox.properties) | cyberfox.properties |
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/dsb.xpi/browser/chrome/dsb/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -251,6 +271,7 @@ Quick Folder Navigation
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/el.xpi/browser/chrome/el/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/el.xpi/browser/chrome/el/locale/browser/appstrings.properties) | appstrings.properties |
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/el.xpi/browser/chrome/el/locale/browser/browser.dtd) | browser.dtd |
+| el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/el.xpi/browser/chrome/el/locale/browser/cyberfox.properties) | cyberfox.properties |
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/el.xpi/browser/chrome/el/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -263,6 +284,7 @@ Quick Folder Navigation
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/appstrings.properties) | appstrings.properties |
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/browser.dtd) | browser.dtd |
+| en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/cyberfox.properties) | cyberfox.properties |
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-GB.xpi/browser/chrome/en-GB/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -275,6 +297,7 @@ Quick Folder Navigation
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-US.xpi/browser/chrome/en-US/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-US.xpi/browser/chrome/en-US/locale/browser/appstrings.properties) | appstrings.properties |
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-US.xpi/browser/chrome/en-US/locale/browser/browser.dtd) | browser.dtd |
+| en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-US.xpi/browser/chrome/en-US/locale/browser/cyberfox.properties) | cyberfox.properties |
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-US.xpi/browser/chrome/en-US/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -287,6 +310,7 @@ Quick Folder Navigation
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/appstrings.properties) | appstrings.properties |
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/browser.dtd) | browser.dtd |
+| en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/cyberfox.properties) | cyberfox.properties |
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -299,6 +323,7 @@ Quick Folder Navigation
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eo.xpi/browser/chrome/eo/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eo.xpi/browser/chrome/eo/locale/browser/appstrings.properties) | appstrings.properties |
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eo.xpi/browser/chrome/eo/locale/browser/browser.dtd) | browser.dtd |
+| eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eo.xpi/browser/chrome/eo/locale/browser/cyberfox.properties) | cyberfox.properties |
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eo.xpi/browser/chrome/eo/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -311,6 +336,7 @@ Quick Folder Navigation
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-AR.xpi/browser/chrome/es-AR/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-AR.xpi/browser/chrome/es-AR/locale/browser/appstrings.properties) | appstrings.properties |
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-AR.xpi/browser/chrome/es-AR/locale/browser/browser.dtd) | browser.dtd |
+| es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-AR.xpi/browser/chrome/es-AR/locale/browser/cyberfox.properties) | cyberfox.properties |
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-AR.xpi/browser/chrome/es-AR/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -323,6 +349,7 @@ Quick Folder Navigation
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-CL.xpi/browser/chrome/es-CL/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-CL.xpi/browser/chrome/es-CL/locale/browser/appstrings.properties) | appstrings.properties |
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-CL.xpi/browser/chrome/es-CL/locale/browser/browser.dtd) | browser.dtd |
+| es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-CL.xpi/browser/chrome/es-CL/locale/browser/cyberfox.properties) | cyberfox.properties |
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-CL.xpi/browser/chrome/es-CL/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -335,6 +362,7 @@ Quick Folder Navigation
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-ES.xpi/browser/chrome/es-ES/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-ES.xpi/browser/chrome/es-ES/locale/browser/appstrings.properties) | appstrings.properties |
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-ES.xpi/browser/chrome/es-ES/locale/browser/browser.dtd) | browser.dtd |
+| es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-ES.xpi/browser/chrome/es-ES/locale/browser/cyberfox.properties) | cyberfox.properties |
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-ES.xpi/browser/chrome/es-ES/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -347,6 +375,7 @@ Quick Folder Navigation
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-MX.xpi/browser/chrome/es-MX/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-MX.xpi/browser/chrome/es-MX/locale/browser/appstrings.properties) | appstrings.properties |
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-MX.xpi/browser/chrome/es-MX/locale/browser/browser.dtd) | browser.dtd |
+| es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-MX.xpi/browser/chrome/es-MX/locale/browser/cyberfox.properties) | cyberfox.properties |
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/es-MX.xpi/browser/chrome/es-MX/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -359,6 +388,7 @@ Quick Folder Navigation
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/et.xpi/browser/chrome/et/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/et.xpi/browser/chrome/et/locale/browser/appstrings.properties) | appstrings.properties |
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/et.xpi/browser/chrome/et/locale/browser/browser.dtd) | browser.dtd |
+| et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/et.xpi/browser/chrome/et/locale/browser/cyberfox.properties) | cyberfox.properties |
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/et.xpi/browser/chrome/et/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -371,6 +401,7 @@ Quick Folder Navigation
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eu.xpi/browser/chrome/eu/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eu.xpi/browser/chrome/eu/locale/browser/appstrings.properties) | appstrings.properties |
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eu.xpi/browser/chrome/eu/locale/browser/browser.dtd) | browser.dtd |
+| eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eu.xpi/browser/chrome/eu/locale/browser/cyberfox.properties) | cyberfox.properties |
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/eu.xpi/browser/chrome/eu/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -383,6 +414,7 @@ Quick Folder Navigation
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fa.xpi/browser/chrome/fa/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fa.xpi/browser/chrome/fa/locale/browser/appstrings.properties) | appstrings.properties |
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fa.xpi/browser/chrome/fa/locale/browser/browser.dtd) | browser.dtd |
+| fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fa.xpi/browser/chrome/fa/locale/browser/cyberfox.properties) | cyberfox.properties |
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fa.xpi/browser/chrome/fa/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -395,6 +427,7 @@ Quick Folder Navigation
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ff.xpi/browser/chrome/ff/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ff.xpi/browser/chrome/ff/locale/browser/appstrings.properties) | appstrings.properties |
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ff.xpi/browser/chrome/ff/locale/browser/browser.dtd) | browser.dtd |
+| ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ff.xpi/browser/chrome/ff/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ff.xpi/browser/chrome/ff/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -407,6 +440,7 @@ Quick Folder Navigation
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fi.xpi/browser/chrome/fi/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fi.xpi/browser/chrome/fi/locale/browser/appstrings.properties) | appstrings.properties |
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fi.xpi/browser/chrome/fi/locale/browser/browser.dtd) | browser.dtd |
+| fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fi.xpi/browser/chrome/fi/locale/browser/cyberfox.properties) | cyberfox.properties |
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fi.xpi/browser/chrome/fi/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -419,6 +453,7 @@ Quick Folder Navigation
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fr.xpi/browser/chrome/fr/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fr.xpi/browser/chrome/fr/locale/browser/appstrings.properties) | appstrings.properties |
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fr.xpi/browser/chrome/fr/locale/browser/browser.dtd) | browser.dtd |
+| fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fr.xpi/browser/chrome/fr/locale/browser/cyberfox.properties) | cyberfox.properties |
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fr.xpi/browser/chrome/fr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -431,6 +466,7 @@ Quick Folder Navigation
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/appstrings.properties) | appstrings.properties |
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/browser.dtd) | browser.dtd |
+| fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/cyberfox.properties) | cyberfox.properties |
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -443,6 +479,7 @@ Quick Folder Navigation
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/appstrings.properties) | appstrings.properties |
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/browser.dtd) | browser.dtd |
+| ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -455,6 +492,7 @@ Quick Folder Navigation
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gd.xpi/browser/chrome/gd/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gd.xpi/browser/chrome/gd/locale/browser/appstrings.properties) | appstrings.properties |
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gd.xpi/browser/chrome/gd/locale/browser/browser.dtd) | browser.dtd |
+| gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gd.xpi/browser/chrome/gd/locale/browser/cyberfox.properties) | cyberfox.properties |
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gd.xpi/browser/chrome/gd/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -467,6 +505,7 @@ Quick Folder Navigation
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gl.xpi/browser/chrome/gl/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gl.xpi/browser/chrome/gl/locale/browser/appstrings.properties) | appstrings.properties |
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gl.xpi/browser/chrome/gl/locale/browser/browser.dtd) | browser.dtd |
+| gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gl.xpi/browser/chrome/gl/locale/browser/cyberfox.properties) | cyberfox.properties |
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gl.xpi/browser/chrome/gl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -479,6 +518,7 @@ Quick Folder Navigation
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gn.xpi/browser/chrome/gn/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gn.xpi/browser/chrome/gn/locale/browser/appstrings.properties) | appstrings.properties |
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gn.xpi/browser/chrome/gn/locale/browser/browser.dtd) | browser.dtd |
+| gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gn.xpi/browser/chrome/gn/locale/browser/cyberfox.properties) | cyberfox.properties |
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gn.xpi/browser/chrome/gn/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -491,6 +531,7 @@ Quick Folder Navigation
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/appstrings.properties) | appstrings.properties |
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/browser.dtd) | browser.dtd |
+| gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/cyberfox.properties) | cyberfox.properties |
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -503,6 +544,7 @@ Quick Folder Navigation
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/he.xpi/browser/chrome/he/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/he.xpi/browser/chrome/he/locale/browser/appstrings.properties) | appstrings.properties |
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/he.xpi/browser/chrome/he/locale/browser/browser.dtd) | browser.dtd |
+| he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/he.xpi/browser/chrome/he/locale/browser/cyberfox.properties) | cyberfox.properties |
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/he.xpi/browser/chrome/he/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -515,6 +557,7 @@ Quick Folder Navigation
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/appstrings.properties) | appstrings.properties |
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/browser.dtd) | browser.dtd |
+| hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/cyberfox.properties) | cyberfox.properties |
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -527,6 +570,7 @@ Quick Folder Navigation
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hr.xpi/browser/chrome/hr/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hr.xpi/browser/chrome/hr/locale/browser/appstrings.properties) | appstrings.properties |
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hr.xpi/browser/chrome/hr/locale/browser/browser.dtd) | browser.dtd |
+| hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hr.xpi/browser/chrome/hr/locale/browser/cyberfox.properties) | cyberfox.properties |
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hr.xpi/browser/chrome/hr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -539,6 +583,7 @@ Quick Folder Navigation
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hsb.xpi/browser/chrome/hsb/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hsb.xpi/browser/chrome/hsb/locale/browser/appstrings.properties) | appstrings.properties |
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hsb.xpi/browser/chrome/hsb/locale/browser/browser.dtd) | browser.dtd |
+| hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hsb.xpi/browser/chrome/hsb/locale/browser/cyberfox.properties) | cyberfox.properties |
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hsb.xpi/browser/chrome/hsb/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -551,6 +596,7 @@ Quick Folder Navigation
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hu.xpi/browser/chrome/hu/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hu.xpi/browser/chrome/hu/locale/browser/appstrings.properties) | appstrings.properties |
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hu.xpi/browser/chrome/hu/locale/browser/browser.dtd) | browser.dtd |
+| hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hu.xpi/browser/chrome/hu/locale/browser/cyberfox.properties) | cyberfox.properties |
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hu.xpi/browser/chrome/hu/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -563,6 +609,7 @@ Quick Folder Navigation
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/appstrings.properties) | appstrings.properties |
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/browser.dtd) | browser.dtd |
+| hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/cyberfox.properties) | cyberfox.properties |
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -575,6 +622,7 @@ Quick Folder Navigation
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/id.xpi/browser/chrome/id/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/id.xpi/browser/chrome/id/locale/browser/appstrings.properties) | appstrings.properties |
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/id.xpi/browser/chrome/id/locale/browser/browser.dtd) | browser.dtd |
+| id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/id.xpi/browser/chrome/id/locale/browser/cyberfox.properties) | cyberfox.properties |
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/id.xpi/browser/chrome/id/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -587,6 +635,7 @@ Quick Folder Navigation
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/is.xpi/browser/chrome/is/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/is.xpi/browser/chrome/is/locale/browser/appstrings.properties) | appstrings.properties |
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/is.xpi/browser/chrome/is/locale/browser/browser.dtd) | browser.dtd |
+| is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/is.xpi/browser/chrome/is/locale/browser/cyberfox.properties) | cyberfox.properties |
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/is.xpi/browser/chrome/is/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -599,6 +648,7 @@ Quick Folder Navigation
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/it.xpi/browser/chrome/it/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/it.xpi/browser/chrome/it/locale/browser/appstrings.properties) | appstrings.properties |
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/it.xpi/browser/chrome/it/locale/browser/browser.dtd) | browser.dtd |
+| it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/it.xpi/browser/chrome/it/locale/browser/cyberfox.properties) | cyberfox.properties |
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/it.xpi/browser/chrome/it/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -611,6 +661,7 @@ Quick Folder Navigation
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ja.xpi/browser/chrome/ja/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ja.xpi/browser/chrome/ja/locale/browser/appstrings.properties) | appstrings.properties |
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ja.xpi/browser/chrome/ja/locale/browser/browser.dtd) | browser.dtd |
+| ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ja.xpi/browser/chrome/ja/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ja.xpi/browser/chrome/ja/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -623,6 +674,7 @@ Quick Folder Navigation
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kk.xpi/browser/chrome/kk/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kk.xpi/browser/chrome/kk/locale/browser/appstrings.properties) | appstrings.properties |
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kk.xpi/browser/chrome/kk/locale/browser/browser.dtd) | browser.dtd |
+| kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kk.xpi/browser/chrome/kk/locale/browser/cyberfox.properties) | cyberfox.properties |
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kk.xpi/browser/chrome/kk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -635,6 +687,7 @@ Quick Folder Navigation
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/km.xpi/browser/chrome/km/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/km.xpi/browser/chrome/km/locale/browser/appstrings.properties) | appstrings.properties |
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/km.xpi/browser/chrome/km/locale/browser/browser.dtd) | browser.dtd |
+| km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/km.xpi/browser/chrome/km/locale/browser/cyberfox.properties) | cyberfox.properties |
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/km.xpi/browser/chrome/km/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -647,6 +700,7 @@ Quick Folder Navigation
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kn.xpi/browser/chrome/kn/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kn.xpi/browser/chrome/kn/locale/browser/appstrings.properties) | appstrings.properties |
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kn.xpi/browser/chrome/kn/locale/browser/browser.dtd) | browser.dtd |
+| kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kn.xpi/browser/chrome/kn/locale/browser/cyberfox.properties) | cyberfox.properties |
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/kn.xpi/browser/chrome/kn/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -659,6 +713,7 @@ Quick Folder Navigation
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ko.xpi/browser/chrome/ko/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ko.xpi/browser/chrome/ko/locale/browser/appstrings.properties) | appstrings.properties |
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ko.xpi/browser/chrome/ko/locale/browser/browser.dtd) | browser.dtd |
+| ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ko.xpi/browser/chrome/ko/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ko.xpi/browser/chrome/ko/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -671,6 +726,7 @@ Quick Folder Navigation
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lij.xpi/browser/chrome/lij/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lij.xpi/browser/chrome/lij/locale/browser/appstrings.properties) | appstrings.properties |
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lij.xpi/browser/chrome/lij/locale/browser/browser.dtd) | browser.dtd |
+| lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lij.xpi/browser/chrome/lij/locale/browser/cyberfox.properties) | cyberfox.properties |
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lij.xpi/browser/chrome/lij/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -683,6 +739,7 @@ Quick Folder Navigation
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lt.xpi/browser/chrome/lt/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lt.xpi/browser/chrome/lt/locale/browser/appstrings.properties) | appstrings.properties |
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lt.xpi/browser/chrome/lt/locale/browser/browser.dtd) | browser.dtd |
+| lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lt.xpi/browser/chrome/lt/locale/browser/cyberfox.properties) | cyberfox.properties |
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lt.xpi/browser/chrome/lt/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -695,6 +752,7 @@ Quick Folder Navigation
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lv.xpi/browser/chrome/lv/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lv.xpi/browser/chrome/lv/locale/browser/appstrings.properties) | appstrings.properties |
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lv.xpi/browser/chrome/lv/locale/browser/browser.dtd) | browser.dtd |
+| lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lv.xpi/browser/chrome/lv/locale/browser/cyberfox.properties) | cyberfox.properties |
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/lv.xpi/browser/chrome/lv/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -707,6 +765,7 @@ Quick Folder Navigation
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mai.xpi/browser/chrome/mai/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mai.xpi/browser/chrome/mai/locale/browser/appstrings.properties) | appstrings.properties |
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mai.xpi/browser/chrome/mai/locale/browser/browser.dtd) | browser.dtd |
+| mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mai.xpi/browser/chrome/mai/locale/browser/cyberfox.properties) | cyberfox.properties |
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mai.xpi/browser/chrome/mai/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -719,6 +778,7 @@ Quick Folder Navigation
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mk.xpi/browser/chrome/mk/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mk.xpi/browser/chrome/mk/locale/browser/appstrings.properties) | appstrings.properties |
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mk.xpi/browser/chrome/mk/locale/browser/browser.dtd) | browser.dtd |
+| mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mk.xpi/browser/chrome/mk/locale/browser/cyberfox.properties) | cyberfox.properties |
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mk.xpi/browser/chrome/mk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -731,6 +791,7 @@ Quick Folder Navigation
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ml.xpi/browser/chrome/ml/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ml.xpi/browser/chrome/ml/locale/browser/appstrings.properties) | appstrings.properties |
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ml.xpi/browser/chrome/ml/locale/browser/browser.dtd) | browser.dtd |
+| ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ml.xpi/browser/chrome/ml/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ml.xpi/browser/chrome/ml/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -743,6 +804,7 @@ Quick Folder Navigation
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mr.xpi/browser/chrome/mr/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mr.xpi/browser/chrome/mr/locale/browser/appstrings.properties) | appstrings.properties |
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mr.xpi/browser/chrome/mr/locale/browser/browser.dtd) | browser.dtd |
+| mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mr.xpi/browser/chrome/mr/locale/browser/cyberfox.properties) | cyberfox.properties |
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/mr.xpi/browser/chrome/mr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -755,6 +817,7 @@ Quick Folder Navigation
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ms.xpi/browser/chrome/ms/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ms.xpi/browser/chrome/ms/locale/browser/appstrings.properties) | appstrings.properties |
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ms.xpi/browser/chrome/ms/locale/browser/browser.dtd) | browser.dtd |
+| ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ms.xpi/browser/chrome/ms/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ms.xpi/browser/chrome/ms/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -767,6 +830,7 @@ Quick Folder Navigation
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/appstrings.properties) | appstrings.properties |
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/browser.dtd) | browser.dtd |
+| nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/cyberfox.properties) | cyberfox.properties |
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -779,6 +843,7 @@ Quick Folder Navigation
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nl.xpi/browser/chrome/nl/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nl.xpi/browser/chrome/nl/locale/browser/appstrings.properties) | appstrings.properties |
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nl.xpi/browser/chrome/nl/locale/browser/browser.dtd) | browser.dtd |
+| nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nl.xpi/browser/chrome/nl/locale/browser/cyberfox.properties) | cyberfox.properties |
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nl.xpi/browser/chrome/nl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -791,6 +856,7 @@ Quick Folder Navigation
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/appstrings.properties) | appstrings.properties |
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/browser.dtd) | browser.dtd |
+| nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/cyberfox.properties) | cyberfox.properties |
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -803,6 +869,7 @@ Quick Folder Navigation
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/or.xpi/browser/chrome/or/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/or.xpi/browser/chrome/or/locale/browser/appstrings.properties) | appstrings.properties |
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/or.xpi/browser/chrome/or/locale/browser/browser.dtd) | browser.dtd |
+| or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/or.xpi/browser/chrome/or/locale/browser/cyberfox.properties) | cyberfox.properties |
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/or.xpi/browser/chrome/or/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -815,6 +882,7 @@ Quick Folder Navigation
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/appstrings.properties) | appstrings.properties |
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/browser.dtd) | browser.dtd |
+| pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/cyberfox.properties) | cyberfox.properties |
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -827,6 +895,7 @@ Quick Folder Navigation
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pl.xpi/browser/chrome/pl/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pl.xpi/browser/chrome/pl/locale/browser/appstrings.properties) | appstrings.properties |
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pl.xpi/browser/chrome/pl/locale/browser/browser.dtd) | browser.dtd |
+| pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pl.xpi/browser/chrome/pl/locale/browser/cyberfox.properties) | cyberfox.properties |
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pl.xpi/browser/chrome/pl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -839,6 +908,7 @@ Quick Folder Navigation
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/appstrings.properties) | appstrings.properties |
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/browser.dtd) | browser.dtd |
+| pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/cyberfox.properties) | cyberfox.properties |
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -851,6 +921,7 @@ Quick Folder Navigation
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/appstrings.properties) | appstrings.properties |
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/browser.dtd) | browser.dtd |
+| pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/cyberfox.properties) | cyberfox.properties |
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -863,6 +934,7 @@ Quick Folder Navigation
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/readme.md/browser/chrome/readme/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/readme.md/browser/chrome/readme/locale/browser/appstrings.properties) | appstrings.properties |
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/readme.md/browser/chrome/readme/locale/browser/browser.dtd) | browser.dtd |
+| readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/readme.md/browser/chrome/readme/locale/browser/cyberfox.properties) | cyberfox.properties |
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/readme.md/browser/chrome/readme/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -875,6 +947,7 @@ Quick Folder Navigation
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/rm.xpi/browser/chrome/rm/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/rm.xpi/browser/chrome/rm/locale/browser/appstrings.properties) | appstrings.properties |
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/rm.xpi/browser/chrome/rm/locale/browser/browser.dtd) | browser.dtd |
+| rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/rm.xpi/browser/chrome/rm/locale/browser/cyberfox.properties) | cyberfox.properties |
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/rm.xpi/browser/chrome/rm/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -887,6 +960,7 @@ Quick Folder Navigation
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ro.xpi/browser/chrome/ro/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ro.xpi/browser/chrome/ro/locale/browser/appstrings.properties) | appstrings.properties |
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ro.xpi/browser/chrome/ro/locale/browser/browser.dtd) | browser.dtd |
+| ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ro.xpi/browser/chrome/ro/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ro.xpi/browser/chrome/ro/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -899,6 +973,7 @@ Quick Folder Navigation
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ru.xpi/browser/chrome/ru/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ru.xpi/browser/chrome/ru/locale/browser/appstrings.properties) | appstrings.properties |
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ru.xpi/browser/chrome/ru/locale/browser/browser.dtd) | browser.dtd |
+| ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ru.xpi/browser/chrome/ru/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ru.xpi/browser/chrome/ru/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -911,6 +986,7 @@ Quick Folder Navigation
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/si.xpi/browser/chrome/si/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/si.xpi/browser/chrome/si/locale/browser/appstrings.properties) | appstrings.properties |
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/si.xpi/browser/chrome/si/locale/browser/browser.dtd) | browser.dtd |
+| si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/si.xpi/browser/chrome/si/locale/browser/cyberfox.properties) | cyberfox.properties |
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/si.xpi/browser/chrome/si/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -923,6 +999,7 @@ Quick Folder Navigation
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sk.xpi/browser/chrome/sk/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sk.xpi/browser/chrome/sk/locale/browser/appstrings.properties) | appstrings.properties |
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sk.xpi/browser/chrome/sk/locale/browser/browser.dtd) | browser.dtd |
+| sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sk.xpi/browser/chrome/sk/locale/browser/cyberfox.properties) | cyberfox.properties |
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sk.xpi/browser/chrome/sk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -935,6 +1012,7 @@ Quick Folder Navigation
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sl.xpi/browser/chrome/sl/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sl.xpi/browser/chrome/sl/locale/browser/appstrings.properties) | appstrings.properties |
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sl.xpi/browser/chrome/sl/locale/browser/browser.dtd) | browser.dtd |
+| sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sl.xpi/browser/chrome/sl/locale/browser/cyberfox.properties) | cyberfox.properties |
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sl.xpi/browser/chrome/sl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -947,6 +1025,7 @@ Quick Folder Navigation
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/son.xpi/browser/chrome/son/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/son.xpi/browser/chrome/son/locale/browser/appstrings.properties) | appstrings.properties |
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/son.xpi/browser/chrome/son/locale/browser/browser.dtd) | browser.dtd |
+| son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/son.xpi/browser/chrome/son/locale/browser/cyberfox.properties) | cyberfox.properties |
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/son.xpi/browser/chrome/son/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -959,6 +1038,7 @@ Quick Folder Navigation
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sq.xpi/browser/chrome/sq/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sq.xpi/browser/chrome/sq/locale/browser/appstrings.properties) | appstrings.properties |
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sq.xpi/browser/chrome/sq/locale/browser/browser.dtd) | browser.dtd |
+| sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sq.xpi/browser/chrome/sq/locale/browser/cyberfox.properties) | cyberfox.properties |
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sq.xpi/browser/chrome/sq/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -971,6 +1051,7 @@ Quick Folder Navigation
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sr.xpi/browser/chrome/sr/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sr.xpi/browser/chrome/sr/locale/browser/appstrings.properties) | appstrings.properties |
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sr.xpi/browser/chrome/sr/locale/browser/browser.dtd) | browser.dtd |
+| sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sr.xpi/browser/chrome/sr/locale/browser/cyberfox.properties) | cyberfox.properties |
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sr.xpi/browser/chrome/sr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -983,6 +1064,7 @@ Quick Folder Navigation
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/appstrings.properties) | appstrings.properties |
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/browser.dtd) | browser.dtd |
+| sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/cyberfox.properties) | cyberfox.properties |
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -995,6 +1077,7 @@ Quick Folder Navigation
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ta.xpi/browser/chrome/ta/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ta.xpi/browser/chrome/ta/locale/browser/appstrings.properties) | appstrings.properties |
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ta.xpi/browser/chrome/ta/locale/browser/browser.dtd) | browser.dtd |
+| ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ta.xpi/browser/chrome/ta/locale/browser/cyberfox.properties) | cyberfox.properties |
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/ta.xpi/browser/chrome/ta/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1007,6 +1090,7 @@ Quick Folder Navigation
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/te.xpi/browser/chrome/te/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/te.xpi/browser/chrome/te/locale/browser/appstrings.properties) | appstrings.properties |
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/te.xpi/browser/chrome/te/locale/browser/browser.dtd) | browser.dtd |
+| te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/te.xpi/browser/chrome/te/locale/browser/cyberfox.properties) | cyberfox.properties |
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/te.xpi/browser/chrome/te/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1019,6 +1103,7 @@ Quick Folder Navigation
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/th.xpi/browser/chrome/th/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/th.xpi/browser/chrome/th/locale/browser/appstrings.properties) | appstrings.properties |
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/th.xpi/browser/chrome/th/locale/browser/browser.dtd) | browser.dtd |
+| th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/th.xpi/browser/chrome/th/locale/browser/cyberfox.properties) | cyberfox.properties |
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/th.xpi/browser/chrome/th/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1031,6 +1116,7 @@ Quick Folder Navigation
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/tr.xpi/browser/chrome/tr/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/tr.xpi/browser/chrome/tr/locale/browser/appstrings.properties) | appstrings.properties |
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/tr.xpi/browser/chrome/tr/locale/browser/browser.dtd) | browser.dtd |
+| tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/tr.xpi/browser/chrome/tr/locale/browser/cyberfox.properties) | cyberfox.properties |
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/tr.xpi/browser/chrome/tr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1043,6 +1129,7 @@ Quick Folder Navigation
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uk.xpi/browser/chrome/uk/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uk.xpi/browser/chrome/uk/locale/browser/appstrings.properties) | appstrings.properties |
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uk.xpi/browser/chrome/uk/locale/browser/browser.dtd) | browser.dtd |
+| uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uk.xpi/browser/chrome/uk/locale/browser/cyberfox.properties) | cyberfox.properties |
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uk.xpi/browser/chrome/uk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1055,6 +1142,7 @@ Quick Folder Navigation
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uz.xpi/browser/chrome/uz/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uz.xpi/browser/chrome/uz/locale/browser/appstrings.properties) | appstrings.properties |
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uz.xpi/browser/chrome/uz/locale/browser/browser.dtd) | browser.dtd |
+| uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uz.xpi/browser/chrome/uz/locale/browser/cyberfox.properties) | cyberfox.properties |
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/uz.xpi/browser/chrome/uz/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1067,6 +1155,7 @@ Quick Folder Navigation
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/vi.xpi/browser/chrome/vi/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/vi.xpi/browser/chrome/vi/locale/browser/appstrings.properties) | appstrings.properties |
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/vi.xpi/browser/chrome/vi/locale/browser/browser.dtd) | browser.dtd |
+| vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/vi.xpi/browser/chrome/vi/locale/browser/cyberfox.properties) | cyberfox.properties |
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/vi.xpi/browser/chrome/vi/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1079,6 +1168,7 @@ Quick Folder Navigation
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/xh.xpi/browser/chrome/xh/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/xh.xpi/browser/chrome/xh/locale/browser/appstrings.properties) | appstrings.properties |
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/xh.xpi/browser/chrome/xh/locale/browser/browser.dtd) | browser.dtd |
+| xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/xh.xpi/browser/chrome/xh/locale/browser/cyberfox.properties) | cyberfox.properties |
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/xh.xpi/browser/chrome/xh/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1091,6 +1181,7 @@ Quick Folder Navigation
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/appstrings.properties) | appstrings.properties |
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/browser.dtd) | browser.dtd |
+| zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/cyberfox.properties) | cyberfox.properties |
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
@@ -1103,6 +1194,7 @@ Quick Folder Navigation
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-TW.xpi/browser/chrome/zh-TW/locale/browser/aboutDialog.dtd) | aboutDialog.dtd |
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-TW.xpi/browser/chrome/zh-TW/locale/browser/appstrings.properties) | appstrings.properties |
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-TW.xpi/browser/chrome/zh-TW/locale/browser/browser.dtd) | browser.dtd |
+| zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-TW.xpi/browser/chrome/zh-TW/locale/browser/cyberfox.properties) | cyberfox.properties |
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0/zh-TW.xpi/browser/chrome/zh-TW/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
