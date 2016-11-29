@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-hr@firefox.mozilla.org"
+               em:id="langpack-hr@8pecxstudios.com"
                em:name="Hrvatski (HR) Language Pack"
-               em:version="50.0"
+               em:version="50.0.1"
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>Saša Teković</em:contributor> <em:contributor>Danijel Šnajder</em:contributor> <em:contributor>Robert Okadar</em:contributor> <em:contributor>Anton Gagić</em:contributor> <em:contributor>Ante Karamatić</em:contributor>

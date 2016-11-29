@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-mai@firefox.mozilla.org"
+               em:id="langpack-mai@8pecxstudios.com"
                em:name="Maithili Language Pack"
-               em:version="50.0"
+               em:version="50.0.1"
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>Rajesh Ranjan (mozilla hindi coordinator, email: rajeshkajha@yahoo.com) </em:contributor> <em:contributor>Vaibhav Agarwal, Matrubhasha Team</em:contributor><em:contributor>Ashishi Gupta, Matrubhasha Team</em:contributor>

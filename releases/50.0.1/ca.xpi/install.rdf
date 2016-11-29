@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-ca@firefox.mozilla.org"
+               em:id="langpack-ca@8pecxstudios.com"
                em:name="Català Language Pack"
-               em:version="50.0"
+               em:version="50.0.1"
                em:type="8"
                em:creator="Mozilla.org / Softcatalà">
     <em:contributor>Softcatalà</em:contributor>
