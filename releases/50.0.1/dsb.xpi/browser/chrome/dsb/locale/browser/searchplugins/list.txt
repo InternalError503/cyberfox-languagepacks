@@ -1,0 +1,7 @@
+amazondotcom-de
+bing
+google
+leo_ende_de
+wikipedia-dsb
+yahoo-de
+ddg
