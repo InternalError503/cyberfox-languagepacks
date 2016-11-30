@@ -1,0 +1,7 @@
+amazon-france
+bing
+cnrtl-tlfi-fr
+google
+wikipedia-fr
+yahoo-france
+ddg
