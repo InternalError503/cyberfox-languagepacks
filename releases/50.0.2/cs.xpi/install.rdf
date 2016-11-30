@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-cs@firefox.mozilla.org"
+               em:id="langpack-cs@8pecxstudios.com"
                em:name="Czech (CZ) Language Pack"
-               em:version="50.0"
+               em:version="50.0.2"
                em:type="8"
                em:creator="Mozilla.cz">
     <em:contributor>Pavel Franc</em:contributor> <em:contributor>Pavel Cvrček</em:contributor> <em:contributor>Michal Stanke</em:contributor>

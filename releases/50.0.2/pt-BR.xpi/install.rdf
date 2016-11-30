@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-pt-BR@firefox.mozilla.org"
+               em:id="langpack-pt-BR@8pecxstudios.com"
                em:name="Português (pt-BR) Language Pack"
-               em:version="50.0"
+               em:version="50.0.2"
                em:type="8"
                em:creator="br.mozdev.org">
     <em:contributor>Fernando Pereira Silveira</em:contributor> <em:contributor>Jefferson Hultmann</em:contributor> <em:contributor>Marco Aurélio Krause</em:contributor> <em:contributor>Reuben Morais</em:contributor>
