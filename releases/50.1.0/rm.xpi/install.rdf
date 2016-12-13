@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-rm@firefox.mozilla.org"
+               em:id="langpack-rm@8pecxstudios.com"
                em:name="Rumantsch Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>Martin Cantieni</em:contributor> <em:contributor>Gion-Andri Cantieni</em:contributor> <em:contributor>Sara Hermann</em:contributor> <em:contributor>cordial sustegn da la Lia Rumantscha</em:contributor>

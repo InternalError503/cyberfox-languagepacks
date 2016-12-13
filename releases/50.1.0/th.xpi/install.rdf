@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-th@firefox.mozilla.org"
+               em:id="langpack-th@8pecxstudios.com"
                em:name="ไทย Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>Siriwat Aumngamsup</em:contributor> <em:contributor>Chakard Chalayut</em:contributor> <em:contributor>Jittat Fakcharoenphol</em:contributor> <em:contributor>Isriya Paireepairit</em:contributor> <em:contributor>Nattawat Palakawong Na Ayudhaya</em:contributor> <em:contributor>Patcharaporn Pansuwan</em:contributor> <em:contributor>Polawat Phetra</em:contributor> <em:contributor>Poakpong Phongsasanongkul</em:contributor> <em:contributor>Rerng-rit Rakkanittakorn</em:contributor> <em:contributor>Patinya Sangiamchit</em:contributor> <em:contributor>Phisit Siprasatthong</em:contributor> <em:contributor>Pittaya Sroilong</em:contributor> <em:contributor>Arthit Suriyawongkul</em:contributor> <em:contributor>Patipat Susumpow</em:contributor><em:contributor>Wichai Termwuttipreecha</em:contributor>

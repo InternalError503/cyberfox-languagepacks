@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-br@firefox.mozilla.org"
+               em:id="langpack-br@8pecxstudios.com"
                em:name="Breton Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="Firefox Breton Team">
     <em:contributor>Alan Monfort</em:contributor> <em:contributor>Philippe Basciano-Le Gall</em:contributor> <em:contributor>Denis Arnaud</em:contributor> <em:contributor>Michel Nédélec</em:contributor> <em:contributor>Gwenn Meynier</em:contributor>

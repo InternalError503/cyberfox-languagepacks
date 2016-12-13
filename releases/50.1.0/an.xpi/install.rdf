@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-an@firefox.mozilla.org"
+               em:id="langpack-an@8pecxstudios.com"
                em:name="Aragonés Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="mozilla.org / Softaragonés">
     <em:contributor>Softaragonés</em:contributor> <em:contributor>Softcatalà</em:contributor> <em:contributor>Juan Pablo Martínez Cortés</em:contributor> <em:contributor>Chesús Daniel Trigo</em:contributor> <em:contributor>Daniel Martínez Cucalón</em:contributor>

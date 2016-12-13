@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-ar@firefox.mozilla.org"
+               em:id="langpack-ar@8pecxstudios.com"
                em:name="العربية Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>أيمن حورية</em:contributor> <em:contributor>جهاد عفيفي</em:contributor><em:contributor>خالد حسني</em:contributor><em:contributor>سبأ برتو</em:contributor><em:contributor>عبد الرحمن حسني </em:contributor><em:contributor>علاء كساب</em:contributor><em:contributor>أنس الحسيني</em:contributor>

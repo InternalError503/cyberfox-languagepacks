@@ -6,9 +6,9 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest"
-               em:id="langpack-et@firefox.mozilla.org"
+               em:id="langpack-et@8pecxstudios.com"
                em:name="Estonian Language Pack"
-               em:version="50.0"
+               em:version="50.1.0"
                em:type="8"
                em:creator="Sander Lepik">
     <em:contributor>Marek Laane</em:contributor> <em:contributor>Ain Vagula</em:contributor> <em:contributor>Ivar Smolin</em:contributor>
