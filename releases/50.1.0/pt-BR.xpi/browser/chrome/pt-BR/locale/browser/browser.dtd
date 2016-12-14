@@ -952,45 +952,46 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- end of strings to be removed post-Australis -->
 <!ENTITY mixedContentBlocked.helplink "Learn more">
 <!-- Purge RAM browser tweak -->
-<!ENTITY minimizeMemoryCache.label "Clean Ram Cache">
-<!ENTITY turnOnCleanRam.label "Turn on clean ram cache menu item.">
+<!ENTITY minimizeMemoryCache.label "Limpar Cache da Ram">
+<!ENTITY turnOnCleanRam.label "Adicionar 'limpar cache da ram' ao contexto de menu.">
 <!-- End Purge RAM browser tweak -->
 
 <!-- Restart Browser Tweak -->
-<!ENTITY restartBrowser.label "Restart Browser">
-<!ENTITY restartBrowserButton.label "Restart Browser">
-<!ENTITY turnOnRestart.label "Turn on restart browser menu item.">
-<!ENTITY cleanFastRestartCache.label "Clear fast restart cache on browser restart.">
-<!ENTITY restartOptions.label "Restart Options">
-<!ENTITY restart_paneluibtn.label "Add button to PanelUI">
-<!ENTITY restart_panelbtnsmall.label "Use small button on panel UI.">
-<!ENTITY restart_reqconfirmation.label "Require restart confirmation.">
+<!ENTITY restartBrowser.label "Reiniciar navegador">
+<!ENTITY restartBrowserButton.label "Reiniciar navegador">
+<!ENTITY turnOnRestart.label "Adicionar 'Reiniciar navegador' ao contexto de menu.">
+<!ENTITY cleanFastRestartCache.label "Limpar o cache de reinício rápido na reinicialização do navegador.">
+<!ENTITY restartOptions.label "Opções de reiniciar">
+<!ENTITY restart_paneluibtn.label "Adicionar botão ao menu">
+<!ENTITY restart_panelbtnsmall.label "Usar botões pequenos no menu.">
+<!ENTITY restart_reqconfirmation.label "Exigir confirmação de reinicialização.">
 <!-- End Restart Browser Tweak -->
 
-<!ENTITY FeaturesTabLabel "Features">
-<!ENTITY cyberfoxOptions.label "&brandShortName; Features">
-<!ENTITY menuFeaturesTab.label "Context \ Menus">
+<!ENTITY FeaturesTabLabel "Recursos">
+<!ENTITY cyberfoxOptions.label "Recursos do &brandShortName;">
+<!ENTITY menuFeaturesTab.label "Contexto \ Menus">
 
 <!-- Clone Current Tab Tweak -->
-<!ENTITY turnonclone.label "Turn on clone tab feature.">
-<!ENTITY cloneCurrentTab.label "Clone Current Tab">
-<!ENTITY cloneInNewWindow.label "Clone In New Window">
+<!ENTITY turnonclone.label "Ativar recurso de duplicar aba.">
+<!ENTITY cloneCurrentTab.label "Duplicar aba atual">
+<!ENTITY cloneInNewWindow.label "Duplicar em nova janela">
+<!ENTITY cloneInNewPrivateWindow.label "Duplicar em nova janela privativa">
 <!-- End Clone Current Tab Tweak -->
 
 <!-- Features Tab Tweak -->
-<!ENTITY warnOnQuit.label "Warn me when quitting window">
-<!ENTITY newtabsoptions.label "New tab options">
-<!ENTITY newtabenabled.label "Enable newtab page.">
-<!ENTITY newtabpreload.label "Enable preload newtab.">
-<!ENTITY newtabsearch.label "Enable search bar on NewTab. (Reload Page)">
-<!ENTITY newtabpage.label "NewTab Page:">
-<!ENTITY newtabthumbnail.label "Disable thumbnail capturing on newtab page.">
+<!ENTITY warnOnQuit.label "Avise-me quando fechar a janela">
+<!ENTITY newtabsoptions.label "Opções de nova aba">
+<!ENTITY newtabenabled.label "Habilitar página de nova aba.">
+<!ENTITY newtabpreload.label "Habilitar pré-carregamento de nova aba.">
+<!ENTITY newtabsearch.label "Habilitar barra de pesquisa em nova aba. (Recarregue a página)">
+<!ENTITY newtabpage.label "Página de Nova Aba:">
+<!ENTITY newtabthumbnail.label "Desabilitar captura de miniatura na página da nova aba.">
 <!ENTITY aboutnewtab.pageTitle "About:NewTab">
-<!ENTITY incontent.label "Show preferences in tab.">
+<!ENTITY incontent.label "Exibir preferências na aba.">
 <!-- End Features Tab Tweak -->
 
 <!-- Tabs Features -->
-<!ENTITY tabsAnimation.label "Enable browser tab animations">
+<!ENTITY tabsAnimation.label "Habilitar animações de aba do navegador">
 
 <!-- End Tabs Features -->
 
@@ -1012,8 +1013,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- End Tracking sendRefererHeader Tweak -->
 
 <!-- ToolKitUi Browser Tweak -->
-<!ENTITY  toolKitUi.label "Enable alternate download user interface">
-<!ENTITY  toolKitUi.title "Download Options">
+<!ENTITY  toolKitUi.label "Habilitar download de interface de usuário alternativa">
+<!ENTITY  toolKitUi.title "Opções de download">
 <!-- End ToolKitUi Browser Tweak -->
 
 <!-- Disable Javascript & Block Images Feature Dont Remove -->
@@ -1055,50 +1056,50 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY showOptionsAgentOverride.label "Show Options">
 
 <!-- Update check options -->
-<!ENTITY updateoptions.label "&brandShortName; Update Options">
-<!ENTITY updateautocheck.label "Automatically check for updates in about &brandShortName;">
-<!ENTITY updatestartupcheck.label "Automatically check for updates when &brandShortName; starts.">
-<!ENTITY updatecheckenabled.label "Enable update check.">
-<!ENTITY updateverifysha.label "Enable SHA512 update verification.">
-<!ENTITY updatenotificationsenabled.label "Enable notifications page on first run or after &brandShortName; update.">
-<!ENTITY updatereleasenotesenabled.label "Enable release notes page on first run or after &brandShortName; update.">
+<!ENTITY updateoptions.label "Opções de atualização do &brandShortName;">
+<!ENTITY updateautocheck.label "Automaticamente checar pro atualizações no sobre &brandShortName;">
+<!ENTITY updatestartupcheck.label "Automaticamente checar pro atualizações quando &brandShortName; iniciar.">
+<!ENTITY updatecheckenabled.label "Habilitar verificação de atualização.">
+<!ENTITY updateverifysha.label "Habilitar verificação de atualização de SHA512.">
+<!ENTITY updatenotificationsenabled.label "Habilitar página de notificação na primeira execução ou depois do &brandShortName; atualizar.">
+<!ENTITY updatereleasenotesenabled.label "Habilitar página de notas de lançamento na primeira execução ou depois do &brandShortName; atualizar.">
 
 <!-- Copy tab URL Tweak -->
-<!ENTITY copyTabURL.label "Copy Tab URL">
-<!ENTITY copyTabURLOptions.label "Turn on copy tab url menu item.">
-<!ENTITY copyAllTabUrls.label "Copy All Tab URLS">
-<!ENTITY copyAllTabUrlsOptions.label "Turn on copy all tab urls menu item.">
+<!ENTITY copyTabURL.label "Copiar URL da aba">
+<!ENTITY copyTabURLOptions.label "Adicionar 'copiar url da aba' ao contexto de menu.">
+<!ENTITY copyAllTabUrls.label "Copiar URLS de todas as abas">
+<!ENTITY copyAllTabUrlsOptions.label "Adicionar 'copiar urls de todas as abas' ao contexto de menu.">
 
 <!-- Classic Context Menu Tweak -->
-<!ENTITY contextNavigationClassic.label "Use classic context menu.">
+<!ENTITY contextNavigationClassic.label "Usar menu de contexto clássico.">
 
 <!-- Email Link Context Menu Tweak -->
-<!ENTITY turnoffemaillink.label "Turn on email link context menu item.">
+<!ENTITY turnoffemaillink.label "Adicionar 'enviar link ao email' ao contexto de menu.">
 
 <!-- about:config Context Menu Tweak -->
-<!ENTITY turnoffcontextabout.label "Turn on about:config context menu item.">
+<!ENTITY turnoffcontextabout.label "Adicionar 'about:config' ao contexto de menu.">
 <!-- about:config Menu Tweak -->
-<!ENTITY turnoffmenuabout.label "Turn on about:config menu item.">
+<!ENTITY turnoffmenuabout.label "Adicionar 'about:config' ao menu.">
 
 <!-- Plugin Settings Tweak -->
-<!ENTITY browserplugins.label "Browser Plugins">
-<!ENTITY browserpluginsdisabled.label "Disable browser plugins (Disable all plugins).">
-<!ENTITY browserpluginswhitelist.label "Enable plugin whitelist.">
-<!ENTITY browserpluginsflashenabled.label "Enable flash browser plugin.">
-<!ENTITY browserpluginsjavaenabled.label "Enable java browser plugin.">
+<!ENTITY browserplugins.label "Plugins do navegador">
+<!ENTITY browserpluginsdisabled.label "Desabilitar plugins do navegador (Desabilitar todos os plugins).">
+<!ENTITY browserpluginswhitelist.label "Habilitar plugins da lista branca.">
+<!ENTITY browserpluginsflashenabled.label "Habilitar plugin flash do navegador.">
+<!ENTITY browserpluginsjavaenabled.label "Habilitar plugin java do navegador.">
 
 <!-- System Addons Tweak -->
-<!ENTITY systemaddons.label "System Addons">
-<!ENTITY systemaddonsmsg.label "If these system addons are installed you can toggle them here.">
-<!ENTITY enablehellochat.label "Enable hello chat.">
-<!ENTITY enablepocket.label "Enable pocket.">
+<!ENTITY systemaddons.label "Complementos do sistema">
+<!ENTITY systemaddonsmsg.label "Se esses complementos do sistema estiverem instalados, você pode alterá-los aqui..">
+<!ENTITY enablehellochat.label "Habilitar hello chat.">
+<!ENTITY enablepocket.label "Habilitar pocket.">
 
 <!-- Helpful ToolTips -->
-<!ENTITY restartRequiredMSG.label "Browser Restart Required.">
+<!ENTITY restartRequiredMSG.label "Necessário reiniciar o navegador.">
 
 <!-- Flashplayer Protect Mode -->
 <!ENTITY disableflashprotectgroup.label "Adobe Flash Player">
-<!ENTITY disableflashprotect.label "Disable flash player protection mode">
+<!ENTITY disableflashprotect.label "Desabilitar modo de proteção do flash player">
 
 <!-- Toggle JavaScript in tab feature -->
 <!ENTITY togglescriptintab.label "Toggle JavaScript">
@@ -1122,4 +1123,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY abouthome.feedback.url "https://8pecxstudios.com/Forums/viewforum.php?f=9">
 <!ENTITY abouthome.addons.label "Addons">
 <!ENTITY abouthome.addons.url "https://addons.mozilla.org/en-US/firefox/">
-
