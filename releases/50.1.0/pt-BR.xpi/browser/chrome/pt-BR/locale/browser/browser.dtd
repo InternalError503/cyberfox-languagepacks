@@ -1000,15 +1000,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- End Click 2 Play Via Checkbox Tweak -->
 
 <!-- Geo Location Via Checkbox Tweak -->
-<!ENTITY  geographicalLocation.label            "Geographical Location">
-<!ENTITY  disableGeolocation.label            "Enable Geolocation">
+<!ENTITY  geographicalLocation.label            "Localização geográfica">
+<!ENTITY  disableGeolocation.label            "Ativar a geolocalização">
 <!-- End Geo Location Via Checkbox Tweak -->
 
 <!-- Tracking sendRefererHeader Tweak -->
-<!ENTITY  sendRefererHeader.label            "Suppress HTTP Referrer Header">
-<!ENTITY  sendRefererHeaderopt0.label            "Never send the referrer header">
-<!ENTITY  sendRefererHeaderopt1.label            "Send the referrer header (Page going to)">
-<!ENTITY  sendRefererHeaderopt2.label            "Send the referrer header (Default)">
+<!ENTITY  sendRefererHeader.label            "Suprimir HTTP do Cabeçalho de Referência">
+<!ENTITY  sendRefererHeaderopt0.label            "Nunca enviar o cabeçalho de referência">
+<!ENTITY  sendRefererHeaderopt1.label            "Enviar o cabeçalho de referência (a página vai para)">
+<!ENTITY  sendRefererHeaderopt2.label            "Enviar o cabeçalho de referência (Padrão)">
 
 <!-- End Tracking sendRefererHeader Tweak -->
 
@@ -1018,17 +1018,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- End ToolKitUi Browser Tweak -->
 
 <!-- Disable Javascript & Block Images Feature Dont Remove -->
-<!ENTITY  loadImages.label            "Load images automatically">
+<!ENTITY  loadImages.label            "Carregar imagens automaticamente">
 <!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "Exceptions…">
+<!ENTITY  exceptions.label            "Exceções…">
 <!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "Enable JavaScript">
+<!ENTITY  enableJavaScript.label      "Habilitar JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Advanced…">
+<!ENTITY  advancedJS.label            "Avançado…">
 <!ENTITY  advancedJS.accesskey        "v">
 
-<!ENTITY  enableJava.label            "Enable Java">
+<!ENTITY  enableJava.label            "Habilitar Java">
 <!ENTITY  enableJava.accesskey        "n">
 <!ENTITY showTabBar.label             "Always show the tab bar">
 <!ENTITY showTabBar.accesskey         "b">
@@ -1038,11 +1038,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY allowScripts.label             "Allow scripts to:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.label     "Mover ou redimensionar janelas pop-up">
 <!ENTITY moveResizePopupWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label        "Raise or lower windows">
+<!ENTITY raiseLowerWindows.label        "Levantar ou abaixar janelas">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "Disable or replace context menus">
+<!ENTITY disableContextMenus.label      "Desativar ou substituir menus de contexto">
 <!ENTITY disableContextMenus.accesskey  "D">
 <!-- End Disable Javascript & Block Images Feature Dont Remove -->
 
@@ -1102,24 +1102,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY disableflashprotect.label "Desabilitar modo de proteção do flash player">
 
 <!-- Toggle JavaScript in tab feature -->
-<!ENTITY togglescriptintab.label "Toggle JavaScript">
+<!ENTITY togglescriptintab.label "Alternar JavaScript">
 
 <!-- Toggle WebRTC P2P Connection (See:#959893) feature -->
-<!ENTITY webrtcp2group.description "WebRTC peer connection">
-<!ENTITY webrtcp2preference.label "Enable WebRTC peer connection">
+<!ENTITY webrtcp2group.description "Conexão entre pares WebRTC">
+<!ENTITY webrtcp2preference.label "Habilitar conexão entre pares WebRTC">
 
 <!-- about:home localization Tweak -->
 <!ENTITY abouthome.google.label "Google">
-<!ENTITY abouthome.google.url "https://www.google.com/">
+<!ENTITY abouthome.google.url "https://www.google.com.br/">
 <!ENTITY abouthome.youtube.label "YouTube">
-<!ENTITY abouthome.youtube.url "https://www.youtube.com/">
+<!ENTITY abouthome.youtube.url "https://www.youtube.com/?hl=pt&gl=BR">
 <!ENTITY abouthome.facebook.label "Facebook">
-<!ENTITY abouthome.facebook.url "https://www.facebook.com/">
+<!ENTITY abouthome.facebook.url "https://pt-br.facebook.com/">
 <!ENTITY abouthome.twitter.label "Twitter">
-<!ENTITY abouthome.twitter.url "https://www.twitter.com/">
-<!ENTITY abouthome.support.label "Support">
+<!ENTITY abouthome.twitter.url "https://www.twitter.com/?lang=pt-BR">
+<!ENTITY abouthome.support.label "Suporte">
 <!ENTITY abouthome.support.url "https://8pecxstudios.com/Forums/index.php">
-<!ENTITY abouthome.feedback.label "Feedback">
+<!ENTITY abouthome.feedback.label "Comentários">
 <!ENTITY abouthome.feedback.url "https://8pecxstudios.com/Forums/viewforum.php?f=9">
-<!ENTITY abouthome.addons.label "Addons">
-<!ENTITY abouthome.addons.url "https://addons.mozilla.org/en-US/firefox/">
+<!ENTITY abouthome.addons.label "Complementos">
+<!ENTITY abouthome.addons.url "https://addons.mozilla.org/pt-BR/firefox/">
