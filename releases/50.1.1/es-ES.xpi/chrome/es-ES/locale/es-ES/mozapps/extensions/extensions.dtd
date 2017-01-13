@@ -176,3 +176,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Los desarrolladores interesados en conseguir que sus complementos sean verificados pueden continuar leyendo nuestro ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Pulse aquí para ver si sus plugins están actualizados">
+<!ENTITY info.plugincheck.tooltip "Pulse aquí para ver si sus plugins están actualizados">
+

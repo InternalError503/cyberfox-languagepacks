@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Izstrādātāji, kas vēlas apstiprināt savus papildinājumus var turpināt izlasot mūsu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "pamācību">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
+<!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
+

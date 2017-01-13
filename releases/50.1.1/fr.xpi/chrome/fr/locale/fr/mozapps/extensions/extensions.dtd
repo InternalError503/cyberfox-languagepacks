@@ -233,3 +233,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Les développeurs souhaitant faire vérifier leurs modules complémentaires peuvent obtenir davantage d’informations en lisant notre ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manuel">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Vérifier si les plugins sont à jour">
+<!ENTITY info.plugincheck.tooltip "Vérifier si les plugins sont à jour">
+

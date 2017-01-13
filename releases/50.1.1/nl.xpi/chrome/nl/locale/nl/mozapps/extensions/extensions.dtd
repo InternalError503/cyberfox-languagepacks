@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Ontwikkelaars die interesse hebben in het laten verifiëren van hun add-ons, kunnen verdergaan door onze ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handleiding">
 <!ENTITY disabledUnsigned.devInfo.end " te lezen.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Controleren of uw plug-ins up-to-date zijn">
+<!ENTITY info.plugincheck.tooltip               "Controleren of uw plug-ins up-to-date zijn">
+

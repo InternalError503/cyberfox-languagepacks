@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Mas e neach-leasachaidh a tha annad ’s tu a’ beachdachadh air dearbhadh nan tuilleadan agad, nach leugh thu">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "an stiùireadh againn">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+<!ENTITY info.plugincheck.tooltip               "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+

@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în obținerea verificării pentru suplimente pot continua să citească ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verifică dacă pluginurile sunt actualizate">
+<!ENTITY info.plugincheck.tooltip               "Verifică dacă pluginurile sunt actualizate">
+

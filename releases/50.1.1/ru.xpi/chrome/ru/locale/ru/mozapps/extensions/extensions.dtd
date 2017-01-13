@@ -176,3 +176,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Разработчики, заинтересованные в проверке своих дополнений, могут прочесть наше ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "руководство">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Проверить актуальность версий установленных у вас плагинов">
+<!ENTITY info.plugincheck.tooltip "Проверить актуальность версий установленных у вас плагинов">
+

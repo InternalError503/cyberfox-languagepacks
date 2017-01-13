@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Programuotojai, norintys atlikti savo priedų patikrinimą, gali tęsti perskaitydami mūsų ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vadovą">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
+<!ENTITY info.plugincheck.tooltip               "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
+

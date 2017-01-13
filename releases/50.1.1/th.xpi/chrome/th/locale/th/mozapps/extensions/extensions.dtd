@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "นักพัฒนาที่สนใจที่จะทำให้ส่วนเสริมได้รับการยืนยันสามารถดำเนินการต่อได้จากการอ่านของเรา ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ตรวจสอบว่าโปรแกรมเสริมของคุณปรับรุ่นแล้วหรือยัง">
+<!ENTITY info.plugincheck.tooltip               "ตรวจสอบว่าโปรแกรมเสริมของคุณเป็นรุ่นล่าสุดแล้วหรือยัง">
+

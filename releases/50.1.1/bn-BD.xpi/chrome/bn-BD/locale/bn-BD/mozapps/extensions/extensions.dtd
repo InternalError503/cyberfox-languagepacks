@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "পড়ার অবিরত করতে পারেন যাচাই তাদের অ্যাড টার্ন পেতে আগ্রহী ডেভেলপারদের আমাদের">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ম্যানুয়াল">
 <!ENTITY disabledUnsigned.devInfo.end "।">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "পরীক্ষা করে দেখুন আপনার প্লাগইন হালনাগাদ করা রয়েছে কিনা">
+<!ENTITY info.plugincheck.tooltip               "পরীক্ষা করে দেখুন আপনার প্লাগইন হালনাগাদ করা রয়েছে কিনা">
+

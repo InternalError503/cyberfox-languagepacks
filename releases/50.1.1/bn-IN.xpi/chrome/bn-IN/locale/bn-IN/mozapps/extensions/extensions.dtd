@@ -249,3 +249,8 @@
 <!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
   extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
   your own.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
+<!ENTITY info.plugincheck.tooltip               "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
+

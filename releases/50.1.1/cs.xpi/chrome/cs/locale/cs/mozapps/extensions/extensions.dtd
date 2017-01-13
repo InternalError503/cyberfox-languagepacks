@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "našeho manuálu">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Zkontrolovat aktuálnost zásuvných modulů">
+<!ENTITY info.plugincheck.tooltip               "Zkontroluje, zda jsou zásuvné moduly aktuální">
+

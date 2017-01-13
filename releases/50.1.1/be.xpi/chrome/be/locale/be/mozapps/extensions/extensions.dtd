@@ -192,3 +192,8 @@
 <!ENTITY showAllExtensions.button.label       "Show all extensions">
 
 <!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Праверыць абноўленнаць убудоваў">
+<!ENTITY info.plugincheck.tooltip "Праверыць абноўленнаць убудоваў">
+

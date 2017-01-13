@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Ովքեր շահագրգռված են, որ իրենց հավելումները ստուգվեն, կարող են կարդալ մեր ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ձեռնարկ">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
+<!ENTITY info.plugincheck.tooltip               "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
+

@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "A kiegészítőik ellenőriztetése iránt érdeklődő fejlesztők folytathatják a ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "kézikönyv">
 <!ENTITY disabledUnsigned.devInfo.end " elolvasásával.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Bővítmények frissességének ellenőrzése">
+<!ENTITY info.plugincheck.tooltip               "Bővítmények frissességének ellenőrzése">
+

@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Utvecklare som är intresserade av att få sina tillägg verifierade kan fortsätta genom att läsa vår ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handbok">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontrollera om dina instickmoduler är uppdaterade">
+<!ENTITY info.plugincheck.tooltip               "Kontrollera om dina instickmoduler är uppdaterade">
+

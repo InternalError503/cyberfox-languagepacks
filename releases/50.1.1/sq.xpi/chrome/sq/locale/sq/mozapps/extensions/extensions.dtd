@@ -236,3 +236,8 @@
 <!ENTITY showAllExtensions.button.label       "Shfaqi krejt zgjerimet">
 <!ENTITY debugAddons.label                    "Diagnostikoni Shtesa">
 <!ENTITY debugAddons.accesskey                "D">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroll për të parë nëse shtojcat tuaja janë të përditësuara">
+<!ENTITY info.plugincheck.tooltip               "Bëni një kontroll për të parë nëse shtojcat tuaja janë të përditësuara">
+

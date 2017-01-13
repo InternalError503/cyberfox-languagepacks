@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Los desarrolladores interesados en tener sus complementos verificados pueden continuar leyendo nuestro ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verifica si tus complementos están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Verifica si tus complementos están actualizados">
+

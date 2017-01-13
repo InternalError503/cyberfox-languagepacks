@@ -245,3 +245,8 @@
 <!ENTITY disabledUnsigned.devInfo.start       "Arendajad, kes on huvitatud oma lisade verifitseerimisest, võivad jätkata juhise lugemist ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "siit">
 <!ENTITY disabledUnsigned.devInfo.end         ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label               "Kontrolli, kas kasutusel on viimased versioonid pluginatest">
+<!ENTITY info.plugincheck.tooltip             "Kontrolli, kas kasutusel on viimased versioonid pluginatest">
+

@@ -16,11 +16,11 @@
 <!ENTITY community.exp.middle " — ">
 <!ENTITY community.exp.creditsLink "сусветнае згуртаванне">
 <!ENTITY community.exp.end ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
-<!ENTITY community.start2 "&brandShortName; распрацаваны ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!ENTITY community.creditsLink "сусветным згуртаваннем">
-<!ENTITY community.end3 ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 <!ENTITY contribute.start "Цікава?">
 <!ENTITY contribute.getInvolvedLink "Уцягвайцеся!">
 <!ENTITY contribute.end "">

@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Pembangun yang berminat untuk mengesahkan add-on mereka boleh meneruskan dengan membaca ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+<!ENTITY info.plugincheck.tooltip               "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+

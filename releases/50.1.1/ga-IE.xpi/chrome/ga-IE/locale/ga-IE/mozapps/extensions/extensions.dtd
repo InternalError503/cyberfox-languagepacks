@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Más forbróir thú, foghlaim conas is féidir breiseán a fhíorú inár ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "lámhleabhar">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
+<!ENTITY info.plugincheck.tooltip               "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
+

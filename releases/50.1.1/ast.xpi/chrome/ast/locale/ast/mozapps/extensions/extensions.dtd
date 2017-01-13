@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Marca pa ver si los plugins tán anovaos">
+<!ENTITY info.plugincheck.tooltip               "Marca pa ver si los plugins tán anovaos">
+

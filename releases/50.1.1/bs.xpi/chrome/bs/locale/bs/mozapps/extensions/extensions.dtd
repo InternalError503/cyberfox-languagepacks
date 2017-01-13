@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Developeri koji su zainteresovani za verifikaciju njihovih add-ona mogu nastaviti s čitanjem našeg ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vodiča">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Provjerite da li imate zadnju verziju plugina">
+<!ENTITY info.plugincheck.tooltip               "Provjerite da li imate zadnju verziju plugina">
+

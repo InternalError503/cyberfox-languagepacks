@@ -246,3 +246,8 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY disabledUnsigned.devInfo.start "An der Verifizierung ihrer Add-ons interessierte Entwickler können mehr dazu in unserer ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "Anleitung">
 <!ENTITY disabledUnsigned.devInfo.end " erfahren.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+<!ENTITY info.plugincheck.tooltip               "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+

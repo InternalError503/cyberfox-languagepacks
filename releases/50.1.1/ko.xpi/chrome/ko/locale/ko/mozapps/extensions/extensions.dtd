@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "부가기능을 확인하는데 관심이 있는 개발자는 ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "메뉴얼">
 <!ENTITY disabledUnsigned.devInfo.end "을 읽어보세요.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "플러그인이 최신 버전인지 확인">
+<!ENTITY info.plugincheck.tooltip               "설치된 유효한 플러그인이 최신 버전인지 확인합니다.">
+

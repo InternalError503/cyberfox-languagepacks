@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Gehigarriak egiaztatu nahi dituzten garatzaileek gure ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "eskuliburua">
 <!ENTITY disabledUnsigned.devInfo.end " irakurtzen jarrai dezakete.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Egiaztatu zure pluginak egunean dauden ikusteko">
+<!ENTITY info.plugincheck.tooltip               "Egiaztatu zure pluginak egunean dauden ikusteko">
+
