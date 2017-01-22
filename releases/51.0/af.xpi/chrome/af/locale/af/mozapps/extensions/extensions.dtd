@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Ontwikkelaars wat hulle byvoegings wil laat verifieer kan gerus ons ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handleiding">
 <!ENTITY disabledUnsigned.devInfo.end " lees.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroleer of al die inproppe op datum is">
+<!ENTITY info.plugincheck.tooltip               "Kontroleer of al die inproppe op datum is">
+

@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Програмери који желе да потврде њихове додатке могу да прочитају наша ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "упутства">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Проверите да ли су прикључци ажурни">
+<!ENTITY info.plugincheck.tooltip               "Проверите да ли су прикључци ажурни">
+

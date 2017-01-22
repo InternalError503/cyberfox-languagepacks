@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "উৎসাহী ডেভেলপার রা যারা তাদের অ্যাড অন ভেরিফাই করাতে চান তারা পড়তে পারেন আমাদের ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ব্যবহারকারীর দ্বারা">
 <!ENTITY disabledUnsigned.devInfo.end "।">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
+<!ENTITY info.plugincheck.tooltip               "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
+

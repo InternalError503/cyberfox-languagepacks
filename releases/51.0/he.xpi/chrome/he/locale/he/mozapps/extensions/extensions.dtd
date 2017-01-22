@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "מפתחים המעוניינים לאמת את התוספות שלהם מתבקשים לעיין ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "במדריך">
 <!ENTITY disabledUnsigned.devInfo.end " שלנו.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+<!ENTITY info.plugincheck.tooltip               "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+

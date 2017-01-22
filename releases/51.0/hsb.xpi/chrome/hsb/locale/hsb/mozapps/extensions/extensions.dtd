@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Wuwiwarjo, kotřiž chcedźa, zo so jich přidatki wobkrućeja, móža pokročować čitajo našu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "přiručku">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Přepruwujće, hač waše tykače su aktualne">
+<!ENTITY info.plugincheck.tooltip               "Přepruwujće, hač waše tykače su aktualne">
+

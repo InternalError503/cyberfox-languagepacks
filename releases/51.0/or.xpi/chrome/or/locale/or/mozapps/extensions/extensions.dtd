@@ -263,3 +263,8 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Search">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
+<!ENTITY info.plugincheck.tooltip               "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
+

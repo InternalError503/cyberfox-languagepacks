@@ -246,3 +246,8 @@ your own.">
 <!ENTITY disabledUnsigned.devInfo.start "මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ශ්‍රමික">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
+<!ENTITY info.plugincheck.tooltip               "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
+

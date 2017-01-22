@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start			"アドオンの検証に興味のある開発者の方は">
 <!ENTITY disabledUnsigned.devInfo.linkToManual		"マニュアル">
 <!ENTITY disabledUnsigned.devInfo.end			"をお読みください。">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label			"プラグインが最新バージョンであるか確認する">
+<!ENTITY info.plugincheck.tooltip		"インストールされた有効なプラグインが最新バージョンであるか確認します">
+

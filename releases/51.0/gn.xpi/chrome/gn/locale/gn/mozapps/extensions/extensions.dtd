@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Umi mboguatahára oipotáva moimbaha jehechapyréva ikatu omoñe'ẽve ohóvo ko ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "popeguáva">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Ejopy ko'ápe ehecha hag̃ua hekopyahúpa mba'ejoajurã">
+<!ENTITY info.plugincheck.tooltip               "Ejopy ko'ápe ehecha hag̃ua hekopyahúmapa mba'ejoajurãnguéra">
+

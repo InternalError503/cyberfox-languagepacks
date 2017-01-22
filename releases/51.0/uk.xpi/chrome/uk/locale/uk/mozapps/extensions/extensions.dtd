@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Розробники, зацікавлені в перевірці своїх додатків, можуть продовжити, прочитавши нашу ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "інструкцію">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші плагіни">
+<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші плагіни">
+

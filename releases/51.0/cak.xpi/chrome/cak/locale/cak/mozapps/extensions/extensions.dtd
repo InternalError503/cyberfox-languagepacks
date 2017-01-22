@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Nuk'unela' nikajo' yekinik'oj ri taq kitz'aqat, tikirel tikisik'ij ri qichin ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "etamawuj">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
+<!ENTITY info.plugincheck.tooltip               "Tapitz'a' qa wawe' richin natz'ët we ek'exon ri taq apluyin">
+

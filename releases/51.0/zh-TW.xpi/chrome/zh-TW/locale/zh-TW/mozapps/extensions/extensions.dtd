@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "驗證指南">
 <!ENTITY disabledUnsigned.devInfo.end "。">
 
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "檢查您是否使用最新版本的外掛程式">
+<!ENTITY info.plugincheck.tooltip               "檢查您是否使用最新版本的外掛程式">
+

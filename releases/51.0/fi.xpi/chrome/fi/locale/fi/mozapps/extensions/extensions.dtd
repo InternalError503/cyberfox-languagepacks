@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Kehittäjät, joita kiinnostaa lisäosansa varmentaminen voivat lukea ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "käsikirjamme">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Tarkista ovatko asennetut liitännäiset ajan tasalla">
+<!ENTITY info.plugincheck.tooltip               "Tarkista ovatko asennetut liitännäiset ajan tasalla">
+

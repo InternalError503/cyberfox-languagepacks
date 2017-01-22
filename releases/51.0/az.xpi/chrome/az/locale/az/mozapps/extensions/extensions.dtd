@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Əlavələrinin təsdiqlənməsini istəyən tərtibatçılar ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "təlimatları">
 <!ENTITY disabledUnsigned.devInfo.end " oxumaqla başlaya bilərlər.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Əlavə proqramların aktual olub olmadığını yoxlayın">
+<!ENTITY info.plugincheck.tooltip               "Əlavə proqramların aktual olub olmadığını yoxlayın">
+

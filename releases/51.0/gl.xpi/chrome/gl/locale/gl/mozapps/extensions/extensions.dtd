@@ -250,3 +250,8 @@
 
 <!ENTITY debugAddons.accesskey                "B">
 <!ENTITY debugAddons.label                    "Debug Add-ons">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Comprobe se os seus engadidos están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Comprobe se os seus engadidos están actualizados">
+

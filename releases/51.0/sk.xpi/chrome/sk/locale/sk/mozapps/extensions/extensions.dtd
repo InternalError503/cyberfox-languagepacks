@@ -246,3 +246,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Vývojári, ktorí si chcú nechať overiť svoje doplnky, si môžu prečítať náš ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manuál">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Skontrolovať aktualizácie zásuvných modulov">
+<!ENTITY info.plugincheck.tooltip               "Skontrolovať aktualizácie zásuvných modulov">
+

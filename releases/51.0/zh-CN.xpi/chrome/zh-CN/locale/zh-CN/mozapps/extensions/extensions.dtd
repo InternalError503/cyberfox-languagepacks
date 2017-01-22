@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "想要自己的附加组件获得验证的开发者可继续阅读我们的">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "相关手册">
 <!ENTITY disabledUnsigned.devInfo.end "。">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "检查你的插件是否都是最新版本">
+<!ENTITY info.plugincheck.tooltip               "来检查看看，了解你的插件是否都已是最新版本">
+

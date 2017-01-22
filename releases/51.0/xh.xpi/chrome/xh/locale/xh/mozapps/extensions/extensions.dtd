@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Abenzi abanomdla ekufumaneni izongezelelo zabo ukuba ziqinisekiswe kungaqhubeka ngokufunda zethu">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "Ukwenza ngaphandle komatshini">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
+<!ENTITY info.plugincheck.tooltip               "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
+

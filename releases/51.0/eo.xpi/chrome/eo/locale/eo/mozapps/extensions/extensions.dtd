@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Programistoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manlibro">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
+<!ENTITY info.plugincheck.tooltip               "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
+

@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "المطورين المهتمين بأن تتحقق موزيلا من إضافاتهم، يمكنهم قراءة ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "دليلنا">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "التمس لتعرف إذا كانت ملحقاتك محدّثة">
+<!ENTITY info.plugincheck.tooltip               "التمس لتعرف إذا كانت ملحقاتك محدّثة">
+

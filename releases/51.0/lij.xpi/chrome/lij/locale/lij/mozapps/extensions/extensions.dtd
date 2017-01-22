@@ -247,3 +247,8 @@
 
 <!ENTITY debugAddons.accesskey                "B">
 <!ENTITY debugAddons.label                    "Debug Add-ons">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Contròlla se ti gh'æ da agiornâ di plugin">
+<!ENTITY info.plugincheck.tooltip               "Contròlla se ti gh'æ da agiornâ di plugin">
+

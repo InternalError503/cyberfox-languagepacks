@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ਦਸਤੀ">
 <!ENTITY disabledUnsigned.devInfo.end " ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੀਆਂ ਪਲੱਗਇਨ ਅੱਪਡੇਟ ਹਨ">
+<!ENTITY info.plugincheck.tooltip               "ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੀਆਂ ਪਲੱਗਇਨ ਅੱਪਡੇਟ ਹਨ ਕਿ ਨਹੀਂ">
+

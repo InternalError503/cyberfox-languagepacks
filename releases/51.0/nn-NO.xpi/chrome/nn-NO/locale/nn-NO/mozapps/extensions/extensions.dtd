@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Utviklarar som er interesserte i å få utvidingane sine stadfesta kan fortsette ved å lesa ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manualen vår">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroller om programtillegga dine er oppdaterte">
+<!ENTITY info.plugincheck.tooltip               "Kontroller om programtillegga dine er oppdaterte">
+

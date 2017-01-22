@@ -246,3 +246,8 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!ENTITY disabledUnsigned.devInfo.start "Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verificar atualizações dos plugins">
+<!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
+

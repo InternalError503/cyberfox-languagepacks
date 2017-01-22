@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "globale Community">
 <!ENTITY community.exp.end          ", die daran arbeitet, dass das Internet frei, öffentlich und für jeden zugänglich bleibt.">
 
-<!ENTITY community.start2           "&brandShortName; wird entwickelt und gestaltet von ">
+<!ENTITY community.start2           "&brandShortName; wird von ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", einer ">
+<!ENTITY community.mozillaLink      "&vendorShortName; ">
+<!ENTITY community.middle2          " konzipiert. beginnt dort, wo Mozilla aufhört und arbeitet daran, einen schnellen und verläßlichen 64-bit-Browser, verfügbar für jedermann, zu erstellen.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalen Community">
-<!ENTITY community.end3             ", die daran arbeitet, dass das Internet frei, öffentlich und für jeden zugänglich bleibt.">
+<!ENTITY community.end3             "&brandShortName; benutzt den Mozilla-Firefox-Quellcode">
 
 <!ENTITY helpus.start               "Wollen Sie uns unterstützen? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

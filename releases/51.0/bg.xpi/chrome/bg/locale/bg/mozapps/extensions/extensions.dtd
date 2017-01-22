@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Разработчиците, интересуващи се от преминаване на проверка за техните добавки, могат да прочетат повече в нашето ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ръководство">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Проверка дали вашите приставки са с последна версия">
+<!ENTITY info.plugincheck.tooltip               "Проверка дали вашите приставки са с последна версия">
+

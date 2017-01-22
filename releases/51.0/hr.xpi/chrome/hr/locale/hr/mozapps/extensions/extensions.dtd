@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vodič">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Provjerite jesu li vaši priključci ažurni">
+<!ENTITY info.plugincheck.tooltip               "Provjerite jesu li vaši priključci ažurni">
+

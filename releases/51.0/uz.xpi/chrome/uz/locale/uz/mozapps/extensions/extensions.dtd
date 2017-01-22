@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "qiziqishadi">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Plaginlar yangilanganini tekshirib koʻrish">
+<!ENTITY info.plugincheck.tooltip               "Agar plaginlaringiz yangilangan boʻlsa tekshirish">
+

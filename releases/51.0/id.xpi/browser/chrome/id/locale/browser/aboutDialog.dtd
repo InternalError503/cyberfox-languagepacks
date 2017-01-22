@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "komunitas global">
 <!ENTITY community.exp.end          " yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
 
-<!ENTITY community.start2           "&brandShortName; didesain oleh ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", sebuah ">
+<!ENTITY community.middle2          ", Taking over where Mozilla left off, Working to make a fast and reliable, x64-bit web browser accessible to all.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitas global">
-<!ENTITY community.end3             " yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
+<!ENTITY community.end3             " Cyberfox is powered by Mozilla Firefox source code.">
 
 <!ENTITY helpus.start               "Ingin membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

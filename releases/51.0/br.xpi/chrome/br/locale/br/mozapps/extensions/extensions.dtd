@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Diorroerien dedennet evit gwiriekaat o askouezhioù a c'hell kenderc'hel en ul lenn hor ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "dornlevr">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
+<!ENTITY info.plugincheck.tooltip               "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
+

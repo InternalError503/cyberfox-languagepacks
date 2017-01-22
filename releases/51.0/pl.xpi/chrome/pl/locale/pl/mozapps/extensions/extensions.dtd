@@ -205,3 +205,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Programiści zainteresowani weryfikacją swoich dodatków mogą skorzystać z ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "dokumentacji">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Sprawdź, czy zainstalowane wtyczki są aktualne">
+<!ENTITY info.plugincheck.tooltip               "Sprawdź, czy zainstalowane wtyczki są aktualne">
+

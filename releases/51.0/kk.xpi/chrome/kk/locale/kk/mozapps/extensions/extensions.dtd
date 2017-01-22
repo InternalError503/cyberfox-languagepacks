@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Өз қосымшаларын растау үрдісінен өткізгісі келетін өндірушілер біздің келесі құжатты оқи алады: ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "нұсқама">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+

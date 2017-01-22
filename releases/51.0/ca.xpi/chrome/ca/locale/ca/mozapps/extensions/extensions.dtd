@@ -243,3 +243,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Els desenvolupadors interessats en la verificació dels seus complements poden llegir el nostre ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Comprova si els connectors estan actualitzats">
+<!ENTITY info.plugincheck.tooltip               "Comprova si els connectors estan actualitzats">
+

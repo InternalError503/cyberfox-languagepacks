@@ -245,3 +245,8 @@
 <!ENTITY disabledUnsigned.devInfo.start "Razvijalcem, ki želijo potrditi svoje dodatke, priporočamo branje našega ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "priročnika">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vtičniki posodobljeni">
+<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vtičniki posodobljeni">
+
