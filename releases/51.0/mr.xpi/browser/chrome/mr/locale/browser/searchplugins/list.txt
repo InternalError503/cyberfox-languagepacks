@@ -1,0 +1,6 @@
+amazondotcom
+google
+rediff
+wikipedia-mr
+yahoo-in
+ddg

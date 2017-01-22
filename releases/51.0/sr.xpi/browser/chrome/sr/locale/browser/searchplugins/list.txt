@@ -1,0 +1,6 @@
+amazon-en-GB
+bing
+google
+pogodak
+wikipedia-sr
+ddg
