@@ -17,3 +17,6 @@
 <!ENTITY newtab.customize.title "Customize your New Tab page">
 <!ENTITY newtab.customize.topsites "Show your top sites">
 <!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Ångra.">
 <!ENTITY newtab.undo.restoreButton "Återställ alla.">
 <!ENTITY newtab.undo.closeTooltip "Dölj">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

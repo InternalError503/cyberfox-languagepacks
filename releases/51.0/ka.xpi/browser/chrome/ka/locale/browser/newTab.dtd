@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "მოქმედების დაბრუნება.">
 <!ENTITY newtab.undo.restoreButton "ყველას აღდგენა.">
 <!ENTITY newtab.undo.closeTooltip "დამალვა">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

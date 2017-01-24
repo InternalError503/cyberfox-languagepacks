@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Razveljavi.">
 <!ENTITY newtab.undo.restoreButton "Obnovi vse.">
 <!ENTITY newtab.undo.closeTooltip "Skrij">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

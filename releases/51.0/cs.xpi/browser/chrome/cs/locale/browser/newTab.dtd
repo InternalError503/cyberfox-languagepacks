@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Zpět.">
 <!ENTITY newtab.undo.restoreButton "Obnovit vše.">
 <!ENTITY newtab.undo.closeTooltip "Skrýt">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

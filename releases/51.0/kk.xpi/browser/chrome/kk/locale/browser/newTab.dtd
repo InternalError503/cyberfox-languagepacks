@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Болдырмау.">
 <!ENTITY newtab.undo.restoreButton "Барлығын қалпына келтіру.">
 <!ENTITY newtab.undo.closeTooltip "Жасыру">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

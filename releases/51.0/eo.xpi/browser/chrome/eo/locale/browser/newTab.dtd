@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Malfari.">
 <!ENTITY newtab.undo.restoreButton "Restarigi ĉiujn.">
 <!ENTITY newtab.undo.closeTooltip "Kaŝi">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

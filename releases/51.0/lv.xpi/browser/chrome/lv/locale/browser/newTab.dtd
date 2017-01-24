@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Atcelt.">
 <!ENTITY newtab.undo.restoreButton "Atjaunot visus.">
 <!ENTITY newtab.undo.closeTooltip "Paslēpt">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

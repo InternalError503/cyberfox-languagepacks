@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Ongedaan maken">
 <!ENTITY newtab.undo.restoreButton "Alles herstellen">
 <!ENTITY newtab.undo.closeTooltip "Verbergen">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

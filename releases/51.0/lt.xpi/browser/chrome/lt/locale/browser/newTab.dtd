@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Atšaukti.">
 <!ENTITY newtab.undo.restoreButton "Atkurti visas.">
 <!ENTITY newtab.undo.closeTooltip "Nerodyti">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

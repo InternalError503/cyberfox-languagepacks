@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "ביטול.">
 <!ENTITY newtab.undo.restoreButton "שיחזור הכול.">
 <!ENTITY newtab.undo.closeTooltip "הסתרה">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

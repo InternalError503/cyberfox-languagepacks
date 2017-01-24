@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Отмяна.">
 <!ENTITY newtab.undo.restoreButton "Възстановяване на всички.">
 <!ENTITY newtab.undo.closeTooltip "Скриване">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

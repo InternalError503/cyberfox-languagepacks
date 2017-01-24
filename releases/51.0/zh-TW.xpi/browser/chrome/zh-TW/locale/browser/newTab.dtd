@@ -17,3 +17,6 @@
 <!ENTITY newtab.undo.restoreButton "全部恢復。">
 <!ENTITY newtab.undo.closeTooltip "隱藏">
 
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Desfer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar-las todas.">
 <!ENTITY newtab.undo.closeTooltip "Amagar">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

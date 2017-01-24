@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "เลิกทำ">
 <!ENTITY newtab.undo.restoreButton "เรียกคืนทั้งหมด">
 <!ENTITY newtab.undo.closeTooltip "ซ่อน">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

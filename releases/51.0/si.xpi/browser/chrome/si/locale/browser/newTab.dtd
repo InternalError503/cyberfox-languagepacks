@@ -17,3 +17,6 @@
 <!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
 <!ENTITY newtab.customize.suggested "Show suggested and your top sites">
 <!ENTITY newtab.customize.topsites "Show your top sites">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

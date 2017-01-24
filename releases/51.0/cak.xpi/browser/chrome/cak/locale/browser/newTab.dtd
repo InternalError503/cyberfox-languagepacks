@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Titzolïx.">
 <!ENTITY newtab.undo.restoreButton "Titzolïx kiwäch konojel.">
 <!ENTITY newtab.undo.closeTooltip "Tewäx">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

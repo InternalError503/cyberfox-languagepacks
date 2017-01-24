@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Sefsex">
 <!ENTITY newtab.undo.restoreButton "Err-d imaṛṛa.">
 <!ENTITY newtab.undo.closeTooltip "Ffer">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

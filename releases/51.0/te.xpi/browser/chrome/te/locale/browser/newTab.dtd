@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "చేయవద్దు.">
 <!ENTITY newtab.undo.restoreButton "అన్నిటినీ పునరుద్ధరించు.">
 <!ENTITY newtab.undo.closeTooltip "దాచు">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

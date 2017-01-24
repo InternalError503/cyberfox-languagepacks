@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Cealaigh.">
 <!ENTITY newtab.undo.restoreButton "Athchóirigh Uile.">
 <!ENTITY newtab.undo.closeTooltip "Folaigh">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

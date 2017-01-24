@@ -25,3 +25,6 @@
 <!ENTITY newtab.customize.suggested "Show suggested and your top sites">
 <!ENTITY newtab.customize.title "Customize your New Tab page">
 <!ENTITY newtab.customize.topsites "Show your top sites">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

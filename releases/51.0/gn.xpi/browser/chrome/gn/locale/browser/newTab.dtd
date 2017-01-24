@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Mboguevi.">
 <!ENTITY newtab.undo.restoreButton "Ñembojevypa.">
 <!ENTITY newtab.undo.closeTooltip "Moñeni">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

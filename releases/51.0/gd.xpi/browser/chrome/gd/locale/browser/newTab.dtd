@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Neo-dhèan.">
 <!ENTITY newtab.undo.restoreButton "Aisig na h-uile.">
 <!ENTITY newtab.undo.closeTooltip "Cuir am falach">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+
