@@ -1065,6 +1065,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY browserpluginswhitelist.label "Habilitar plugins da lista branca.">
 <!ENTITY browserpluginsflashenabled.label "Habilitar plugin flash do navegador.">
 <!ENTITY browserpluginsjavaenabled.label "Habilitar plugin java do navegador.">
+<!ENTITY browserpluginssilverlightenabled.label "Enable silverlight browser plugin.">
 
 <!-- System Addons Tweak -->
 <!ENTITY systemaddons.label "Complementos do sistema">
