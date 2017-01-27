@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+<!ENTITY warnCloseMultipleTabs.label  "Reentin am so tabbe keewɗe ngarii e uddeede">
+<!ENTITY warnCloseMultipleTabs.accesskey  "a">
+
+<!ENTITY warnOpenManyTabs.label       "Reentin am so udditgol tabbe keewɗe ena keɓori leeltinde &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
+
+<!ENTITY switchToNewTabs.label        "So mi udditii jokkol e tabbere hesere, naat e mayre ɗoon e ɗoon">
+<!ENTITY switchToNewTabs.accesskey    "m">
+
+<!ENTITY showTabsInTaskbar.label          "Hollir jiytinde ɗee e palal golle Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "g">
+<!ENTITY tabsGroup.label          "Tabbe">
+
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+
+
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab cycles through tabs in recently used order">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
+
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
