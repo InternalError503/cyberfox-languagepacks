@@ -1,0 +1,7 @@
+amazondotcom
+bing
+google
+twitter
+wikipedia-ka
+yahoo
+ddg
