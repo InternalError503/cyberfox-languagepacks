@@ -1,0 +1,5 @@
+amazon-en-GB
+google
+wikipedia-gl
+yahoo-es
+ddg

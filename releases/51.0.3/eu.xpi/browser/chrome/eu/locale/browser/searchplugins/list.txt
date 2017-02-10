@@ -1,0 +1,7 @@
+amazon-en-GB
+bing
+elebila
+google
+wikipedia-eu
+yahoo
+ddg

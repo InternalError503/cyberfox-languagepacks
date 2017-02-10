@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "Περί δικτύωσης">
+<!ENTITY aboutNetworking.warning               "Πολύ πειραματικό. Να μην χρησιμοποιείται χωρίς επίβλεψη από ενήλικα.">
+<!ENTITY aboutNetworking.showNextTime          "Εμφάνιση της προειδοποίησης και την επόμενη φορά">
+<!ENTITY aboutNetworking.ok                    "ΟΚ">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.refresh               "Ανανέωση">
+<!ENTITY aboutNetworking.autoRefresh           "Η αυτόματη ανανέωση κάθε 3 δευτερόλεπτα">
+<!ENTITY aboutNetworking.port                  "Θύρα">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+
+<!ENTITY aboutNetworking.active                "Active">
+<!ENTITY aboutNetworking.addresses             "Addresses">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes Received">
+<!ENTITY aboutNetworking.bytesSent             "Bytes Sent">
+<!ENTITY aboutNetworking.dnsDomain             "Domain">
+<!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.expires               "Expires (Seconds)">
+<!ENTITY aboutNetworking.family                "Family">
+<!ENTITY aboutNetworking.host                  "Host">
+<!ENTITY aboutNetworking.hostname              "Hostname">
+<!ENTITY aboutNetworking.idle                  "Idle">
+<!ENTITY aboutNetworking.messagesReceived      "Messages Received">
+<!ENTITY aboutNetworking.messagesSent          "Messages Sent">
+<!ENTITY aboutNetworking.received              "Received">
+<!ENTITY aboutNetworking.sent                  "Sent">
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
