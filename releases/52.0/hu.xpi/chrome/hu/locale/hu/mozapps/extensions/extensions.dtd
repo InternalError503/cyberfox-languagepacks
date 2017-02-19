@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Hiányzik valami? Néhány bővítményt már nem támogat a &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "További tudnivalók.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Bővítmények frissességének ellenőrzése">
+<!ENTITY info.plugincheck.tooltip               "Bővítmények frissességének ellenőrzése">
+

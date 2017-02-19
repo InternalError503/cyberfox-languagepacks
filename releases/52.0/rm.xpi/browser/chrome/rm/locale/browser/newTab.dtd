@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Revocar.">
 <!ENTITY newtab.undo.restoreButton "Restaurar tut.">
 <!ENTITY newtab.undo.closeTooltip "Zuppentar">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

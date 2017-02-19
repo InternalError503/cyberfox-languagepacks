@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a phlugain tuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Barrachd fiosrachaidh.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+<!ENTITY info.plugincheck.tooltip               "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+

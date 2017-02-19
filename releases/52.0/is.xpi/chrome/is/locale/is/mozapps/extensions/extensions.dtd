@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt af &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Lesa meira.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Athuga hvort tengiforrit eru í nýjustu útgáfu">
+<!ENTITY info.plugincheck.tooltip               "Athuga hvort tengiforrit eru í nýjustu útgáfu">
+

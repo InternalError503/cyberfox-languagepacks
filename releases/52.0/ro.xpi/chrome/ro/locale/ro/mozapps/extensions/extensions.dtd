@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verifică dacă pluginurile sunt actualizate">
+<!ENTITY info.plugincheck.tooltip               "Verifică dacă pluginurile sunt actualizate">
+

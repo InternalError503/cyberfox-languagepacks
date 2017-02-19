@@ -10,7 +10,6 @@
 <Url type="application/x-suggestions+json" method="GET" template="http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}"/>
 <Url type="text/html" method="GET" template="http://www.yandex.ua/yandsearch" resultdomain="yandex.ua">
   <Param name="text" value="{searchTerms}"/>
-  <Param name="from" value="fx3"/>
 </Url>
 <SearchForm>http://www.yandex.ua/</SearchForm>
 </SearchPlugin>

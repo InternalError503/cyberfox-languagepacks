@@ -10,11 +10,9 @@
 <SearchForm>http://search.meta.ua/</SearchForm>
 <Url type="text/html" method="GET" template="http://meta.ua/search.asp" resultdomain="meta.ua">
     <Param name="q" value="{searchTerms}"/>
-    <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <Url type="application/x-suggestions+json" method="GET" template="http://meta.ua/suggestions/">
     <Param name="output" value="fxjson"/>
     <Param name="q" value="{searchTerms}"/>
-    <Param name="sourceid" value="Mozilla-suggestqueries"/>
 </Url>
 </SearchPlugin>

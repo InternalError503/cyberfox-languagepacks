@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Learn More.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "بررسی کن که آیا افزودنی‌ها به‌روز هستند">
+<!ENTITY info.plugincheck.tooltip               "بررسی اینکه آیا افزدونی‌های شما بروز هستند یا خیر">
+

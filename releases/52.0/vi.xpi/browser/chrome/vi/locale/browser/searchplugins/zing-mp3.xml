@@ -11,7 +11,6 @@
 <Url type="text/html" method="GET" template="http://mp3.zing.vn/mp3/search/do.html" resultdomain="zing.vn">
   <Param name="q" value="{searchTerms}"/>
   <Param name="t" value="0"/>
-  <Param name="utm_source" value="firefox"/>
 </Url>
 <SearchForm>http://mp3.zing.vn/</SearchForm>
 </SearchPlugin>

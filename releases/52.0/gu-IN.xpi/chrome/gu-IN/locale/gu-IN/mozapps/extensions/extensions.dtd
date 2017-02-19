@@ -267,3 +267,8 @@
 <!ENTITY showAllExtensions.button.label       "Show all extensions">
 
 <!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
+<!ENTITY info.plugincheck.tooltip               "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
+

@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Deprendi más">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Marca pa ver si los plugins tán anovaos">
+<!ENTITY info.plugincheck.tooltip               "Marca pa ver si los plugins tán anovaos">
+

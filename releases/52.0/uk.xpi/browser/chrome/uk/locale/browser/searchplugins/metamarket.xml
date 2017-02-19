@@ -11,6 +11,5 @@
 <Url type="text/html" method="GET" template="http://metamarket.ua/ua/search/" resultdomain="metamarket.ua">
     <Param name="q" value="{searchTerms}"/>
     <Param name="m" value="market"/>
-    <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 </SearchPlugin>

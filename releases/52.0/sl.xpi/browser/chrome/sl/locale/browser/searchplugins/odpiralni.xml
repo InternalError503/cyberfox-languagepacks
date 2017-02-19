@@ -10,6 +10,5 @@
 <UpdateUrl>http://www.odpiralnicasi.com/opensearch/description.xml</UpdateUrl>
 <Url type="text/html" method="GET" template="http://www.odpiralnicasi.com/spots" resultdomain="odpiralnicasi.com">
   <Param name="q" value="{searchTerms}"/>
-  <Param name="source" value="1"/>
 </Url>
 </SearchPlugin>

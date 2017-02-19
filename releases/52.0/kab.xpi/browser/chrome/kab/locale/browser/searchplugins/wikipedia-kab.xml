@@ -13,6 +13,5 @@
 </Url>
 <Url type="text/html" method="GET" template="https://kab.wikipedia.org/wiki/Uslig:Search" resultdomain="wikipedia.org" rel="searchform">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 </SearchPlugin>

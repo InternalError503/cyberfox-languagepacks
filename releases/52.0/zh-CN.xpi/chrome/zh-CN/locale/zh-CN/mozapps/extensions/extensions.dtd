@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "少些东西？某些插件已不再被 &brandShortName; 支持。">
 <!ENTITY pluginDeprecation.learnMore "详细了解。">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "检查你的插件是否都是最新版本">
+<!ENTITY info.plugincheck.tooltip               "来检查看看，了解你的插件是否都已是最新版本">
+

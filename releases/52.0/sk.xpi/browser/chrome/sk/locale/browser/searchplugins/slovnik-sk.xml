@@ -10,6 +10,5 @@
 <Url type="text/html" method="GET" template="http://slovnik.azet.sk/" resultdomain="slovnik.azet.sk" rel="searchform">
   <Param name="q" value="{searchTerms}"/>
   <Param name="l" value="en-sk"/>
-  <Param name="sourceid" value="firefox"/>
 </Url>
 </SearchPlugin>

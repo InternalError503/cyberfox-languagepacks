@@ -14,7 +14,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://dict.longdo.org/" resultdomain="longdo.org">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="src" value="moz"/>
 </Url>
 <SearchForm>http://dict.longdo.org/</SearchForm>
 </SearchPlugin>

@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Learn More.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
+<!ENTITY info.plugincheck.tooltip               "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
+

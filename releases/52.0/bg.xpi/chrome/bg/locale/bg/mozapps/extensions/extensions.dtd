@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Липсва ли нещо? Някои приставки вече не се поддържат от &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Научете повече">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Проверка дали вашите приставки са с последна версия">
+<!ENTITY info.plugincheck.tooltip               "Проверка дали вашите приставки са с последна версия">
+

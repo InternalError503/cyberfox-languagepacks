@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "빠진게 있나요? 어떤 플러그인은 &brandShortName;에서 더이상 지원하지 않습니다.">
 <!ENTITY pluginDeprecation.learnMore "더 알아보기.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "플러그인이 최신 버전인지 확인">
+<!ENTITY info.plugincheck.tooltip               "설치된 유효한 플러그인이 최신 버전인지 확인합니다.">
+

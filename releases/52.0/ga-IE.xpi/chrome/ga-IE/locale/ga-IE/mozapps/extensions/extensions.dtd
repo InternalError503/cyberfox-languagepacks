@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Rud éigin ar iarraidh? Ní thacaíonn &brandShortName; le roinnt forlíontán a thuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Tuilleadh Eolais.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
+<!ENTITY info.plugincheck.tooltip               "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
+

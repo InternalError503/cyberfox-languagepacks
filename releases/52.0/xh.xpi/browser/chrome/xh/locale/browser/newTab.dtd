@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Qhaqha okwenzileyo.">
 <!ENTITY newtab.undo.restoreButton "Buyisela Konke.">
 <!ENTITY newtab.undo.closeTooltip "Fihla">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

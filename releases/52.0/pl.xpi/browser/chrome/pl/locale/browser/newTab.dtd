@@ -15,3 +15,6 @@
 <!ENTITY newtab.undo.undoButton "Cofnij.">
 <!ENTITY newtab.undo.restoreButton "Przywróć wszystkie.">
 <!ENTITY newtab.undo.closeTooltip "Ukryj">
+
+<!ENTITY newtab.customize.compat "Tryb kompaktowy">
+

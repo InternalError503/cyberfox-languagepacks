@@ -16,6 +16,5 @@
       template="https://pl.wikipedia.org/wiki/Specjalna:Szukaj"
       type="text/html">
   <Param name="search" value="{searchTerms}" />
-  <Param name="sourceid" value="Mozilla-search" />
  </Url>
 </SearchPlugin>

@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Felujo něco? Někotare tykace njepódpěraju se wěcej pśez &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dalšne informacije.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Pśeglědajśo, lěc waše tykace su aktualne">
+<!ENTITY info.plugincheck.tooltip               "Pśegldajśo, lěc waše tykace su aktualne">
+

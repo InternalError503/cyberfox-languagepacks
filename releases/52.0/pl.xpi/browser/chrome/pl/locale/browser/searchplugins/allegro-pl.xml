@@ -12,6 +12,5 @@
       template="http://allegro.pl/listing/listing.php"
       type="text/html">
   <Param name="string" value="{searchTerms}" />
-  <Param name="sourceid" value="Mozilla-search" />
  </Url>
 </SearchPlugin>

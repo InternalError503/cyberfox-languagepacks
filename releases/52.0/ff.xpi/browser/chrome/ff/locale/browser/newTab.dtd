@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Firtu.">
 <!ENTITY newtab.undo.restoreButton "Artir Fof.">
 <!ENTITY newtab.undo.closeTooltip "Suuɗ">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

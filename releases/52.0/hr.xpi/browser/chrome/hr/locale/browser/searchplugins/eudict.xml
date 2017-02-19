@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://www.eudict.com/indexHr.php" resultdomain="eudict.com">
   <Param name="lang" value="engcro"/>
   <Param name="word" value="{searchTerms}"/>
-  <Param name="client" value="firefox"/>
 </Url>
 <SearchForm>http://www.eudict.com/indexHr.php</SearchForm>
 </SearchPlugin>

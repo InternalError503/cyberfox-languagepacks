@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Cofnyć.">
 <!ENTITY newtab.undo.restoreButton "Wšě wobnowić.">
 <!ENTITY newtab.undo.closeTooltip "Schować">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

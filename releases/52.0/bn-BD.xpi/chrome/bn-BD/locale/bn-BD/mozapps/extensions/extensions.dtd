@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন &brandShortName; আর সমর্থন করে না।">
 <!ENTITY pluginDeprecation.learnMore "আরও জানুন।">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "পরীক্ষা করে দেখুন আপনার প্লাগইন হালনাগাদ করা রয়েছে কিনা">
+<!ENTITY info.plugincheck.tooltip               "পরীক্ষা করে দেখুন আপনার প্লাগইন হালনাগাদ করা রয়েছে কিনা">
+

@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Falta cosa? &brandShortName; ha deixau de soportar bells plugins.">
 <!ENTITY pluginDeprecation.learnMore "Aprende-ne mas.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Prete aquí ta veyer si os suyos plugins son actualizaus">
+<!ENTITY info.plugincheck.tooltip               "Prete aquí ta veyer si os suyos plugins son actualizaus">
+

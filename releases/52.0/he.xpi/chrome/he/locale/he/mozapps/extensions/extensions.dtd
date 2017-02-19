@@ -247,3 +247,8 @@
 
 <!ENTITY pluginDeprecation.description "חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־&brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "למידע נוסף.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+<!ENTITY info.plugincheck.tooltip               "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+

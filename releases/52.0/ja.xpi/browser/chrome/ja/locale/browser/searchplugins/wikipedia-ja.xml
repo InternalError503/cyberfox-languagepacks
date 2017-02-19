@@ -14,6 +14,5 @@
 <Url type="text/html" method="GET" template="https://ja.wikipedia.org/wiki/特別:検索"
      resultdomain="wikipedia.org" rel="searchform">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 </SearchPlugin>

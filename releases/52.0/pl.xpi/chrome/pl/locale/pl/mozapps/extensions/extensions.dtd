@@ -208,3 +208,8 @@
 
 <!ENTITY pluginDeprecation.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Więcej informacji">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Sprawdź, czy zainstalowane wtyczki są aktualne">
+<!ENTITY info.plugincheck.tooltip               "Sprawdź, czy zainstalowane wtyczki są aktualne">
+

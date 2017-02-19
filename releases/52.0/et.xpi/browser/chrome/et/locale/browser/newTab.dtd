@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton     "Võta tagasi.">
 <!ENTITY newtab.undo.restoreButton  "Taasta kõik.">
 <!ENTITY newtab.undo.closeTooltip   "Peida">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

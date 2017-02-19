@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://www.gulesider.no/query" resultdomain="gulesider.no">
   <Param name="what" value="all"/>
   <Param name="search_word" value="{searchTerms}"/>
-  <Param name="cmpid" value="fre_partner_fire_gssbtop"/>
 </Url>
 <SearchForm>http://www.gulesider.no/</SearchForm>
 </SearchPlugin>

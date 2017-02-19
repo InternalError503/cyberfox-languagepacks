@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://portal.bg/dict/index.php" resultdomain="portal.bg">
   <Param name="encin" value="windows-1251" />
   <Param name="encout" value="windows-1251" />
-  <Param name="translate" value="firefox" />
   <Param name="word" value="{searchTerms}" />
 </Url>
 <SearchForm>http://portal.bg/dict/</SearchForm> 

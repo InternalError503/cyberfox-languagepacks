@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Hoàn tác.">
 <!ENTITY newtab.undo.restoreButton "Khôi phục tất cả.">
 <!ENTITY newtab.undo.closeTooltip "Ẩn">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

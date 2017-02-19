@@ -178,3 +178,8 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "Что-то отсутствует? &brandShortName; больше не поддерживает некоторые плагины.">
 <!ENTITY pluginDeprecation.learnMore "Подробнее.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Проверить актуальность версий установленных у вас плагинов">
+<!ENTITY info.plugincheck.tooltip "Проверить актуальность версий установленных у вас плагинов">
+

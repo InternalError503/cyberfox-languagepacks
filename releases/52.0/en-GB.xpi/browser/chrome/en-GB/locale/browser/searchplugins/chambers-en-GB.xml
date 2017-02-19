@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://www.chambers.co.uk/search.php" resultdomain="chambers.co.uk">
   <Param name="query" value="{searchTerms}"/>
   <Param name="title" value="21st"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://www.chambers.co.uk/search.php</SearchForm>
 </SearchPlugin>

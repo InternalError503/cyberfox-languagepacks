@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Dadwneud.">
 <!ENTITY newtab.undo.restoreButton "Adfer Popeth.">
 <!ENTITY newtab.undo.closeTooltip "Cuddio">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

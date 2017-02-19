@@ -12,6 +12,5 @@
 </Url>
 <Url type="text/html" method="GET" template="https://search.seznam.cz/" rel="searchform" resultdomain="seznam.cz">
 	<Param name="q" value="{searchTerms}"/>
-	<Param name="sourceid" value="firefox"/>
 </Url>
 </SearchPlugin>

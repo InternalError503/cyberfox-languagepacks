@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton		"元に戻す。">
 <!ENTITY newtab.undo.restoreButton	"すべて復元する。">
 <!ENTITY newtab.undo.closeTooltip	"閉じる">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

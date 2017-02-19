@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Annuler.">
 <!ENTITY newtab.undo.restoreButton "Tout restaurer.">
 <!ENTITY newtab.undo.closeTooltip "Masquer">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

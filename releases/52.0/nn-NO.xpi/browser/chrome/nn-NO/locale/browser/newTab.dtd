@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Angra.">
 <!ENTITY newtab.undo.restoreButton "Gjenopprett alle">
 <!ENTITY newtab.undo.closeTooltip "Gøym">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

@@ -13,7 +13,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://search.naver.com/search.naver" resultdomain="naver.com">
 	<Param name="where" value="nexearch"/>
-	<Param name="frm" value="ff"/>
   	<Param name="sm" value="oss"/>
 	<Param name="ie" value="utf8"/>
 	<Param name="query" value="{searchTerms}"/>

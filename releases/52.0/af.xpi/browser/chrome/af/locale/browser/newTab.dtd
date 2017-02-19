@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Ontdoen">
 <!ENTITY newtab.undo.restoreButton "Herstel almal.">
 <!ENTITY newtab.undo.closeTooltip "Verskuil">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

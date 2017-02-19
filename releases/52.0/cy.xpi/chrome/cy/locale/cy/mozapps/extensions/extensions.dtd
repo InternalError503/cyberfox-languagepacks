@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Colli Rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dysgu Rhagor.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Gwirio os yw eich ategion yn rhai diweddar">
+<!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ategion yn rhai diweddar">
+

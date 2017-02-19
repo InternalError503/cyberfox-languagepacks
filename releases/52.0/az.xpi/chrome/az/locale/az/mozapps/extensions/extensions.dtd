@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
 <!ENTITY pluginDeprecation.learnMore "Ətraflı Öyrən.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Əlavə proqramların aktual olub olmadığını yoxlayın">
+<!ENTITY info.plugincheck.tooltip               "Əlavə proqramların aktual olub olmadığını yoxlayın">
+

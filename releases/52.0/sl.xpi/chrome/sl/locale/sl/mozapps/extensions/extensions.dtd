@@ -248,3 +248,8 @@
 
 <!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vtičniki posodobljeni">
+<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vtičniki posodobljeni">
+

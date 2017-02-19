@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Faluje něšto? Někotre tykače so wjace přez &brandShortName; njepodpěruja.">
 <!ENTITY pluginDeprecation.learnMore "Dalše informacije.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Přepruwujće, hač waše tykače su aktualne">
+<!ENTITY info.plugincheck.tooltip               "Přepruwujće, hač waše tykače su aktualne">
+

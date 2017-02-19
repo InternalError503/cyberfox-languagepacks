@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi „&brandShortName;“.">
 <!ENTITY pluginDeprecation.learnMore "Sužinoti daugiau.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
+<!ENTITY info.plugincheck.tooltip               "Spustelėkite, kad būtų patikrinta, ar jūsų naudojami papildiniai nepasenę">
+

@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "¿Te falta algo? Algunos complementos ya no son soportados por &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Aprender más.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verifica si tus complementos están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Verifica si tus complementos están actualizados">
+

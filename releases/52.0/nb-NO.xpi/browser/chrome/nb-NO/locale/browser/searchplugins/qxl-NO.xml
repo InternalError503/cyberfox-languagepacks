@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://www.qxl.no/search/search.asp" resultdomain="qxl.no">
   <Param name="txtSearch" value="{searchTerms}"/>
   <Param name="InTitleAndDesc" value="1"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://www.qxl.no/</SearchForm>
 </SearchPlugin>

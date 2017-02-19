@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Kaut kas pietrūkst? Dažus spraudņus &brandShortName; vairs neatbalsta.">
 <!ENTITY pluginDeprecation.learnMore "Uzzināt vairāk.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
+<!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
+

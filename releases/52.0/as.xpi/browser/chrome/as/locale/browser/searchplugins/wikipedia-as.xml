@@ -14,6 +14,5 @@
 <Url type="text/html" method="GET" template="https://as.wikipedia.org/wiki/বিশেষ:সন্ধান"
      resultdomain="wikipedia.org" rel="searchform">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 </SearchPlugin>

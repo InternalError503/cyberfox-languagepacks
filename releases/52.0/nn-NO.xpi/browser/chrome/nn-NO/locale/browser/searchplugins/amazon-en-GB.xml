@@ -12,7 +12,6 @@
   <Param name="ie" value="{inputEncoding}"/>
   <Param name="mode" value="blended"/>
   <Param name="tag" value="firefox-uk-21"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>https://www.amazon.co.uk/</SearchForm>
 </SearchPlugin>

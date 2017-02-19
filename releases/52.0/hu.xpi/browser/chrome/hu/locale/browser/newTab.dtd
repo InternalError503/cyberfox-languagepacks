@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Visszavonás.">
 <!ENTITY newtab.undo.restoreButton "Összes visszaállítása.">
 <!ENTITY newtab.undo.closeTooltip "Elrejtés">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

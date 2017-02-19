@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ɓeydu Humpito.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
+<!ENTITY info.plugincheck.tooltip               "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
+

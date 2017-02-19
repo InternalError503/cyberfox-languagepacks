@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "küresel bir topluluktur">
 <!ENTITY community.exp.end          ".">
 
-<!ENTITY community.start2           "&brandShortName;, ">
+<!ENTITY community.start2           "&brandShortName; tarafından tasarlanmıştır ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
+<!ENTITY community.mozillaLink      "&vendorShortName; ">
+<!ENTITY community.middle2          ", Mozilla'nın bıraktığı yerden devralarak tüm hız ve güvenilirliği ile 64-bit bir web tarayıcısını herkesin erişebileceği hale getirmek için çalışıyoruz">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "küresel bir topluluktur">
-<!ENTITY community.end3             ".">
+<!ENTITY community.end3             " Cyberfox Mozilla Firefox kaynak kodu ile geliştirilmekterdir..">
 
 <!ENTITY helpus.start               "Yardım etmek ister misiniz? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

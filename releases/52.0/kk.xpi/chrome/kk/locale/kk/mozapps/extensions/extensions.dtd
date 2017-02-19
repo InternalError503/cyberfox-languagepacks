@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Бірнәрсе жетіспей ма? Кейбір плагиндерді &brandShortName; енді қолдамайды.">
 <!ENTITY pluginDeprecation.learnMore "Көбірек білу.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+

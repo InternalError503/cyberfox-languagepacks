@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Chýba vám tu niečo? Niektoré zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Ďalšie informácie.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Skontrolovať aktualizácie zásuvných modulov">
+<!ENTITY info.plugincheck.tooltip               "Skontrolovať aktualizácie zásuvných modulov">
+

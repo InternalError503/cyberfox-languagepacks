@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Чогось не вистачає? Деякі плагіни більше не підтримуються в &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Докладніше.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші плагіни">
+<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші плагіни">
+

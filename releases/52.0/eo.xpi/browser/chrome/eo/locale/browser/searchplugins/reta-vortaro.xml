@@ -11,6 +11,5 @@
 <Url type="text/html" method="GET" template="http://www.reta-vortaro.de/cgi-bin/sercxu.pl" resultdomain="reta-vortaro.de">
   <Param name="sercxata" value="{searchTerms}"/>
   <Param name="kadroj" value="1"/>
-  <Param name="from" value="mozilla"/>
 </Url>
 </SearchPlugin>

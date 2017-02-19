@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait plugin onartzen.">
 <!ENTITY pluginDeprecation.learnMore "Argibide gehiago.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Egiaztatu zure pluginak egunean dauden ikusteko">
+<!ENTITY info.plugincheck.tooltip               "Egiaztatu zure pluginak egunean dauden ikusteko">
+

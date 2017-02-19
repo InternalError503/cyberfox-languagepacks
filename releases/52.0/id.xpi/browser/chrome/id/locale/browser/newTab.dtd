@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Urungkan.">
 <!ENTITY newtab.undo.restoreButton "Pulihkan Semua.">
 <!ENTITY newtab.undo.closeTooltip "Sembunyikan">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

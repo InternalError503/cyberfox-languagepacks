@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Bekor qilish.">
 <!ENTITY newtab.undo.restoreButton "Barchasi tiklandi.">
 <!ENTITY newtab.undo.closeTooltip "Yashirish">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

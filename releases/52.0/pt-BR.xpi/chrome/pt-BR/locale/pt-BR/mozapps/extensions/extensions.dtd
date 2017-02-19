@@ -249,3 +249,8 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 
 <!ENTITY pluginDeprecation.description "Faltando alguma coisa? Alguns plugins não são mais suportados pelo &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber mais.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verificar atualizações dos plugins">
+<!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
+

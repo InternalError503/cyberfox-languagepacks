@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Provjerite da li imate zadnju verziju plugina">
+<!ENTITY info.plugincheck.tooltip               "Provjerite da li imate zadnju verziju plugina">
+

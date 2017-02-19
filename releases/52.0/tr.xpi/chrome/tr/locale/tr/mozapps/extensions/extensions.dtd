@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Bir şeyler mi eksik? Bazı yan uygulamalar artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY pluginDeprecation.learnMore "Daha fazla bilgi alın.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Yan uygulamalarınızın güncel olup olmadığına bakın">
+<!ENTITY info.plugincheck.tooltip               "Yan uygulamalarınızın güncel olup olmadığına bakın">
+

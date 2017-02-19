@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Povrati.">
 <!ENTITY newtab.undo.restoreButton "Povrati sve.">
 <!ENTITY newtab.undo.closeTooltip "Sakrij">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

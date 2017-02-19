@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa yi-&brandShortName;">
 <!ENTITY pluginDeprecation.learnMore "Funda Okungakumbi">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
+<!ENTITY info.plugincheck.tooltip               "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
+

@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Mangler du noget? Nogle plugins er ikke længere understøttet af &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Læs mere.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroller om du har de seneste nye plugins">
+<!ENTITY info.plugincheck.tooltip               "Kontroller om du har de seneste nye plugins">
+

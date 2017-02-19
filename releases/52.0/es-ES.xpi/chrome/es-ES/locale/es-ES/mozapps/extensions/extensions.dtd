@@ -178,3 +178,8 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "¿Echa algo en falta? Algunos plugins ya no están admitidos por &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Pulse aquí para ver si sus plugins están actualizados">
+<!ENTITY info.plugincheck.tooltip "Pulse aquí para ver si sus plugins están actualizados">
+

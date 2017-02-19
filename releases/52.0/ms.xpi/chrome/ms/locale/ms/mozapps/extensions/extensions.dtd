@@ -248,3 +248,8 @@
 
 <!ENTITY pluginDeprecation.description "Ada sesuatu yang tidak kena? Ada plugin tidak lagi disokong oleh &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ketahui Selanjutnya.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+<!ENTITY info.plugincheck.tooltip               "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+

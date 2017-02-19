@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description "Mist u iets? Sommige plug-ins worden niet meer door &brandShortName; ondersteund.">
 <!ENTITY pluginDeprecation.learnMore "Meer info.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Controleren of uw plug-ins up-to-date zijn">
+<!ENTITY info.plugincheck.tooltip               "Controleren of uw plug-ins up-to-date zijn">
+

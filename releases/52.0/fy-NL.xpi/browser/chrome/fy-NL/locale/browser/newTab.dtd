@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Ungedien meitsje">
 <!ENTITY newtab.undo.restoreButton "Alles werom bringe">
 <!ENTITY newtab.undo.closeTooltip "Ferstopje">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

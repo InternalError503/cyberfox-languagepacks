@@ -12,7 +12,6 @@
   <Param name="Q" value="{searchTerms}"/>
 </Url>
 <Url type="text/html" method="GET" template="http://www.eki.ee/dict/qs/index.cgi" resultdomain="eki.ee">
-  <Param name="F" value="M"/>
   <Param name="Q" value="{searchTerms}"/>
 </Url>
 <SearchForm>http://www.eki.ee/dict/qs/</SearchForm>

@@ -10,7 +10,6 @@
 <Url type="text/html" method="GET" template="http://www.diri.bg/search.php" resultdomain="diri.bg">
   <Param name="came" value="s" />
   <Param name="u" value="1" />
-  <Param name="browser" value="ff" />
   <Param name="textfield" value="{searchTerms}" />
 </Url>
 <SearchForm>http://diri.bg/</SearchForm> 

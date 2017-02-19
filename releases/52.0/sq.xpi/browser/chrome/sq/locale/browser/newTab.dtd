@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Zhbëje.">
 <!ENTITY newtab.undo.restoreButton "Riktheji Krejt.">
 <!ENTITY newtab.undo.closeTooltip "Fshihe">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

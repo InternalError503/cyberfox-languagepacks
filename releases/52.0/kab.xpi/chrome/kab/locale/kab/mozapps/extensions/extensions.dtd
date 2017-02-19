@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Tettut kra? Kra nizegrar ur ttwasefranken ara tura di &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Issin ugar">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+

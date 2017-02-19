@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Saknar du noko? Nokre programtillegg er ikkje lenger støtta av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Les meir.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroller om programtillegga dine er oppdaterte">
+<!ENTITY info.plugincheck.tooltip               "Kontroller om programtillegga dine er oppdaterte">
+

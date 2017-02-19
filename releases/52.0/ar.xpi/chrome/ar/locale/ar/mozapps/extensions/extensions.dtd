@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "أهناك ما تفتقده؟ لم يعد يدعم &brandShortName; بعض الملحقات.">
 <!ENTITY pluginDeprecation.learnMore "اطّلع على المزيد.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "التمس لتعرف إذا كانت ملحقاتك محدّثة">
+<!ENTITY info.plugincheck.tooltip               "التمس لتعرف إذا كانت ملحقاتك محدّثة">
+

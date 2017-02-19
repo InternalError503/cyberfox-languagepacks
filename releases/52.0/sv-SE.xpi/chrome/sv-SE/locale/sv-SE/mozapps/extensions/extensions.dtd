@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Saknar du något? Vissa insticksmoduler stöds inte längre av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Läs mer.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontrollera om dina instickmoduler är uppdaterade">
+<!ENTITY info.plugincheck.tooltip               "Kontrollera om dina instickmoduler är uppdaterade">
+

@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Kort iets? Sommige inproppe word nie meer ondersteun deur &brandShortName; nie.">
 <!ENTITY pluginDeprecation.learnMore "Meer inligting.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroleer of al die inproppe op datum is">
+<!ENTITY info.plugincheck.tooltip               "Kontroleer of al die inproppe op datum is">
+

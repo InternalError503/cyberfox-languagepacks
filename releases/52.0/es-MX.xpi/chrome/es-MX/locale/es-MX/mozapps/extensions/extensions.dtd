@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "¿Te perdiste de algo? Algunos plugins ya no están disponibles en &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Pulsa aquí para ver si tus plugins están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Pulsa aquí para ver si tus plugins están actualizados">
+

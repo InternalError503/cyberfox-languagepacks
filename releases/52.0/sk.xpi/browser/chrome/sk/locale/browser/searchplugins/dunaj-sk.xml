@@ -12,7 +12,6 @@
   <Param name="bShowSearchForm" value="True"/>
   <Param name="sSearchBasic" value="{searchTerms}"/>
   <Param name="nDepartmentID" value="10000"/>
-  <Param name="sourceid" value="firefox"/>
 </Url>
 <SearchForm>http://www.dunaj.sk/</SearchForm>
 </SearchPlugin>

@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "comunidade global">
 <!ENTITY community.exp.end          " que trabalha unida para manter a web aberta, pública e acessível a todos.">
 
-<!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
+<!ENTITY community.start2           "&brandShortName; é projetado por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", uma ">
+<!ENTITY community.middle2          ", Tomando do lugar onde a Mozilla parou, trabalhando para fazer um rápido e confiável, navegador web x64-bit acessível a todos.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end3             " que trabalha unida para manter a web aberta, pública e acessível a todos.">
+<!ENTITY community.end3             " Cyberfox é alimentado pelo código fonte do Mozilla Firefox.">
 
 <!ENTITY helpus.start               "Quer ajudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->

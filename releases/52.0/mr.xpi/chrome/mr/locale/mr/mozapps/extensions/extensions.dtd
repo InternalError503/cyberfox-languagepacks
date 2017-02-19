@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "काही शोधताय काय? काही प्लगईन्स, &brandShortName; आता समर्थित नाहीत.">
 <!ENTITY pluginDeprecation.learnMore "आणखी शिका">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "प्लगईन्स् अद्ययावत आहे याची खात्री करा">
+<!ENTITY info.plugincheck.tooltip               "प्लगईन्स् अद्ययावत आहे याची खात्री करा">
+

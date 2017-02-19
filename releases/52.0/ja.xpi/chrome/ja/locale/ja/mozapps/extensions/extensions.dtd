@@ -249,3 +249,8 @@
 
 <!ENTITY pluginDeprecation.description			"&brandShortName; によるサポートが終了したプラグインは表示されません。">
 <!ENTITY pluginDeprecation.learnMore			"詳細">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label			"プラグインが最新バージョンであるか確認する">
+<!ENTITY info.plugincheck.tooltip		"インストールされた有効なプラグインが最新バージョンであるか確認します">
+

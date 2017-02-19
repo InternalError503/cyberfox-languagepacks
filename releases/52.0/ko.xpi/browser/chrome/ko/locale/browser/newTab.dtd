@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "취소합니다.">
 <!ENTITY newtab.undo.restoreButton "모두 복원합니다.">
 <!ENTITY newtab.undo.closeTooltip "숨기기">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

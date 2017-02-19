@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenitaj de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Pli da informo.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
+<!ENTITY info.plugincheck.tooltip               "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
+

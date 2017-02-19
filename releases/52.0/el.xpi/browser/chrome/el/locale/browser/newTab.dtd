@@ -16,3 +16,6 @@
 <!ENTITY newtab.undo.undoButton "Αναίρεση.">
 <!ENTITY newtab.undo.restoreButton "Επαναφορά όλων.">
 <!ENTITY newtab.undo.closeTooltip "Απόκρυψη">
+
+<!ENTITY newtab.customize.compat "Compact mode">
+

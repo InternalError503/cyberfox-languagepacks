@@ -246,3 +246,8 @@
 
 <!ENTITY pluginDeprecation.description "Něco chybí? Některé zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Zjistit více.">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Zkontrolovat aktuálnost zásuvných modulů">
+<!ENTITY info.plugincheck.tooltip               "Zkontroluje, zda jsou zásuvné moduly aktuální">
+

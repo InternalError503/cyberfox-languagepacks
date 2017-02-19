@@ -249,3 +249,8 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 
 <!ENTITY pluginDeprecation.description "Fehlt etwas? Einige Plugins werden nicht mehr von &brandShortName; unterstützt.">
 <!ENTITY pluginDeprecation.learnMore "Weitere Informationen">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+<!ENTITY info.plugincheck.tooltip               "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+
