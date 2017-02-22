@@ -251,3 +251,6 @@
 <!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 <!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+

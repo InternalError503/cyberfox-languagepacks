@@ -251,3 +251,6 @@
 <!ENTITY info.plugincheck.label                 "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
 <!ENTITY info.plugincheck.tooltip               "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+

@@ -254,3 +254,6 @@
 <!ENTITY info.plugincheck.label                 "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
 <!ENTITY info.plugincheck.tooltip               "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+

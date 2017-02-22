@@ -254,3 +254,6 @@
 <!ENTITY info.plugincheck.label                 "Проверите да ли су прикључци ажурни">
 <!ENTITY info.plugincheck.tooltip               "Проверите да ли су прикључци ажурни">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+

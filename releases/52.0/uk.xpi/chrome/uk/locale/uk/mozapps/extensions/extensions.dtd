@@ -254,3 +254,6 @@
 <!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші плагіни">
 <!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші плагіни">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+

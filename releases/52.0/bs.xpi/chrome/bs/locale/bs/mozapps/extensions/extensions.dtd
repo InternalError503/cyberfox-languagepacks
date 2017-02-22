@@ -251,3 +251,6 @@
 <!ENTITY info.plugincheck.label                 "Provjerite da li imate zadnju verziju plugina">
 <!ENTITY info.plugincheck.tooltip               "Provjerite da li imate zadnju verziju plugina">
 
+<!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
+<!ENTITY pluginDisabled.learnMore "Learn More.">
+
