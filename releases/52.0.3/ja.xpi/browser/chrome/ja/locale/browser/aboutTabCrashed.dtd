@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabCrashed.header	"申し訳ありません。このタブはクラッシュしました">
+<!ENTITY tabCrashed.message	"このタブを閉じると、クラッシュしたタブをすべて復元します。">
+<!ENTITY tabCrashed.sendReport	"クラッシュレポートを送信して、&brandShortName; の改善に役立てる">
+<!ENTITY tabCrashed.includeURL	"ページの URL を含める">
+<!ENTITY tabCrashed.commentPlaceholder	"コメントを追記 (公開されます)">
+<!ENTITY tabCrashed.emailPlaceholder	"メールアドレスを記入">
+<!ENTITY tabCrashed.emailMe		"新着情報があったらメールを送信する">
+<!ENTITY tabCrashed.crashReporter	"Mozilla クラッシュレポーター">
+<!ENTITY tabCrashed.reportSent	"クラッシュレポートを送信しました。&brandShortName; の改善に役立てます。">
+<!ENTITY tabCrashed.closeTab	"このタブを閉じる">
+<!ENTITY tabCrashed.restoreTab	"このタブを復元する">
+<!ENTITY tabCrashed.restoreAll	"クラッシュしたタブをすべて復元する">
+
+<!ENTITY tabCrashed.autoSubmit "Update preferences to automatically submit backlogged crash reports (and get fewer messages like this from us in the future)">
+<!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (comments are publicly visible)">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.header2 "Gah. Your tab just crashed.">
+<!ENTITY tabCrashed.includeURL2 "Include page URL with this crash report">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Choose &tabCrashed.restoreTab; or &tabCrashed.restoreAll; to reload page content.">
+<!ENTITY tabCrashed.offerHelp "We can help you!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Report background tabs">
+<!ENTITY tabCrashed.requestHelp "Will you help us?">
+<!ENTITY tabCrashed.requestHelpMessage "Crash reports help us diagnose problems and make &brandShortName; better.">
+<!ENTITY tabCrashed.requestReport "Report this tab">
+<!ENTITY tabCrashed.sendReport2 "Send a crash report for the tab you are viewing">
+<!ENTITY tabCrashed.single.offerHelpMessage "Choose &tabCrashed.restoreTab; to reload page content.">
