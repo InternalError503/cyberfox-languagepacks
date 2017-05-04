@@ -2,7 +2,7 @@ Quick Folder Navigation
 ==========
 
 
-####[ach.xpi]
+#### [ach.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ach.xpi) | Root Folder |
@@ -16,7 +16,7 @@ Quick Folder Navigation
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ach.xpi/chrome/ach/locale/ach/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[af.xpi]
+#### [af.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/af.xpi) | Root Folder |
@@ -30,7 +30,7 @@ Quick Folder Navigation
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/af.xpi/chrome/af/locale/af/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[an.xpi]
+#### [an.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/an.xpi) | Root Folder |
@@ -44,7 +44,7 @@ Quick Folder Navigation
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/an.xpi/chrome/an/locale/an/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ar.xpi]
+#### [ar.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ar.xpi) | Root Folder |
@@ -58,7 +58,7 @@ Quick Folder Navigation
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ar.xpi/chrome/ar/locale/ar/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[as.xpi]
+#### [as.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/as.xpi) | Root Folder |
@@ -72,7 +72,7 @@ Quick Folder Navigation
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/as.xpi/chrome/as/locale/as/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ast.xpi]
+#### [ast.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ast.xpi) | Root Folder |
@@ -86,7 +86,7 @@ Quick Folder Navigation
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ast.xpi/chrome/ast/locale/ast/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[az.xpi]
+#### [az.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/az.xpi) | Root Folder |
@@ -100,7 +100,7 @@ Quick Folder Navigation
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/az.xpi/chrome/az/locale/az/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[be.xpi]
+#### [be.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/be.xpi) | Root Folder |
@@ -114,7 +114,7 @@ Quick Folder Navigation
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/be.xpi/chrome/be/locale/be/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[bg.xpi]
+#### [bg.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bg.xpi) | Root Folder |
@@ -128,7 +128,7 @@ Quick Folder Navigation
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bg.xpi/chrome/bg/locale/bg/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[bn-BD.xpi]
+#### [bn-BD.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bn-BD.xpi) | Root Folder |
@@ -142,7 +142,7 @@ Quick Folder Navigation
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bn-BD.xpi/chrome/bn-BD/locale/bn-BD/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[bn-IN.xpi]
+#### [bn-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bn-IN.xpi) | Root Folder |
@@ -156,7 +156,7 @@ Quick Folder Navigation
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bn-IN.xpi/chrome/bn-IN/locale/bn-IN/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[br.xpi]
+#### [br.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/br.xpi) | Root Folder |
@@ -170,7 +170,7 @@ Quick Folder Navigation
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/br.xpi/chrome/br/locale/br/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[bs.xpi]
+#### [bs.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bs.xpi) | Root Folder |
@@ -184,7 +184,7 @@ Quick Folder Navigation
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/bs.xpi/chrome/bs/locale/bs/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ca.xpi]
+#### [ca.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ca.xpi) | Root Folder |
@@ -198,7 +198,7 @@ Quick Folder Navigation
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ca.xpi/chrome/ca/locale/ca/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[cak.xpi]
+#### [cak.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cak.xpi) | Root Folder |
@@ -212,7 +212,7 @@ Quick Folder Navigation
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cak.xpi/chrome/cak/locale/cak/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[cs.xpi]
+#### [cs.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cs.xpi) | Root Folder |
@@ -226,7 +226,7 @@ Quick Folder Navigation
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cs.xpi/chrome/cs/locale/cs/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[cy.xpi]
+#### [cy.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cy.xpi) | Root Folder |
@@ -240,7 +240,7 @@ Quick Folder Navigation
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/cy.xpi/chrome/cy/locale/cy/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[da.xpi]
+#### [da.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/da.xpi) | Root Folder |
@@ -254,7 +254,7 @@ Quick Folder Navigation
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/da.xpi/chrome/da/locale/da/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[de.xpi]
+#### [de.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/de.xpi) | Root Folder |
@@ -268,7 +268,7 @@ Quick Folder Navigation
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/de.xpi/chrome/de/locale/de/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[dsb.xpi]
+#### [dsb.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/dsb.xpi) | Root Folder |
@@ -282,7 +282,7 @@ Quick Folder Navigation
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/dsb.xpi/chrome/dsb/locale/dsb/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[el.xpi]
+#### [el.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/el.xpi) | Root Folder |
@@ -296,7 +296,7 @@ Quick Folder Navigation
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/el.xpi/chrome/el/locale/el/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[en-GB.xpi]
+#### [en-GB.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-GB.xpi) | Root Folder |
@@ -310,7 +310,7 @@ Quick Folder Navigation
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-GB.xpi/chrome/en-GB/locale/en-GB/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[en-US.xpi]
+#### [en-US.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-US.xpi) | Root Folder |
@@ -324,7 +324,7 @@ Quick Folder Navigation
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-US.xpi/chrome/en-US/locale/en-US/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[en-ZA.xpi]
+#### [en-ZA.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-ZA.xpi) | Root Folder |
@@ -338,7 +338,7 @@ Quick Folder Navigation
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/en-ZA.xpi/chrome/en-ZA/locale/en-ZA/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[eo.xpi]
+#### [eo.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/eo.xpi) | Root Folder |
@@ -352,7 +352,7 @@ Quick Folder Navigation
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/eo.xpi/chrome/eo/locale/eo/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[es-AR.xpi]
+#### [es-AR.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-AR.xpi) | Root Folder |
@@ -366,7 +366,7 @@ Quick Folder Navigation
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-AR.xpi/chrome/es-AR/locale/es-AR/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[es-CL.xpi]
+#### [es-CL.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-CL.xpi) | Root Folder |
@@ -380,7 +380,7 @@ Quick Folder Navigation
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-CL.xpi/chrome/es-CL/locale/es-CL/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[es-ES.xpi]
+#### [es-ES.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-ES.xpi) | Root Folder |
@@ -394,7 +394,7 @@ Quick Folder Navigation
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-ES.xpi/chrome/es-ES/locale/es-ES/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[es-MX.xpi]
+#### [es-MX.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-MX.xpi) | Root Folder |
@@ -408,7 +408,7 @@ Quick Folder Navigation
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/es-MX.xpi/chrome/es-MX/locale/es-MX/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[et.xpi]
+#### [et.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/et.xpi) | Root Folder |
@@ -422,7 +422,7 @@ Quick Folder Navigation
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/et.xpi/chrome/et/locale/et/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[eu.xpi]
+#### [eu.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/eu.xpi) | Root Folder |
@@ -436,7 +436,7 @@ Quick Folder Navigation
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/eu.xpi/chrome/eu/locale/eu/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[fa.xpi]
+#### [fa.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fa.xpi) | Root Folder |
@@ -450,7 +450,7 @@ Quick Folder Navigation
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fa.xpi/chrome/fa/locale/fa/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ff.xpi]
+#### [ff.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ff.xpi) | Root Folder |
@@ -464,7 +464,7 @@ Quick Folder Navigation
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ff.xpi/chrome/ff/locale/ff/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[fi.xpi]
+#### [fi.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fi.xpi) | Root Folder |
@@ -478,7 +478,7 @@ Quick Folder Navigation
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fi.xpi/chrome/fi/locale/fi/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[fr.xpi]
+#### [fr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fr.xpi) | Root Folder |
@@ -492,7 +492,7 @@ Quick Folder Navigation
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fr.xpi/chrome/fr/locale/fr/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[fy-NL.xpi]
+#### [fy-NL.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fy-NL.xpi) | Root Folder |
@@ -506,7 +506,7 @@ Quick Folder Navigation
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/fy-NL.xpi/chrome/fy-NL/locale/fy-NL/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ga-IE.xpi]
+#### [ga-IE.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ga-IE.xpi) | Root Folder |
@@ -520,7 +520,7 @@ Quick Folder Navigation
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ga-IE.xpi/chrome/ga-IE/locale/ga-IE/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[gd.xpi]
+#### [gd.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gd.xpi) | Root Folder |
@@ -534,7 +534,7 @@ Quick Folder Navigation
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gd.xpi/chrome/gd/locale/gd/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[gl.xpi]
+#### [gl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gl.xpi) | Root Folder |
@@ -548,7 +548,7 @@ Quick Folder Navigation
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gl.xpi/chrome/gl/locale/gl/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[gn.xpi]
+#### [gn.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gn.xpi) | Root Folder |
@@ -562,7 +562,7 @@ Quick Folder Navigation
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gn.xpi/chrome/gn/locale/gn/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[gu-IN.xpi]
+#### [gu-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gu-IN.xpi) | Root Folder |
@@ -576,7 +576,7 @@ Quick Folder Navigation
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/gu-IN.xpi/chrome/gu-IN/locale/gu-IN/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[he.xpi]
+#### [he.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/he.xpi) | Root Folder |
@@ -590,7 +590,7 @@ Quick Folder Navigation
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/he.xpi/chrome/he/locale/he/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[hi-IN.xpi]
+#### [hi-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hi-IN.xpi) | Root Folder |
@@ -604,7 +604,7 @@ Quick Folder Navigation
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hi-IN.xpi/chrome/hi-IN/locale/hi-IN/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[hr.xpi]
+#### [hr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hr.xpi) | Root Folder |
@@ -618,7 +618,7 @@ Quick Folder Navigation
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hr.xpi/chrome/hr/locale/hr/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[hsb.xpi]
+#### [hsb.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hsb.xpi) | Root Folder |
@@ -632,7 +632,7 @@ Quick Folder Navigation
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hsb.xpi/chrome/hsb/locale/hsb/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[hu.xpi]
+#### [hu.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hu.xpi) | Root Folder |
@@ -646,7 +646,7 @@ Quick Folder Navigation
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hu.xpi/chrome/hu/locale/hu/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[hy-AM.xpi]
+#### [hy-AM.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hy-AM.xpi) | Root Folder |
@@ -660,7 +660,7 @@ Quick Folder Navigation
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/hy-AM.xpi/chrome/hy-AM/locale/hy-AM/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[id.xpi]
+#### [id.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/id.xpi) | Root Folder |
@@ -674,7 +674,7 @@ Quick Folder Navigation
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/id.xpi/chrome/id/locale/id/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[is.xpi]
+#### [is.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/is.xpi) | Root Folder |
@@ -688,7 +688,7 @@ Quick Folder Navigation
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/is.xpi/chrome/is/locale/is/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[it.xpi]
+#### [it.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/it.xpi) | Root Folder |
@@ -702,7 +702,7 @@ Quick Folder Navigation
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/it.xpi/chrome/it/locale/it/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ja.xpi]
+#### [ja.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ja.xpi) | Root Folder |
@@ -716,7 +716,7 @@ Quick Folder Navigation
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ja.xpi/chrome/ja/locale/ja/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[kk.xpi]
+#### [kk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/kk.xpi) | Root Folder |
@@ -730,7 +730,7 @@ Quick Folder Navigation
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/kk.xpi/chrome/kk/locale/kk/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[km.xpi]
+#### [km.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/km.xpi) | Root Folder |
@@ -744,7 +744,7 @@ Quick Folder Navigation
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/km.xpi/chrome/km/locale/km/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[kn.xpi]
+#### [kn.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/kn.xpi) | Root Folder |
@@ -758,7 +758,7 @@ Quick Folder Navigation
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/kn.xpi/chrome/kn/locale/kn/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ko.xpi]
+#### [ko.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ko.xpi) | Root Folder |
@@ -772,7 +772,7 @@ Quick Folder Navigation
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ko.xpi/chrome/ko/locale/ko/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[lij.xpi]
+#### [lij.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lij.xpi) | Root Folder |
@@ -786,7 +786,7 @@ Quick Folder Navigation
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lij.xpi/chrome/lij/locale/lij/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[lt.xpi]
+#### [lt.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lt.xpi) | Root Folder |
@@ -800,7 +800,7 @@ Quick Folder Navigation
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lt.xpi/chrome/lt/locale/lt/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[lv.xpi]
+#### [lv.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lv.xpi) | Root Folder |
@@ -814,7 +814,7 @@ Quick Folder Navigation
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/lv.xpi/chrome/lv/locale/lv/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[mai.xpi]
+#### [mai.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mai.xpi) | Root Folder |
@@ -828,7 +828,7 @@ Quick Folder Navigation
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mai.xpi/chrome/mai/locale/mai/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[mk.xpi]
+#### [mk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mk.xpi) | Root Folder |
@@ -842,7 +842,7 @@ Quick Folder Navigation
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mk.xpi/chrome/mk/locale/mk/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ml.xpi]
+#### [ml.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ml.xpi) | Root Folder |
@@ -856,7 +856,7 @@ Quick Folder Navigation
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ml.xpi/chrome/ml/locale/ml/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[mr.xpi]
+#### [mr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mr.xpi) | Root Folder |
@@ -870,7 +870,7 @@ Quick Folder Navigation
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/mr.xpi/chrome/mr/locale/mr/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ms.xpi]
+#### [ms.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ms.xpi) | Root Folder |
@@ -884,7 +884,7 @@ Quick Folder Navigation
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ms.xpi/chrome/ms/locale/ms/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[nb-NO.xpi]
+#### [nb-NO.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nb-NO.xpi) | Root Folder |
@@ -898,7 +898,7 @@ Quick Folder Navigation
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nb-NO.xpi/chrome/nb-NO/locale/nb-NO/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[nl.xpi]
+#### [nl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nl.xpi) | Root Folder |
@@ -912,7 +912,7 @@ Quick Folder Navigation
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nl.xpi/chrome/nl/locale/nl/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[nn-NO.xpi]
+#### [nn-NO.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nn-NO.xpi) | Root Folder |
@@ -926,7 +926,7 @@ Quick Folder Navigation
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/nn-NO.xpi/chrome/nn-NO/locale/nn-NO/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[or.xpi]
+#### [or.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/or.xpi) | Root Folder |
@@ -940,7 +940,7 @@ Quick Folder Navigation
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/or.xpi/chrome/or/locale/or/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[pa-IN.xpi]
+#### [pa-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pa-IN.xpi) | Root Folder |
@@ -954,7 +954,7 @@ Quick Folder Navigation
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pa-IN.xpi/chrome/pa-IN/locale/pa-IN/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[pl.xpi]
+#### [pl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pl.xpi) | Root Folder |
@@ -968,7 +968,7 @@ Quick Folder Navigation
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pl.xpi/chrome/pl/locale/pl/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[pt-BR.xpi]
+#### [pt-BR.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pt-BR.xpi) | Root Folder |
@@ -982,7 +982,7 @@ Quick Folder Navigation
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pt-BR.xpi/chrome/pt-BR/locale/pt-BR/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[pt-PT.xpi]
+#### [pt-PT.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pt-PT.xpi) | Root Folder |
@@ -996,7 +996,7 @@ Quick Folder Navigation
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/pt-PT.xpi/chrome/pt-PT/locale/pt-PT/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[readme.md]
+#### [readme.md]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/readme.md) | Root Folder |
@@ -1010,7 +1010,7 @@ Quick Folder Navigation
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/readme.md/chrome/readme/locale/readme/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[rm.xpi]
+#### [rm.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/rm.xpi) | Root Folder |
@@ -1024,7 +1024,7 @@ Quick Folder Navigation
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/rm.xpi/chrome/rm/locale/rm/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ro.xpi]
+#### [ro.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ro.xpi) | Root Folder |
@@ -1038,7 +1038,7 @@ Quick Folder Navigation
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ro.xpi/chrome/ro/locale/ro/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ru.xpi]
+#### [ru.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ru.xpi) | Root Folder |
@@ -1052,7 +1052,7 @@ Quick Folder Navigation
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ru.xpi/chrome/ru/locale/ru/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[si.xpi]
+#### [si.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/si.xpi) | Root Folder |
@@ -1066,7 +1066,7 @@ Quick Folder Navigation
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/si.xpi/chrome/si/locale/si/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[sk.xpi]
+#### [sk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sk.xpi) | Root Folder |
@@ -1080,7 +1080,7 @@ Quick Folder Navigation
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sk.xpi/chrome/sk/locale/sk/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[sl.xpi]
+#### [sl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sl.xpi) | Root Folder |
@@ -1094,7 +1094,7 @@ Quick Folder Navigation
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sl.xpi/chrome/sl/locale/sl/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[son.xpi]
+#### [son.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/son.xpi) | Root Folder |
@@ -1108,7 +1108,7 @@ Quick Folder Navigation
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/son.xpi/chrome/son/locale/son/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[sq.xpi]
+#### [sq.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sq.xpi) | Root Folder |
@@ -1122,7 +1122,7 @@ Quick Folder Navigation
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sq.xpi/chrome/sq/locale/sq/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[sr.xpi]
+#### [sr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sr.xpi) | Root Folder |
@@ -1136,7 +1136,7 @@ Quick Folder Navigation
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sr.xpi/chrome/sr/locale/sr/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[sv-SE.xpi]
+#### [sv-SE.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sv-SE.xpi) | Root Folder |
@@ -1150,7 +1150,7 @@ Quick Folder Navigation
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/sv-SE.xpi/chrome/sv-SE/locale/sv-SE/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[ta.xpi]
+#### [ta.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ta.xpi) | Root Folder |
@@ -1164,7 +1164,7 @@ Quick Folder Navigation
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/ta.xpi/chrome/ta/locale/ta/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[te.xpi]
+#### [te.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/te.xpi) | Root Folder |
@@ -1178,7 +1178,7 @@ Quick Folder Navigation
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/te.xpi/chrome/te/locale/te/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[th.xpi]
+#### [th.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/th.xpi) | Root Folder |
@@ -1192,7 +1192,7 @@ Quick Folder Navigation
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/th.xpi/chrome/th/locale/th/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[tr.xpi]
+#### [tr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/tr.xpi) | Root Folder |
@@ -1206,7 +1206,7 @@ Quick Folder Navigation
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/tr.xpi/chrome/tr/locale/tr/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[uk.xpi]
+#### [uk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/uk.xpi) | Root Folder |
@@ -1220,7 +1220,7 @@ Quick Folder Navigation
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/uk.xpi/chrome/uk/locale/uk/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[uz.xpi]
+#### [uz.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/uz.xpi) | Root Folder |
@@ -1234,7 +1234,7 @@ Quick Folder Navigation
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/uz.xpi/chrome/uz/locale/uz/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[vi.xpi]
+#### [vi.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/vi.xpi) | Root Folder |
@@ -1248,7 +1248,7 @@ Quick Folder Navigation
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/vi.xpi/chrome/vi/locale/vi/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[xh.xpi]
+#### [xh.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/xh.xpi) | Root Folder |
@@ -1262,7 +1262,7 @@ Quick Folder Navigation
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/xh.xpi/chrome/xh/locale/xh/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[zh-CN.xpi]
+#### [zh-CN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/zh-CN.xpi) | Root Folder |
@@ -1276,7 +1276,7 @@ Quick Folder Navigation
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/zh-CN.xpi/chrome/zh-CN/locale/zh-CN/mozapps/extensions/extensions.dtd) | extensions.dtd |
 
 
-####[zh-TW.xpi]
+#### [zh-TW.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.1.1/zh-TW.xpi) | Root Folder |

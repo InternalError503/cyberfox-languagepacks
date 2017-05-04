@@ -2,7 +2,7 @@ Quick Folder Navigation
 ==========
 
 
-####[ach.xpi]
+#### [ach.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ach.xpi) | Root Folder |
@@ -15,7 +15,7 @@ Quick Folder Navigation
 | ach.xpi | [ach.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ach.xpi/browser/chrome/ach/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[af.xpi]
+#### [af.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/af.xpi) | Root Folder |
@@ -28,7 +28,7 @@ Quick Folder Navigation
 | af.xpi | [af.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/af.xpi/browser/chrome/af/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[an.xpi]
+#### [an.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/an.xpi) | Root Folder |
@@ -41,7 +41,7 @@ Quick Folder Navigation
 | an.xpi | [an.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/an.xpi/browser/chrome/an/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ar.xpi]
+#### [ar.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ar.xpi) | Root Folder |
@@ -54,7 +54,7 @@ Quick Folder Navigation
 | ar.xpi | [ar.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ar.xpi/browser/chrome/ar/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[as.xpi]
+#### [as.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/as.xpi) | Root Folder |
@@ -67,7 +67,7 @@ Quick Folder Navigation
 | as.xpi | [as.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/as.xpi/browser/chrome/as/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ast.xpi]
+#### [ast.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ast.xpi) | Root Folder |
@@ -80,7 +80,7 @@ Quick Folder Navigation
 | ast.xpi | [ast.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ast.xpi/browser/chrome/ast/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[az.xpi]
+#### [az.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/az.xpi) | Root Folder |
@@ -93,7 +93,7 @@ Quick Folder Navigation
 | az.xpi | [az.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/az.xpi/browser/chrome/az/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[be.xpi]
+#### [be.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/be.xpi) | Root Folder |
@@ -106,7 +106,7 @@ Quick Folder Navigation
 | be.xpi | [be.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/be.xpi/browser/chrome/be/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[bg.xpi]
+#### [bg.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bg.xpi) | Root Folder |
@@ -119,7 +119,7 @@ Quick Folder Navigation
 | bg.xpi | [bg.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bg.xpi/browser/chrome/bg/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[bn-BD.xpi]
+#### [bn-BD.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bn-BD.xpi) | Root Folder |
@@ -132,7 +132,7 @@ Quick Folder Navigation
 | bn-BD.xpi | [bn-BD.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bn-BD.xpi/browser/chrome/bn-BD/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[bn-IN.xpi]
+#### [bn-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bn-IN.xpi) | Root Folder |
@@ -145,7 +145,7 @@ Quick Folder Navigation
 | bn-IN.xpi | [bn-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bn-IN.xpi/browser/chrome/bn-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[br.xpi]
+#### [br.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/br.xpi) | Root Folder |
@@ -158,7 +158,7 @@ Quick Folder Navigation
 | br.xpi | [br.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/br.xpi/browser/chrome/br/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[bs.xpi]
+#### [bs.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bs.xpi) | Root Folder |
@@ -171,7 +171,7 @@ Quick Folder Navigation
 | bs.xpi | [bs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/bs.xpi/browser/chrome/bs/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ca.xpi]
+#### [ca.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ca.xpi) | Root Folder |
@@ -184,7 +184,7 @@ Quick Folder Navigation
 | ca.xpi | [ca.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ca.xpi/browser/chrome/ca/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[cak.xpi]
+#### [cak.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cak.xpi) | Root Folder |
@@ -197,7 +197,7 @@ Quick Folder Navigation
 | cak.xpi | [cak.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cak.xpi/browser/chrome/cak/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[cs.xpi]
+#### [cs.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cs.xpi) | Root Folder |
@@ -210,7 +210,7 @@ Quick Folder Navigation
 | cs.xpi | [cs.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cs.xpi/browser/chrome/cs/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[cy.xpi]
+#### [cy.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cy.xpi) | Root Folder |
@@ -223,7 +223,7 @@ Quick Folder Navigation
 | cy.xpi | [cy.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/cy.xpi/browser/chrome/cy/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[da.xpi]
+#### [da.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/da.xpi) | Root Folder |
@@ -236,7 +236,7 @@ Quick Folder Navigation
 | da.xpi | [da.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/da.xpi/browser/chrome/da/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[de.xpi]
+#### [de.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/de.xpi) | Root Folder |
@@ -249,7 +249,7 @@ Quick Folder Navigation
 | de.xpi | [de.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/de.xpi/browser/chrome/de/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[dsb.xpi]
+#### [dsb.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/dsb.xpi) | Root Folder |
@@ -262,7 +262,7 @@ Quick Folder Navigation
 | dsb.xpi | [dsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/dsb.xpi/browser/chrome/dsb/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[el.xpi]
+#### [el.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/el.xpi) | Root Folder |
@@ -275,7 +275,7 @@ Quick Folder Navigation
 | el.xpi | [el.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/el.xpi/browser/chrome/el/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[en-GB.xpi]
+#### [en-GB.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-GB.xpi) | Root Folder |
@@ -288,7 +288,7 @@ Quick Folder Navigation
 | en-GB.xpi | [en-GB.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-GB.xpi/browser/chrome/en-GB/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[en-US.xpi]
+#### [en-US.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-US.xpi) | Root Folder |
@@ -301,7 +301,7 @@ Quick Folder Navigation
 | en-US.xpi | [en-US.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-US.xpi/browser/chrome/en-US/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[en-ZA.xpi]
+#### [en-ZA.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-ZA.xpi) | Root Folder |
@@ -314,7 +314,7 @@ Quick Folder Navigation
 | en-ZA.xpi | [en-ZA.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/en-ZA.xpi/browser/chrome/en-ZA/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[eo.xpi]
+#### [eo.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/eo.xpi) | Root Folder |
@@ -327,7 +327,7 @@ Quick Folder Navigation
 | eo.xpi | [eo.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/eo.xpi/browser/chrome/eo/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[es-AR.xpi]
+#### [es-AR.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-AR.xpi) | Root Folder |
@@ -340,7 +340,7 @@ Quick Folder Navigation
 | es-AR.xpi | [es-AR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-AR.xpi/browser/chrome/es-AR/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[es-CL.xpi]
+#### [es-CL.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-CL.xpi) | Root Folder |
@@ -353,7 +353,7 @@ Quick Folder Navigation
 | es-CL.xpi | [es-CL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-CL.xpi/browser/chrome/es-CL/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[es-ES.xpi]
+#### [es-ES.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-ES.xpi) | Root Folder |
@@ -366,7 +366,7 @@ Quick Folder Navigation
 | es-ES.xpi | [es-ES.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-ES.xpi/browser/chrome/es-ES/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[es-MX.xpi]
+#### [es-MX.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-MX.xpi) | Root Folder |
@@ -379,7 +379,7 @@ Quick Folder Navigation
 | es-MX.xpi | [es-MX.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/es-MX.xpi/browser/chrome/es-MX/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[et.xpi]
+#### [et.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/et.xpi) | Root Folder |
@@ -392,7 +392,7 @@ Quick Folder Navigation
 | et.xpi | [et.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/et.xpi/browser/chrome/et/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[eu.xpi]
+#### [eu.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/eu.xpi) | Root Folder |
@@ -405,7 +405,7 @@ Quick Folder Navigation
 | eu.xpi | [eu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/eu.xpi/browser/chrome/eu/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[fa.xpi]
+#### [fa.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fa.xpi) | Root Folder |
@@ -418,7 +418,7 @@ Quick Folder Navigation
 | fa.xpi | [fa.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fa.xpi/browser/chrome/fa/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ff.xpi]
+#### [ff.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ff.xpi) | Root Folder |
@@ -431,7 +431,7 @@ Quick Folder Navigation
 | ff.xpi | [ff.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ff.xpi/browser/chrome/ff/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[fi.xpi]
+#### [fi.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fi.xpi) | Root Folder |
@@ -444,7 +444,7 @@ Quick Folder Navigation
 | fi.xpi | [fi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fi.xpi/browser/chrome/fi/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[fr.xpi]
+#### [fr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fr.xpi) | Root Folder |
@@ -457,7 +457,7 @@ Quick Folder Navigation
 | fr.xpi | [fr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fr.xpi/browser/chrome/fr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[fy-NL.xpi]
+#### [fy-NL.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fy-NL.xpi) | Root Folder |
@@ -470,7 +470,7 @@ Quick Folder Navigation
 | fy-NL.xpi | [fy-NL.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/fy-NL.xpi/browser/chrome/fy-NL/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ga-IE.xpi]
+#### [ga-IE.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ga-IE.xpi) | Root Folder |
@@ -483,7 +483,7 @@ Quick Folder Navigation
 | ga-IE.xpi | [ga-IE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ga-IE.xpi/browser/chrome/ga-IE/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[gd.xpi]
+#### [gd.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gd.xpi) | Root Folder |
@@ -496,7 +496,7 @@ Quick Folder Navigation
 | gd.xpi | [gd.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gd.xpi/browser/chrome/gd/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[gl.xpi]
+#### [gl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gl.xpi) | Root Folder |
@@ -509,7 +509,7 @@ Quick Folder Navigation
 | gl.xpi | [gl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gl.xpi/browser/chrome/gl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[gn.xpi]
+#### [gn.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gn.xpi) | Root Folder |
@@ -522,7 +522,7 @@ Quick Folder Navigation
 | gn.xpi | [gn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gn.xpi/browser/chrome/gn/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[gu-IN.xpi]
+#### [gu-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gu-IN.xpi) | Root Folder |
@@ -535,7 +535,7 @@ Quick Folder Navigation
 | gu-IN.xpi | [gu-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/gu-IN.xpi/browser/chrome/gu-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[he.xpi]
+#### [he.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/he.xpi) | Root Folder |
@@ -548,7 +548,7 @@ Quick Folder Navigation
 | he.xpi | [he.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/he.xpi/browser/chrome/he/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[hi-IN.xpi]
+#### [hi-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hi-IN.xpi) | Root Folder |
@@ -561,7 +561,7 @@ Quick Folder Navigation
 | hi-IN.xpi | [hi-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hi-IN.xpi/browser/chrome/hi-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[hr.xpi]
+#### [hr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hr.xpi) | Root Folder |
@@ -574,7 +574,7 @@ Quick Folder Navigation
 | hr.xpi | [hr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hr.xpi/browser/chrome/hr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[hsb.xpi]
+#### [hsb.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hsb.xpi) | Root Folder |
@@ -587,7 +587,7 @@ Quick Folder Navigation
 | hsb.xpi | [hsb.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hsb.xpi/browser/chrome/hsb/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[hu.xpi]
+#### [hu.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hu.xpi) | Root Folder |
@@ -600,7 +600,7 @@ Quick Folder Navigation
 | hu.xpi | [hu.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hu.xpi/browser/chrome/hu/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[hy-AM.xpi]
+#### [hy-AM.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hy-AM.xpi) | Root Folder |
@@ -613,7 +613,7 @@ Quick Folder Navigation
 | hy-AM.xpi | [hy-AM.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/hy-AM.xpi/browser/chrome/hy-AM/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[id.xpi]
+#### [id.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/id.xpi) | Root Folder |
@@ -626,7 +626,7 @@ Quick Folder Navigation
 | id.xpi | [id.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/id.xpi/browser/chrome/id/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[is.xpi]
+#### [is.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/is.xpi) | Root Folder |
@@ -639,7 +639,7 @@ Quick Folder Navigation
 | is.xpi | [is.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/is.xpi/browser/chrome/is/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[it.xpi]
+#### [it.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/it.xpi) | Root Folder |
@@ -652,7 +652,7 @@ Quick Folder Navigation
 | it.xpi | [it.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/it.xpi/browser/chrome/it/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ja.xpi]
+#### [ja.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ja.xpi) | Root Folder |
@@ -665,7 +665,7 @@ Quick Folder Navigation
 | ja.xpi | [ja.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ja.xpi/browser/chrome/ja/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[kk.xpi]
+#### [kk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/kk.xpi) | Root Folder |
@@ -678,7 +678,7 @@ Quick Folder Navigation
 | kk.xpi | [kk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/kk.xpi/browser/chrome/kk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[km.xpi]
+#### [km.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/km.xpi) | Root Folder |
@@ -691,7 +691,7 @@ Quick Folder Navigation
 | km.xpi | [km.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/km.xpi/browser/chrome/km/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[kn.xpi]
+#### [kn.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/kn.xpi) | Root Folder |
@@ -704,7 +704,7 @@ Quick Folder Navigation
 | kn.xpi | [kn.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/kn.xpi/browser/chrome/kn/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ko.xpi]
+#### [ko.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ko.xpi) | Root Folder |
@@ -717,7 +717,7 @@ Quick Folder Navigation
 | ko.xpi | [ko.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ko.xpi/browser/chrome/ko/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[lij.xpi]
+#### [lij.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lij.xpi) | Root Folder |
@@ -730,7 +730,7 @@ Quick Folder Navigation
 | lij.xpi | [lij.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lij.xpi/browser/chrome/lij/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[lt.xpi]
+#### [lt.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lt.xpi) | Root Folder |
@@ -743,7 +743,7 @@ Quick Folder Navigation
 | lt.xpi | [lt.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lt.xpi/browser/chrome/lt/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[lv.xpi]
+#### [lv.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lv.xpi) | Root Folder |
@@ -756,7 +756,7 @@ Quick Folder Navigation
 | lv.xpi | [lv.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/lv.xpi/browser/chrome/lv/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[mai.xpi]
+#### [mai.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mai.xpi) | Root Folder |
@@ -769,7 +769,7 @@ Quick Folder Navigation
 | mai.xpi | [mai.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mai.xpi/browser/chrome/mai/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[mk.xpi]
+#### [mk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mk.xpi) | Root Folder |
@@ -782,7 +782,7 @@ Quick Folder Navigation
 | mk.xpi | [mk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mk.xpi/browser/chrome/mk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ml.xpi]
+#### [ml.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ml.xpi) | Root Folder |
@@ -795,7 +795,7 @@ Quick Folder Navigation
 | ml.xpi | [ml.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ml.xpi/browser/chrome/ml/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[mr.xpi]
+#### [mr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mr.xpi) | Root Folder |
@@ -808,7 +808,7 @@ Quick Folder Navigation
 | mr.xpi | [mr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/mr.xpi/browser/chrome/mr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ms.xpi]
+#### [ms.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ms.xpi) | Root Folder |
@@ -821,7 +821,7 @@ Quick Folder Navigation
 | ms.xpi | [ms.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ms.xpi/browser/chrome/ms/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[nb-NO.xpi]
+#### [nb-NO.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nb-NO.xpi) | Root Folder |
@@ -834,7 +834,7 @@ Quick Folder Navigation
 | nb-NO.xpi | [nb-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nb-NO.xpi/browser/chrome/nb-NO/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[nl.xpi]
+#### [nl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nl.xpi) | Root Folder |
@@ -847,7 +847,7 @@ Quick Folder Navigation
 | nl.xpi | [nl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nl.xpi/browser/chrome/nl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[nn-NO.xpi]
+#### [nn-NO.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nn-NO.xpi) | Root Folder |
@@ -860,7 +860,7 @@ Quick Folder Navigation
 | nn-NO.xpi | [nn-NO.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/nn-NO.xpi/browser/chrome/nn-NO/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[or.xpi]
+#### [or.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/or.xpi) | Root Folder |
@@ -873,7 +873,7 @@ Quick Folder Navigation
 | or.xpi | [or.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/or.xpi/browser/chrome/or/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[pa-IN.xpi]
+#### [pa-IN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pa-IN.xpi) | Root Folder |
@@ -886,7 +886,7 @@ Quick Folder Navigation
 | pa-IN.xpi | [pa-IN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pa-IN.xpi/browser/chrome/pa-IN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[pl.xpi]
+#### [pl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pl.xpi) | Root Folder |
@@ -899,7 +899,7 @@ Quick Folder Navigation
 | pl.xpi | [pl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pl.xpi/browser/chrome/pl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[pt-BR.xpi]
+#### [pt-BR.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pt-BR.xpi) | Root Folder |
@@ -912,7 +912,7 @@ Quick Folder Navigation
 | pt-BR.xpi | [pt-BR.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pt-BR.xpi/browser/chrome/pt-BR/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[pt-PT.xpi]
+#### [pt-PT.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pt-PT.xpi) | Root Folder |
@@ -925,7 +925,7 @@ Quick Folder Navigation
 | pt-PT.xpi | [pt-PT.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/pt-PT.xpi/browser/chrome/pt-PT/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[readme.md]
+#### [readme.md]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/readme.md) | Root Folder |
@@ -938,7 +938,7 @@ Quick Folder Navigation
 | readme.md | [readme.md](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/readme.md/browser/chrome/readme/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[rm.xpi]
+#### [rm.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/rm.xpi) | Root Folder |
@@ -951,7 +951,7 @@ Quick Folder Navigation
 | rm.xpi | [rm.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/rm.xpi/browser/chrome/rm/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ro.xpi]
+#### [ro.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ro.xpi) | Root Folder |
@@ -964,7 +964,7 @@ Quick Folder Navigation
 | ro.xpi | [ro.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ro.xpi/browser/chrome/ro/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ru.xpi]
+#### [ru.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ru.xpi) | Root Folder |
@@ -977,7 +977,7 @@ Quick Folder Navigation
 | ru.xpi | [ru.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ru.xpi/browser/chrome/ru/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[si.xpi]
+#### [si.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/si.xpi) | Root Folder |
@@ -990,7 +990,7 @@ Quick Folder Navigation
 | si.xpi | [si.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/si.xpi/browser/chrome/si/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[sk.xpi]
+#### [sk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sk.xpi) | Root Folder |
@@ -1003,7 +1003,7 @@ Quick Folder Navigation
 | sk.xpi | [sk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sk.xpi/browser/chrome/sk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[sl.xpi]
+#### [sl.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sl.xpi) | Root Folder |
@@ -1016,7 +1016,7 @@ Quick Folder Navigation
 | sl.xpi | [sl.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sl.xpi/browser/chrome/sl/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[son.xpi]
+#### [son.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/son.xpi) | Root Folder |
@@ -1029,7 +1029,7 @@ Quick Folder Navigation
 | son.xpi | [son.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/son.xpi/browser/chrome/son/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[sq.xpi]
+#### [sq.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sq.xpi) | Root Folder |
@@ -1042,7 +1042,7 @@ Quick Folder Navigation
 | sq.xpi | [sq.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sq.xpi/browser/chrome/sq/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[sr.xpi]
+#### [sr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sr.xpi) | Root Folder |
@@ -1055,7 +1055,7 @@ Quick Folder Navigation
 | sr.xpi | [sr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sr.xpi/browser/chrome/sr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[sv-SE.xpi]
+#### [sv-SE.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sv-SE.xpi) | Root Folder |
@@ -1068,7 +1068,7 @@ Quick Folder Navigation
 | sv-SE.xpi | [sv-SE.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/sv-SE.xpi/browser/chrome/sv-SE/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[ta.xpi]
+#### [ta.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ta.xpi) | Root Folder |
@@ -1081,7 +1081,7 @@ Quick Folder Navigation
 | ta.xpi | [ta.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/ta.xpi/browser/chrome/ta/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[te.xpi]
+#### [te.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/te.xpi) | Root Folder |
@@ -1094,7 +1094,7 @@ Quick Folder Navigation
 | te.xpi | [te.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/te.xpi/browser/chrome/te/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[th.xpi]
+#### [th.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/th.xpi) | Root Folder |
@@ -1107,7 +1107,7 @@ Quick Folder Navigation
 | th.xpi | [th.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/th.xpi/browser/chrome/th/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[tr.xpi]
+#### [tr.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/tr.xpi) | Root Folder |
@@ -1120,7 +1120,7 @@ Quick Folder Navigation
 | tr.xpi | [tr.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/tr.xpi/browser/chrome/tr/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[uk.xpi]
+#### [uk.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/uk.xpi) | Root Folder |
@@ -1133,7 +1133,7 @@ Quick Folder Navigation
 | uk.xpi | [uk.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/uk.xpi/browser/chrome/uk/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[uz.xpi]
+#### [uz.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/uz.xpi) | Root Folder |
@@ -1146,7 +1146,7 @@ Quick Folder Navigation
 | uz.xpi | [uz.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/uz.xpi/browser/chrome/uz/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[vi.xpi]
+#### [vi.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/vi.xpi) | Root Folder |
@@ -1159,7 +1159,7 @@ Quick Folder Navigation
 | vi.xpi | [vi.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/vi.xpi/browser/chrome/vi/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[xh.xpi]
+#### [xh.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/xh.xpi) | Root Folder |
@@ -1172,7 +1172,7 @@ Quick Folder Navigation
 | xh.xpi | [xh.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/xh.xpi/browser/chrome/xh/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[zh-CN.xpi]
+#### [zh-CN.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/zh-CN.xpi) | Root Folder |
@@ -1185,7 +1185,7 @@ Quick Folder Navigation
 | zh-CN.xpi | [zh-CN.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/zh-CN.xpi/browser/chrome/zh-CN/locale/browser/preferences/preferences.properties) | preferences.properties |
 
 
-####[zh-TW.xpi]
+#### [zh-TW.xpi]
 | Pack Locale | URL  | File |
 |----------|:-------------:|------:|
 | zh-TW.xpi | [zh-TW.xpi](https://github.com/InternalError503/cyberfox-languagepacks/tree/master/releases/50.0.2/zh-TW.xpi) | Root Folder |
