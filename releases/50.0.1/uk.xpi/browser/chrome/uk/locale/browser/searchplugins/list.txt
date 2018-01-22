@@ -1,7 +1,0 @@
-google:hidden
-yandex
-meta-ua
-metamarket
-wikipedia-uk
-ddg
-google-nocodes

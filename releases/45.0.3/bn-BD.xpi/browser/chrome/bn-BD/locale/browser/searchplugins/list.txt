@@ -1,5 +1,0 @@
-bing
-google
-wikipedia-bn
-yahoo
-ddg

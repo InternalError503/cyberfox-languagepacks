@@ -1,7 +1,0 @@
-amazon-en-GB
-bing
-eBay
-google
-wikipedia-sq
-yahoo
-ddg

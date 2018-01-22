@@ -1,6 +1,0 @@
-google:hidden
-yandex-tr
-wikipedia-tr
-twitter
-ddg
-google-nocodes

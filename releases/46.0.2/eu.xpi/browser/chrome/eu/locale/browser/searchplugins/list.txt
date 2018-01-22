@@ -1,8 +1,0 @@
-amazon-en-GB
-bing
-eBay-es
-elebila
-google
-wikipedia-eu
-yahoo
-ddg

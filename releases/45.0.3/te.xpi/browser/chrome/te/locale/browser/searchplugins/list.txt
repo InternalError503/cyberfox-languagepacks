@@ -1,7 +1,0 @@
-amazondotcom
-eBay-in
-google
-wikipedia-te
-wiktionary-te
-yahoo-in
-ddg

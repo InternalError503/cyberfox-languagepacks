@@ -1,7 +1,0 @@
-amazondotcn
-baidu
-bing
-google:hidden
-wikipedia-zh-CN
-ddg
-google-nocodes

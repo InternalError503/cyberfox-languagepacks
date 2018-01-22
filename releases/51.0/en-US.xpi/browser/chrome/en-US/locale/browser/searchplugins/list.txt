@@ -1,9 +1,0 @@
-amazondotcom
-bing
-google:hidden
-twitter
-wikipedia
-yahoo
-yahoo-en-CA:hidden
-ddg
-google-nocodes

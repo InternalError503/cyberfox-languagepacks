@@ -1,6 +1,0 @@
-bing
-diccionariu-alla
-google
-wikipedia-ast
-yahoo-es
-ddg

@@ -1,7 +1,0 @@
-bing
-bookplus-fi
-google
-eBay-fi
-wikipedia-fi
-yahoo-fi
-ddg

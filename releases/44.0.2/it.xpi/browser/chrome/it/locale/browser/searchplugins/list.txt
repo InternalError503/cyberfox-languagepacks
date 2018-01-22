@@ -1,8 +1,0 @@
-amazon-it
-bing
-eBay-it
-google
-hoepli
-wikipedia-it
-yahoo-it
-ddg

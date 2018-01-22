@@ -1,8 +1,0 @@
-amazon-en-GB
-eBay-en-GB
-google
-tearma
-twitter
-wikipedia-ga-IE
-yahoo-en-GB
-ddg

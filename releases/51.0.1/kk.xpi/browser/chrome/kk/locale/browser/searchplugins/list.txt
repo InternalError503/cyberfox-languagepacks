@@ -1,8 +1,0 @@
-google:hidden
-kaz-kk
-wikipedia-kk
-flip
-twitter
-yandex
-ddg
-google-nocodes

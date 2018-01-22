@@ -1,6 +1,0 @@
-amazon-en-GB
-eBay-es
-google
-wikipedia-gl
-yahoo-es
-ddg

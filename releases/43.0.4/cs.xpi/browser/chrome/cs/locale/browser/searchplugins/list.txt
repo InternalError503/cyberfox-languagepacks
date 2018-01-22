@@ -1,7 +1,0 @@
-google
-heureka-cz
-mapy-cz
-seznam-cz
-slunecnice-cz
-wikipedia-cz
-ddg

@@ -1,7 +1,0 @@
-google
-yahoo
-salidzinilv
-wikipedia-lv
-sslv
-dict-enlv
-ddg

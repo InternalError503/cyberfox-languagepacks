@@ -1,8 +1,0 @@
-amazon-france
-bing
-cnrtl-tlfi-fr
-eBay-france
-google
-wikipedia-fr
-yahoo-france
-ddg
