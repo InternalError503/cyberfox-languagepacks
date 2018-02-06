@@ -100,3 +100,14 @@
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Decyzje">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcje wyłączone dla ochrony przed awariami">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Obejścia problemów">
+
+
+<!ENTITY aboutSupport.featuresTitle "Wbudowane rozszerzenia programu &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nazwa">
+<!ENTITY aboutSupport.featureVersion "Wersja">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Klucz Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Klucz usługi lokalizacji Mozilli">
+
+

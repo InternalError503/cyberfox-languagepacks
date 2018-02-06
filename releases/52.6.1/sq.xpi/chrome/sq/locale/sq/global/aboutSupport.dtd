@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Regjistër Vendimesh">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Veçori të Çaktivizuara nga Roja i Vithisjeve">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zgjidhje të përkohshme">
+
+
+<!ENTITY aboutSupport.featuresTitle "Veçori &brandShortName;-i">
+<!ENTITY aboutSupport.featureName "Emër">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
+
+

@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Runa'oj tz'ib'anïk">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Tzaqoj Chajïy q'ajon taq b'anikil">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tz'aqat taq soloj">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Taq rub'anikil">
+<!ENTITY aboutSupport.featureName "B'i'aj">
+<!ENTITY aboutSupport.featureVersion "Ruwäch">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google pitz'b'äl">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla k'ojlib'äl ewan rutzij samaj">
+
+

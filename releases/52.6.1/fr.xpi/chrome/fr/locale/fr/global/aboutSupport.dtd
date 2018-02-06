@@ -126,3 +126,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Journal des décisions">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fonctionnalités désactivées par la protection contre les plantages">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solutions de contournement">
+
+
+<!ENTITY aboutSupport.featuresTitle "Fonctionnalités de &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nom">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clé Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clé du service de localisation de Mozilla">
+
+

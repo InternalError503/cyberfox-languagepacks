@@ -118,3 +118,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Kerzhlevr divizoù">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Keweriusterioù diweredekaet gant ar gwarez e-enep d'ar sac'hadennoù">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tremen e-biou">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Features">
+<!ENTITY aboutSupport.featureName "Name">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Alc'hwez Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Alc'hwez Gwazerezh Lec'hiadur Mozilla">
+

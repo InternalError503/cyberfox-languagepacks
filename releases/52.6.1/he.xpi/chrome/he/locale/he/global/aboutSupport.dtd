@@ -120,3 +120,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "יומן החלטות">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "תכונות מנוטרלות של מגן הקריסות">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "מעקפים">
+
+
+<!ENTITY aboutSupport.featuresTitle "התכונות של &brandShortName;">
+<!ENTITY aboutSupport.featureName "שם">
+<!ENTITY aboutSupport.featureVersion "גרסה">
+<!ENTITY aboutSupport.featureId "מזהה">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "מפתח עבור שירותי Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "מפתח עבור שירותי המיקום של Mozilla">
+
+

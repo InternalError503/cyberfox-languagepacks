@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Loga nan co-dhùnaidhean">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Gleusan a chuir freiceadan nan tuislidhean à comas">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+
+<!ENTITY aboutSupport.featuresTitle "Gleusan &brandShortName;">
+<!ENTITY aboutSupport.featureName "Ainm">
+<!ENTITY aboutSupport.featureVersion "Tionndadh">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Iuchair seirbheis nan ionad aig Mozilla">
+
+

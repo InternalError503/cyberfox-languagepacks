@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "의사결정 로그">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "크래시 보호 비활성화 기능">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "회피방법">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; 주요 기능">
+<!ENTITY aboutSupport.featureName "이름">
+<!ENTITY aboutSupport.featureVersion "버전">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google 키">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla 위치 서비스 키">
+
+

@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Karar günlüğü">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çökme koruyucusu tarafından kapatılan özellikler">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Çözümler">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; özellikleri">
+<!ENTITY aboutSupport.featureName "Adı">
+<!ENTITY aboutSupport.featureVersion "Sürüm">
+<!ENTITY aboutSupport.featureId "Kimlik">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google anahtarı">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Konum Hizmeti anahtarı">
+
+

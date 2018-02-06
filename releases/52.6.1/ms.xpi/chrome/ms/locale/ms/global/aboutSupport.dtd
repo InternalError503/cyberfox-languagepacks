@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Ciri Crash Guard Dinyahdayakan">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+
+<!ENTITY aboutSupport.featuresTitle "Ciri &brandShortName; ">
+<!ENTITY aboutSupport.featureName "Nama">
+<!ENTITY aboutSupport.featureVersion "Versi">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
+

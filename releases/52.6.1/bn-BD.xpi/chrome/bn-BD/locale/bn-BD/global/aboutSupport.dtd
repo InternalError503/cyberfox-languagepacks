@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "সিদ্ধান্ত লগ">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard নিষ্ক্রিয় বৈশিষ্ট্য">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "কাজ করা হবে">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; বৈশিষ্ট্যসমূহ">
+<!ENTITY aboutSupport.featureName "নাম">
+<!ENTITY aboutSupport.featureVersion "সংস্করণ">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla লোকেশন সার্ভিস Key">
+
+

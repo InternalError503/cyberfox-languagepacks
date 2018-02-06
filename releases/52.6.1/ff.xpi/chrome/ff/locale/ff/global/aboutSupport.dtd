@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Logagol Pellitol">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fannuuji Palol Kooke Daaƴaaɗe">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Taarataare">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Fannuuji">
+<!ENTITY aboutSupport.featureName "Innde">
+<!ENTITY aboutSupport.featureVersion "Yamre">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Coktirgal Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Nokkuje Coktirɗe Mozilla">
+
+

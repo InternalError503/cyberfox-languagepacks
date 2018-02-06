@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "سجل القرارات">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "خصائص حامي التحطم المعطَّلة">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "الحلول الالتفافية">
+
+
+<!ENTITY aboutSupport.featuresTitle "مميزات &brandShortName;">
+<!ENTITY aboutSupport.featureName "الاسم">
+<!ENTITY aboutSupport.featureVersion "النسخة">
+<!ENTITY aboutSupport.featureId "المعرّف">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "مفتاح جوجل">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "مفتاح خدمة التموضع من موزيلا">
+
+

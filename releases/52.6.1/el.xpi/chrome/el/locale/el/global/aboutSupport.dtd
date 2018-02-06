@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Αρχείο καταγραφής αποφάσεων">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">
+
+
+<!ENTITY aboutSupport.featuresTitle "Χαρακτηριστικά του &brandShortName;">
+<!ENTITY aboutSupport.featureName "Όνομα">
+<!ENTITY aboutSupport.featureVersion "Έκδοση">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Κλειδί Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Κλειδί υπηρεσίας τοποθεσίας Mozilla">
+
+

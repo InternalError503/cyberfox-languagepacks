@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "ਫ਼ੈਸਲਾ ਲਾਗ">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚਰ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "ਜੁਗਾੜ">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; ਫ਼ੀਚਰ">
+<!ENTITY aboutSupport.featureName "ਨਾਂ">
+<!ENTITY aboutSupport.featureVersion "ਵਰਜ਼ਨ">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
+

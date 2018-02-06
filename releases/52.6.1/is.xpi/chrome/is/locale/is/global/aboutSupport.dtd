@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Atburðaskrá fyrir ákvarðanir">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Óvirkar stillingar fyrir hrunvara">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Leiðir framhjá villum">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; eiginleikar">
+<!ENTITY aboutSupport.featureName "Nafn">
+<!ENTITY aboutSupport.featureVersion "Útgáfa">
+<!ENTITY aboutSupport.featureId "Auðkenni">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google lykill">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service lykill">
+
+

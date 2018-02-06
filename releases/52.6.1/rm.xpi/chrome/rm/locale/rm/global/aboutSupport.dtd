@@ -125,3 +125,14 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Open Folder">
+
+
+<!ENTITY aboutSupport.featuresTitle "Funcziunalitads da &brandShortName;">
+<!ENTITY aboutSupport.featureName "Num">
+<!ENTITY aboutSupport.featureVersion "Versiun">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clav da Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clav dal servetsch da posiziun da Mozilla">
+
+

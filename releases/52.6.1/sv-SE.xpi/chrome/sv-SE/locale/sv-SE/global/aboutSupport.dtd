@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslutslogg">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Kraschskydd inaktiverade funktioner">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Lösningar">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Funktioner">
+<!ENTITY aboutSupport.featureName "Namn">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nyckel">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nyckel">
+
+

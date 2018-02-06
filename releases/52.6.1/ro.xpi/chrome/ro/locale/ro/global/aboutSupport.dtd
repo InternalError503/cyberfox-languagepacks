@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Jurnal de decizii">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcții dezactivate de Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternative">
+
+
+<!ENTITY aboutSupport.featuresTitle "Funcționalități &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nume">
+<!ENTITY aboutSupport.featureVersion "Versiune">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
+
+

@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Zakázať funkcie Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Možné riešenia">
+
+
+<!ENTITY aboutSupport.featuresTitle "Funkcie aplikácie &brandShortName;">
+<!ENTITY aboutSupport.featureName "Názov">
+<!ENTITY aboutSupport.featureVersion "Verzia">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kľúč Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kľúč Mozilla Location Service">
+
+

@@ -128,3 +128,13 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verify Integrity">
+
+
+<!ENTITY aboutSupport.featuresTitle "Jami me &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nying">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+

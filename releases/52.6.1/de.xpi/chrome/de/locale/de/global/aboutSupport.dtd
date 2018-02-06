@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Entscheidungsprotokoll">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Absturzverhinderer hat Funktionen deaktiviert">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Lösungen">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName;-Funktionen">
+<!ENTITY aboutSupport.featureName "Name">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-Schlüssel">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-Location-Service-Schlüssel">
+
+

@@ -119,3 +119,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle	"決定ログ">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle	"クラッシュガードが無効化した機能">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle	"回避策">
+
+
+<!ENTITY aboutSupport.featuresTitle		"&brandShortName; の機能">
+<!ENTITY aboutSupport.featureName		"名前">
+<!ENTITY aboutSupport.featureVersion		"バージョン">
+<!ENTITY aboutSupport.featureId			"ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle	"Google キー">
+<!ENTITY aboutSupport.appBasicsKeyMozilla	"Mozilla Location Service キー">
+
+

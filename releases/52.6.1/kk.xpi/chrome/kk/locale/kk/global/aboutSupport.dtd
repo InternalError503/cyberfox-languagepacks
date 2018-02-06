@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Шешімдер журналы">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Қулаудан қорғаныс сөндірген мүмкіндіктері">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Арнайы қолдау">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; мүмкіндіктері">
+<!ENTITY aboutSupport.featureName "Аты">
+<!ENTITY aboutSupport.featureVersion "Нұсқасы">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google кілті">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla орналасулар қызметінің кілті">
+
+

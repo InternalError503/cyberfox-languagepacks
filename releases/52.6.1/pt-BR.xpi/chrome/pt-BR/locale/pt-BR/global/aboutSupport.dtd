@@ -120,3 +120,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisões">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Proteção contra travamentos desabilitada">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluções alternativas">
+
+
+<!ENTITY aboutSupport.featuresTitle "Funcionalidades do &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nome">
+<!ENTITY aboutSupport.featureVersion "Versão">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Chave do Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Chave do serviço de localização da Mozilla">
+
+

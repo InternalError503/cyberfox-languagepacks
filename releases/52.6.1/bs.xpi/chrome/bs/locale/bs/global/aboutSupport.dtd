@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Zapisnik odluka">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogućene osobine čuvara rušenja">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobilazna rješenja">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; mogućnosti">
+<!ENTITY aboutSupport.featureName "Naziv">
+<!ENTITY aboutSupport.featureVersion "Verzija">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
+

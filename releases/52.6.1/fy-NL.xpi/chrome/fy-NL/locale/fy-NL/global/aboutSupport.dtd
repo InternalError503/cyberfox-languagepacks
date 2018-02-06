@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslútloch">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Utskeakele funksjes fan ûngelokbeskerming">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName;-funksjes">
+<!ENTITY aboutSupport.featureName "Namme">
+<!ENTITY aboutSupport.featureVersion "Ferzje">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-kaai">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-lokaasjetsjinstkaai">
+
+

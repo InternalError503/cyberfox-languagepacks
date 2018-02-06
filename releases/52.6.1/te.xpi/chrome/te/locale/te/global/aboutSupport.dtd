@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "డెసిషన్ లాగ్">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "క్రాష్ గార్డ్ యొక్క నిలిపివేసిన ఫీచర్స్">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "పరిష్కారాలను">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; విశేషాలు">
+<!ENTITY aboutSupport.featureName "పేరు">
+<!ENTITY aboutSupport.featureVersion "వెర్షను">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "గూగుల్ కీ">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "మొజిల్లా స్థాన సేవ కీ">
+
+

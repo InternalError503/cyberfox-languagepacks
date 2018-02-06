@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Журнал рішень">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Можливості, вимкнені захистом від збоїв">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Способи обходу">
+
+
+<!ENTITY aboutSupport.featuresTitle "Можливості &brandShortName;">
+<!ENTITY aboutSupport.featureName "Назва">
+<!ENTITY aboutSupport.featureVersion "Версія">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Служби визначення розташування від Mozilla">
+
+

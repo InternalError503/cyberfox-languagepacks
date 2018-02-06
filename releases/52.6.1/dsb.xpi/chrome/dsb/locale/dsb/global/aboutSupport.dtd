@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Protokol rozsuźenja">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcije, kótarež su se wót wowaleńskego stražnika znjemóžnili">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Nuzowe rozwězanja">
+
+
+<!ENTITY aboutSupport.featuresTitle "Funkcije &brandShortName;">
+<!ENTITY aboutSupport.featureName "Mě">
+<!ENTITY aboutSupport.featureVersion "Wersija">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kluc Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kluc słužby póstajenja stojnišća Mozilla">
+
+

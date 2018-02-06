@@ -118,3 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslutningslogg">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Krasjvern avslåtte funksjoner">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Midlertidige løsninger">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName;-funksjoner">
+<!ENTITY aboutSupport.featureName "Navn">
+<!ENTITY aboutSupport.featureVersion "Versjon">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nøkkel">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nøkkel">
+
+

@@ -122,3 +122,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslissingenlogboek">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Door crashbeveiliging uitgeschakelde functies">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+
+<!ENTITY aboutSupport.featuresTitle "&brandShortName;-functies">
+<!ENTITY aboutSupport.featureName "Naam">
+<!ENTITY aboutSupport.featureVersion "Versie">
+<!ENTITY aboutSupport.featureId "ID">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-sleutel">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-locatieservicesleutel">
+
+
