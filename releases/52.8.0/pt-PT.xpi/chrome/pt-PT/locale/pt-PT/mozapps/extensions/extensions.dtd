@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Falta alguma coisa? Alguns plugins deixaram de ser suportados pelo &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber mais.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Verificar se os plugins estão atualizados">
-<!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "À procura de personalizar o seu navegador?">
+<!ENTITY getThemes.learnMore                  "Escolha de entre milhares de temas.">
 

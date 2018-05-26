@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
 <!ENTITY pluginDeprecation.learnMore "Իմանալ ավելին:">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
-<!ENTITY info.plugincheck.tooltip               "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Ցանկանո՞ւմ եք անհատականացնել ձեր դիտարկիչը:">
+<!ENTITY getThemes.learnMore                  "Ընտրեք հազարավոր ձևավորումներից">
 

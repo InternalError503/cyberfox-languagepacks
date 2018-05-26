@@ -248,10 +248,9 @@
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Learn More.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Periksa apakah plugin Anda sudah dalam versi terbaru">
-<!ENTITY info.plugincheck.tooltip               "Periksa apakah plugin Anda sudah dalam versi terbaru">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Ingin mempersonalisasi peramban Anda?">
+<!ENTITY getThemes.learnMore                  "Pilih dari ribuan tema.">
 

@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Provjerite da li imate zadnju verziju plugina">
-<!ENTITY info.plugincheck.tooltip               "Provjerite da li imate zadnju verziju plugina">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Želite personalizovati vaš browser?">
+<!ENTITY getThemes.learnMore                  "Izaberite jednu od hiljada tema.">
 

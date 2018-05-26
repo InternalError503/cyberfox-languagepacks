@@ -250,10 +250,9 @@
 <!ENTITY pluginDeprecation.description "Puuttuuko jotain? &brandShortName; ei enää tue joitain liitännäisiä.">
 <!ENTITY pluginDeprecation.learnMore "Lue lisää.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Tarkista ovatko asennetut liitännäiset ajan tasalla">
-<!ENTITY info.plugincheck.tooltip               "Tarkista ovatko asennetut liitännäiset ajan tasalla">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Mietitkö, miten muokata selaimesta omanlaisesi?">
+<!ENTITY getThemes.learnMore                  "Valitse tuhansista teemoista.">
 

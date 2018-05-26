@@ -250,10 +250,9 @@
 <!ENTITY pluginDeprecation.description "Нешто недостаје? &brandShortName; више не подржава неке прикључке.">
 <!ENTITY pluginDeprecation.learnMore "Сазнајте више.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Проверите да ли су прикључци ажурни">
-<!ENTITY info.plugincheck.tooltip               "Проверите да ли су прикључци ажурни">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Желите да персонализујете ваш прегледач?">
+<!ENTITY getThemes.learnMore                  "Изаберите неку од хиљаду тема.">
 

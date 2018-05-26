@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Haya foo ga kuma? Sukari fooyaŋ ši kanbandi koyne &brandShortName; ga.">
 <!ENTITY pluginDeprecation.learnMore "Bay ka tonton.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Guna ka dii wala war sukarey n' ka taagandi">
-<!ENTITY info.plugincheck.tooltip               "Guna ka dii wala war sukarey n' ka taagandi">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Ceeci ka war ceecikaa hanse war boŋ se?">
+<!ENTITY getThemes.learnMore                  "Suuba leeti dumi ženberyaŋ ra.">
 

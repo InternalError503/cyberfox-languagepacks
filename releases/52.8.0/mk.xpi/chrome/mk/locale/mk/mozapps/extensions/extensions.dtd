@@ -248,10 +248,9 @@
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Learn More.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Проверете дали ги користите најновите приклучоци">
-<!ENTITY info.plugincheck.tooltip               "Проверете дали ги користите најновите приклучоци">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Looking to personalize your browser?">
+<!ENTITY getThemes.learnMore                  "Choose from thousands of themes.">
 

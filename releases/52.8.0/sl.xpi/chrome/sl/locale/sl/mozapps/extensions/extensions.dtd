@@ -249,10 +249,9 @@
 <!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Preverite, ali so vsi vaši vtičniki posodobljeni">
-<!ENTITY info.plugincheck.tooltip               "Preverite, ali so vsi vaši vtičniki posodobljeni">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Želite brskalnik prilagoditi svojemu okusu?">
+<!ENTITY getThemes.learnMore                  "Izbirajte med tisoči tem.">
 

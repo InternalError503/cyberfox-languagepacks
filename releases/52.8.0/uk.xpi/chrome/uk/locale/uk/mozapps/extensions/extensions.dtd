@@ -250,10 +250,9 @@
 <!ENTITY pluginDeprecation.description "Чогось не вистачає? Деякі плагіни більше не підтримуються в &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Докладніше.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші плагіни">
-<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші плагіни">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Хочете персоналізувати свій браузер?">
+<!ENTITY getThemes.learnMore                  "Обирайте серед тисяч тем.">
 

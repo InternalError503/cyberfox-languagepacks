@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Rud éigin ar iarraidh? Ní thacaíonn &brandShortName; le roinnt forlíontán a thuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Tuilleadh Eolais.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
-<!ENTITY info.plugincheck.tooltip               "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Ar mhaith leat cuma phearsanta a chur ar do bhrabhsálaí?">
+<!ENTITY getThemes.learnMore                  "Is leatsa an rogha as na mílte téama atá ar fáil.">
 

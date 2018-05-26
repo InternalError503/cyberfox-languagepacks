@@ -247,10 +247,9 @@
 <!ENTITY pluginDeprecation.description "Něco chybí? Některé zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Zjistit více.">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Zkontrolovat aktuálnost zásuvných modulů">
-<!ENTITY info.plugincheck.tooltip               "Zkontroluje, zda jsou zásuvné moduly aktuální">
-
 <!ENTITY pluginDisabled.description "Missing something? Plugins are disabled by default in &brandShortName;.">
 <!ENTITY pluginDisabled.learnMore "Learn More.">
+
+<!ENTITY getThemes.description                "Chcete si přizpůsobit svůj prohlížeč?">
+<!ENTITY getThemes.learnMore                  "Vyberte si některý z tisíce vzhledů.">
 
